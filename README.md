@@ -1,9 +1,12 @@
 # Facets of my Health Plan
 
 - High Quality Food
-- Low Carbohydrates
+- [Keto (Low Carbohydrates)](https://www.dietdoctor.com/low-carb/keto/u7)
 - Intermittent Fasting
 
+
+![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide.jpg?auto=compress%2Cformat&w=800&h=392&fit=crop)
+![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide-avoid2.jpg?auto=compress%2Cformat&w=800&h=401&fit=crop)
 
 
 # Tips
@@ -58,8 +61,10 @@ To determine your daily protein need, multiply you LBM by the appropriate activi
 - Avoid anything processed
 - Avoid anything cooked in bad oils
 - Avoid nitrates
-- Low oxalate vegetables
-- Lots of water
+- Avoid trans fats
+- Avoid all added sugar (dark chocolate is the exception)
+- Minimize consumption of high oxalate vegetables
+- Consume required water daily
 
 
 
@@ -77,6 +82,17 @@ To determine your daily protein need, multiply you LBM by the appropriate activi
 - I rarely drink alcohol, and any other form of liquid consumption
   that would result in consumption of calories (eg sports drinks,
   fruit drinks, et al)
+
+
+
+## Sweetener
+
+The only sweetener I use is Stevia but it's relatively rare.
+
+
+## Spices
+
+I use quite a few spices including garlic, tumeric, ...
 
 
 
@@ -137,8 +153,15 @@ To determine your daily protein need, multiply you LBM by the appropriate activi
 
   - I have used cabbage from time to time.
 
+- Avocados (really a fruit) are a key daily staple in my diet.
+
 - My staples are mushrooms, radish, broccoli, cauliflower, asparagus,
   brussel sprouts, green beans, and serrano peppers.
+
+- On occasion I'll have onions or carrots but they have a higher carb
+  content.
+
+![](https://i.dietdoctor.com/wp-content/uploads/2019/02/Keto-vegetables-AG.jpg?auto=compress%2Cformat&w=1200&h=541&fit=crop)
 
 
 
@@ -148,8 +171,16 @@ Generally speaking, due to their high carb content and the health
 issues associated with fructose, I simply have stopped consuming
 fruits altogether.
 
-Avocados are the sole exception, and they are a staple in my daily
-diet.
+If I do consume fruit, its one of the berries (strawberry, blackberry,
+rasberry, or blueberry).
+
+I will consume lemons in my water around mealtime on occasion as their
+acidity helps break down the calcium oxalates and aids in speeding up
+digestion which offsets their carb content.
+
+![](https://i.dietdoctor.com/wp-content/uploads/2019/01/Keto-berries.jpg?auto=compress%2Cformat&w=1200&h=423&fit=crop)
+
+![](https://i.dietdoctor.com/wp-content/uploads/2019/01/Keto-Fruits-1.jpg?auto=compress%2Cformat&w=1200&h=699&fit=crop)
 
 
 
@@ -157,16 +188,22 @@ diet.
 
 I have stopped consuming milk due to its high carb content (lactose).
 
-I consume a lot of cheese.
+I consume a lot of cheese.  I cook in ghee or butter occasionally.
+
+![](https://i.dietdoctor.com/wp-content/uploads/2020/10/Dairy_desktop.jpg?auto=compress%2Cformat&w=1200&h=583&fit=crop)
 
 
 
 ## Nuts
 
-I consume Pecans, Walnuts, and Macadamia nuts.  Occasionally I'll
-consume the higher carbohydrate nuts like peanuts and almonds, but in
-very small quantities.  I avoid all the other high carbohydrate nuts
-(like pistaccio and cashew).
+- I consume Pecans, Walnuts, and Macadamia nuts (I avoid Brazil as I
+  think I'm allergic).  These nuts help when I need to add some fat
+  content to roudn out my meal.
+
+- Occasionally (but rarely now) I'll consume the higher carbohydrate
+  nuts like peanuts and almonds, but in very small quantities.  I
+  avoid all the other high carbohydrate nuts (like pistaccio and
+  cashew).
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/01/Keto%E2%80%93Nuts.jpg?auto=compress%2Cformat&w=1200&h=602&fit=crop)
 
@@ -177,6 +214,10 @@ very small quantities.  I avoid all the other high carbohydrate nuts
 I consume low carbohydrate seeds as a mechanism to maintain minimum
 daily fiber requirements and as a source of vitamins and minerals
 including chia seeds, flax seeds, and pumpkin seeds.
+
+I also add stone ground mustard to my salads to increase the spice and
+my burgers.
+
 
 
 ## Breads
