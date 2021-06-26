@@ -82,3 +82,23 @@ function potassium(sex, age) {
 function potassium_max(sex, age) {
     return 'None';
 }
+
+function vitamin_c(sex, age) {
+    if (age <= 0.5) return 40;
+    if (age <= 1) return 50;
+    if (age < 4) return 15;
+    if (age < 9) return 25;
+    if (age < 14) return 45;
+    if (age < 19 && sex === 'Male') return 75;
+    if (age < 19 && sex === 'Female') return 65;
+    if (sex === 'Male') return 90;
+    if (sex === 'Female') return 75;
+}
+
+function vitamin_c_max(sex, age) {
+    if (age < 4) return 400;
+    if (age < 9) return 650;
+    if (age < 14) return 1200;
+    if (age < 19) return 1800;
+    return 2000;
+}

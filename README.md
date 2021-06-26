@@ -11,21 +11,28 @@ Key Facets of my Health Plan:
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide-avoid2.jpg?auto=compress%2Cformat&w=800&h=401&fit=crop)
 
 Some background and reference material to get started on the science behind these health facets:
-* [#59 - Jason Fung, M.D.: Fasting as a potent antidote to obesity, insulin resistance, type 2 diabetes, and the many symptoms of metabolic illness - Peter Attia](https://peterattiamd.com/jasonfung/)
-* [Amazon.com: The Obesity Code: Unlocking the Secrets of Weight Loss (Audible Audio Edition): Dr. Jason Fung, Brian Nishii, Audible Studios: Audible Audiobooks](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
-* [Amazon.com: Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease - and How to Fight It (Audible Audio Edition): Benjamin Bikman PhD, George Newbern, Blackstone Publishing: Audible Audiobooks](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
+
+Other interesting podcasts on health/nutrition/longevity:
+* [David Sinclair on Joe Rogan on Fasting](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)
+* [David Sinclair on Joe Rogan](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)
+* [David Sinclair](https://www.youtube.com/watch?v=5DtWqzalEnc&t=316s)
+
+Good books on health/nutrition/longevity:
+* [The Obesity Code: Dr. Jason Fung](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+* [Why We Get Sick: Benjamin Bikman PhD](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
+* [Lifespan: David Sinclair PhD](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
 
 
 
 # Tools
 
 Here's a list of items I find helpful:
-* [Withings Body+ - Digital Wi-Fi Smart Scale with Automatic Smartphone App Sync, Full Body Composition Including, Body Fat, BMI, Water Percentage, Muscle & Bone Mass, with Pregnancy Tracker & Baby Mode: Health & Personal Care](https://www.amazon.com/Withings-Nokia-Body-Composition-smartphone/dp/B071XW4C5Q/ref=sr_1_1_sspa?dchild=1&keywords=withings+scale&qid=1624559620&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOU5JVkFSOTZKUks1JmVuY3J5cHRlZElkPUEwMjQzNDg0QVlQTDFINUZDVjNEJmVuY3J5cHRlZEFkSWQ9QTA5NzM2NDNSNkRYMkVVWjBKQ1Qmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl): Key is that it accurately captures body fat % which is necessary to determine macro consumption goals
-* [Nicewell Food Scale, 22lb Digital Kitchen Scale Weight Grams and oz for Cooking Baking, 1g/0.1oz Precise Graduation, Stainless Steel and Tempered Glass: Kitchen & Dining](https://www.amazon.com/gp/product/B07S6F6LHQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1): Use it daily to prepare meal
-* [OXO Good Grips 3-in-1 Avocado Slicer - Green: Kitchen & Dining](https://www.amazon.com/OXO-Good-Grips-Avocado-Slicer/dp/B0088LR592/ref=sr_1_5_0o_fs?crid=2Y5LBORVFUJ7D&dchild=1&keywords=avocado+tool&qid=1624559529&sprefix=avocado+%2Caps%2C236&sr=8-5): Incredibly useful for scooping avocados
-* [Timoo Coffee Measuring Scoop 1 Tablespoon long handle Stainless Steel spoon for Coffee, Milk Powder, Fruit Powder, Set of 5: Kitchen & Dining](https://www.amazon.com/Timoo-Coffee-Measuring-Tablespoon-Stainless/dp/B07HD2TZ2M/ref=sr_1_6?dchild=1&keywords=tablespoons&qid=1624559569&sr=8-6)
-* [Fullstar Vegetable Chopper - Spiralizer Vegetable Slicer - Onion Chopper with Container - Pro Food Chopper - Black Slicer Dicer Cutter - 4 Blades: Kitchen & Dining](https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0764HS4SL/ref=sr_1_6?dchild=1&keywords=dicer&qid=1624559592&sr=8-6)
-* [Twist Top Food Deli Containers Screw And Seal Lid 16 Oz Stackable Reusable Plastic Storage Container 12 Pack.: Kitchen & Dining](https://www.amazon.com/gp/product/B077G76C6J/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1): Useful for prepping salad ingredients, et al
+* [Withings Body+ Scale](https://www.amazon.com/Withings-Nokia-Body-Composition-smartphone/dp/B071XW4C5Q/ref=sr_1_1_sspa?dchild=1&keywords=withings+scale&qid=1624559620&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOU5JVkFSOTZKUks1JmVuY3J5cHRlZElkPUEwMjQzNDg0QVlQTDFINUZDVjNEJmVuY3J5cHRlZEFkSWQ9QTA5NzM2NDNSNkRYMkVVWjBKQ1Qmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl): Key is that it accurately captures body fat % which is necessary to determine macro consumption goals
+* [Nicewell Food Scale](https://www.amazon.com/gp/product/B07S6F6LHQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1): Use it daily to prepare meal
+* [OXO Good Grips 3-in-1 Avocado Slicer](https://www.amazon.com/OXO-Good-Grips-Avocado-Slicer/dp/B0088LR592/ref=sr_1_5_0o_fs?crid=2Y5LBORVFUJ7D&dchild=1&keywords=avocado+tool&qid=1624559529&sprefix=avocado+%2Caps%2C236&sr=8-5): Incredibly useful for scooping avocados
+* [Timoo Coffee Measuring Scoop 1 Tablespoon, Set of 5: Kitchen & Dining](https://www.amazon.com/Timoo-Coffee-Measuring-Tablespoon-Stainless/dp/B07HD2TZ2M/ref=sr_1_6?dchild=1&keywords=tablespoons&qid=1624559569&sr=8-6)
+* [Fullstar Vegetable Chopper](https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0764HS4SL/ref=sr_1_6?dchild=1&keywords=dicer&qid=1624559592&sr=8-6)
+* [Twist Top Food Deli Containers](https://www.amazon.com/gp/product/B077G76C6J/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1): Useful for prepping salad ingredients, et al
 * [Fish Oil](https://www.amazon.com/dp/B001LF39S8/ref=twister_B0047VWYSO?_encoding=UTF8&psc=1): What I've started using to supplement Omega-3s
 * [SlowMag](https://www.amazon.com/SlowMag-Magnesium-Chloride-Calcium-Supplement/dp/B07CJX4M8K/ref=sxts_sxwds-bia-wc-rsf1_0?cv_ct_cx=slow+mag&dchild=1&keywords=slowmag&pd_rd_i=B07CJX4M8K&pd_rd_r=458fbfae-ef08-44fd-bd0f-86d9d433db3e&pd_rd_w=U8kBr&pd_rd_wg=rA9RM&pf_rd_p=5168df84-062d-4bdf-8a6e-2680813bd42f&pf_rd_r=VK1YWSAKY34QDA930PRP&psc=1&qid=1615496082&s=hpc&sr=1-1-7bf78e84-8ef2-4f13-9926-bee5153e81cb): Magnesium supplement
 
@@ -91,6 +98,7 @@ I use quite a few spices including garlic, tumeric, ...
 - I add extra virgin olive oil (typically organic) to my salads.
 - I cook eggs in organic coconut oil.
 - I cook most everything else in avocado oil.
+- On occasion I'll book in butter or ghee (primarily ghee)
 
 
 
@@ -101,7 +109,7 @@ I use quite a few spices including garlic, tumeric, ...
   potential mercury content issues, I eat Tuna less than once per
   month.
 
-- I source my chicken, beef, pork chops, salmon, and cod from `
+- I source my chicken, beef, pork chops, salmon, and cod from
   butcher box.  If you're interested in trying butcher box we can
   provide a referral.
 
@@ -123,7 +131,7 @@ I use quite a few spices including garlic, tumeric, ...
   - All sourced from Wild Planet
 
 - Eggs
-  - Organic Pasture Raised typically sourced from Vital Farms
+  - Organic Pasture Raised typically sourced from [Vital Farms](https://www.cornucopia.org/scorecard/eggs/vital-farms/)
 
 
 
@@ -143,7 +151,7 @@ I use quite a few spices including garlic, tumeric, ...
 
   - I have used cabbage from time to time.
 
-- Avocados (really a fruit) are a key daily staple in my diet.
+- Avocados (they are in reality a fruit) are a key daily staple in my diet.
 
 - My staples are mushrooms, radish, broccoli, cauliflower, asparagus,
   brussel sprouts, green beans, and serrano peppers.
@@ -187,8 +195,7 @@ I consume a lot of cheese.  I cook in ghee or butter occasionally.
 ## Nuts
 
 - I consume Pecans, Walnuts, and Macadamia nuts (I avoid Brazil as I
-  think I'm allergic).  These nuts help when I need to add some fat
-  content to roudn out my meal.
+  think I'm allergic).
 
 - Occasionally (but rarely now) I'll consume the higher carbohydrate
   nuts like peanuts and almonds, but in very small quantities.  I
