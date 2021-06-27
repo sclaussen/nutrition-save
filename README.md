@@ -34,9 +34,9 @@ Other useful healh/nutrition linkes:
 * [Making sense of the Food Insulin Index](https://optimisingnutrition.com/food-insulin-index-2/)
 
 Personalities:
-* [Peter Attia - The Drive](https://peterattiamd.com) [(youtube)](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
-* [Jason Fung - The Fasting Method](https://thefastingmethod.com) [(youtube)](https://www.youtube.com/user/drjasonfung)
-* [Rhonda Patrick - Found My Fitness](https://www.foundmyfitness.com) [(youtube]](https://www.youtube.com/user/FoundMyFitness)
+* [Peter Attia - The Drive](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
+* [Jason Fung - The Fasting Method](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung)
+* [Rhonda Patrick - Found My Fitness](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/user/FoundMyFitness)
 * [Tom Bilyeu - Impact Theory](https://impacttheory.com)
 * [Mark Sisson - Mark's Daily Apple](https://www.marksdailyapple.com)
 
