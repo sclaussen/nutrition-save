@@ -17,28 +17,28 @@ Key Facets of my Health Plan:
 Here's some of the key sources of the cornerstones of my health plan:
 
 Podcasts on health/nutrition/longevity:
-* [Dr. David Sinclair (Joe Rogan)](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)
-  * [Dr. David Sinclair on Fasting (Joe Rogan)](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)
-* [Dr. Horvath on epigenetic aging to predict healthspan (Rhonda Patrick)](https://www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
-* [David Sinclair](https://www.youtube.com/watch?v=5DtWqzalEnc&t=316s)
+* [Dr. David Sinclair (Joe Rogan)](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)  --[fasting clip](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)--
+* [Dr. Horvath (Rhonda Patrick)](https://www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
+* [Dr. David Sinclar (Rhonda Patrick)](https://www.youtube.com/watch?v=5DtWqzalEnc)
+* [Dr. Jason Fun (Tom Bilyeu)](https://www.youtube.com/watch?v=XhPwjmbkgDs)
 
 Books on health/nutrition/longevity:
-* [The Obesity Code: Dr. Jason Fung](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
-* [Why We Get Sick: Benjamin Bikman PhD](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
-* [Lifespan: David Sinclair PhD](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
+* [The Obesity Code (Dr. Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+* [Why We Get Sick (Dr. Benjamin Bikman)](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
+* [Lifespan (Dr. David Sinclair)](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
+
+Personalities:
+* [Dr. Peter Attia - The Drive](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
+* [Dr. Jason Fung - The Fasting Method](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung)
+* [Dr. Rhonda Patrick - Found My Fitness](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/user/FoundMyFitness)
+* [Tom Bilyeu - Impact Theory](https://impacttheory.com)
+* [Mark Sisson - Mark's Daily Apple](https://www.marksdailyapple.com)
 
 Other useful healh/nutrition linkes:
 * [EWG's 2021 Shopper's Guide to Pesticides in Produce | Dirty Dozen](https://www.ewg.org/foodnews/dirty-dozen.php)
 * [Cornucopia Institute Scorecards](https://www.cornucopia.org/scorecards/)
 * [Glycemic index for 60+ foods](https://www.health.harvard.edu/diseases-and-conditions/glycemic-index-and-glycemic-load-for-100-foods)
 * [Making sense of the Food Insulin Index](https://optimisingnutrition.com/food-insulin-index-2/)
-
-Personalities:
-* [Peter Attia - The Drive](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
-* [Jason Fung - The Fasting Method](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung)
-* [Rhonda Patrick - Found My Fitness](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/user/FoundMyFitness)
-* [Tom Bilyeu - Impact Theory](https://impacttheory.com)
-* [Mark Sisson - Mark's Daily Apple](https://www.marksdailyapple.com)
 
 
 
@@ -357,39 +357,37 @@ My meal prep process is pretty straightforward:
 - Separately I cook the meat and/or other vegetables.  At times I add
   those directly to the salad.
 
-Here is a very concrete actual meal prep example (2100 calories, 164g
-fat, 43g fiber, 19.5g netcarb, 110g protein):
+Here is a very concrete actual meal prep example (2048 calories, 163g
+fat, 28.5g fiber, 19.5g netcarb, 112g protein):
 
 - Salad
   - Put a 5qt bowl on the scale, tare it
   - Add 145g of baby argula, tare
   - Add 100g of collard greens, tare
   - Add 100g of romaine, tare
-  - Add 75g of white mushrooms, tare
-  - Add 100g of radish, tare
-  - Add 324g of avocado (unusually large amount, typically ~140g)
-  - Add 4tbsp of extra virgin olive oil
-  - Add 0.5tbsp of fish oil
-- Vegetables
+  - Add 140g of avocado (~ medium avocado)
+  - Add 75g of diced white mushrooms, tare
+  - Add 75g of diced radish, tare
+  - Cook 75g of zucchini, add, tare
+  - Add one can of drained mackerel
+  - Add 5tbsp of extra virgin olive oil
+  - Add 3tbsp of stone ground mustard to salad
+  - Add garlic powder spice
   - Put a small boiling pan on the scale, tare it
-  - Add 100g broccoli, tare
+  - Add 75g broccoli, tare
   - Add 75g cauliflower
   - Bring the pan to a boil, strain water
   - Dump broccoli and cauliflower into the salad
+  - Mix, toss, and serve!
 - Omelette
-  - Add 1tbsp coconut oil to an omelette pan, melt on low/medium
-  - Add 5 diced serrano peppers, sautee lightly
-  - Add 6 eggs, cook omelette over low or medium
+  - Add 1tbsp coconut oil to an omelette pan, melt it on low/medium
+  - Add 4 diced serrano peppers, sautee lightly
+  - Add 5 eggs, cook omelette over low or medium
   - Add 3tbsp salsa
-  - Dump the omelette into the salad bowl
+  - Add 1tbsp of green pepper sauce
 - Meat
-  - Broil 230g of chicken
-  - Cut cooked chicken
-  - Dump the chicken into the salad bowl
-- Spice
-  - Add 3tbsp of stone ground mustard to salad
-  - Add garlic spiece to salad
-Mix, toss, and serve!
+  - Broil 187g of trip tip steak
+
 
 
 

@@ -1,3 +1,4 @@
+// IU
 function vitamin_d(sex, age) {
     if (age < 1) {
         return 400;
@@ -9,6 +10,7 @@ function vitamin_d(sex, age) {
     return 800;
 }
 
+// IU
 function vitamin_d_max(sex, age) {
     if (age <= 0.5) {
         return 1000;
@@ -26,6 +28,7 @@ function vitamin_d_max(sex, age) {
     return 4000;
 }
 
+// mg
 function calcium(sex, age) {
     if (age <= 0.5) return 200;
     if (age <= 1) return 260;
@@ -34,9 +37,12 @@ function calcium(sex, age) {
     if (age < 14) return 1300;
     if (age < 19) return 1300;
     if (age < 51) return 1000;
-    if (age < 71) return 1000;
+    if (age < 71 && sex === 'Male') return 1000;
+    if (age < 71 && sex === 'Women') return 1200;
     return 1200;
 }
+
+// mg
 function calcium_max(sex, age) {
     if (age <= 0.5) return 1000;
     if (age <= 1) return 1500;
