@@ -17,10 +17,12 @@ Key Facets of my Health Plan:
 Here's some of the key sources of the cornerstones of my health plan:
 
 Podcasts on health/nutrition/longevity:
+* [Dr. Jason Fung (Tom Bilyeu)](https://www.youtube.com/watch?v=XhPwjmbkgDs)
 * [Dr. David Sinclair (Joe Rogan)](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)  --[fasting clip](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)--
-* [Dr. Horvath (Rhonda Patrick)](https://www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
 * [Dr. David Sinclar (Rhonda Patrick)](https://www.youtube.com/watch?v=5DtWqzalEnc)
-* [Dr. Jason Fun (Tom Bilyeu)](https://www.youtube.com/watch?v=XhPwjmbkgDs)
+* [Dr. Richard Isaacson (Peter Attia)](https://peterattiamd.com/richardisaacson): Alzheimers
+* [Dr. Richard Isaacson and Lauren Miller-Rogen (Peter Attia)](https://peterattiamd.com/laurenmillerrogen-richardisaacson): Alzheimers
+* [Dr. Horvath (Rhonda Patrick)](https://www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
 
 Books on health/nutrition/longevity:
 * [The Obesity Code (Dr. Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
@@ -357,8 +359,8 @@ My meal prep process is pretty straightforward:
 - Separately I cook the meat and/or other vegetables.  At times I add
   those directly to the salad.
 
-Here is a very concrete actual meal prep example (2048 calories, 163g
-fat, 28.5g fiber, 19.5g netcarb, 112g protein):
+Here is a very concrete actual meal prep example (2171 calories, 164g
+fat, 30g fiber, 20g netcarb, 111g protein):
 
 - Salad
   - Put a 5qt bowl on the scale, tare it
@@ -387,7 +389,6 @@ fat, 28.5g fiber, 19.5g netcarb, 112g protein):
   - Add 1tbsp of green pepper sauce
 - Meat
   - Broil 187g of trip tip steak
-
 
 
 
