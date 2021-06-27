@@ -17,8 +17,9 @@ Key Facets of my Health Plan:
 Here's some of the key sources of the cornerstones of my health plan:
 
 Podcasts on health/nutrition/longevity:
-* [David Sinclair on Joe Rogan on Fasting](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)
-* [David Sinclair on Joe Rogan](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)
+* [Dr. David Sinclair (Joe Rogan)](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)
+  * [Dr. David Sinclair on Fasting (Joe Rogan)](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)
+* [Dr. Horvath on epigenetic aging to predict healthspan (Rhonda Patrick)](https://www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
 * [David Sinclair](https://www.youtube.com/watch?v=5DtWqzalEnc&t=316s)
 
 Books on health/nutrition/longevity:
@@ -29,6 +30,15 @@ Books on health/nutrition/longevity:
 Other useful healh/nutrition linkes:
 * [EWG's 2021 Shopper's Guide to Pesticides in Produce | Dirty Dozen](https://www.ewg.org/foodnews/dirty-dozen.php)
 * [Cornucopia Institute Scorecards](https://www.cornucopia.org/scorecards/)
+* [Glycemic index for 60+ foods](https://www.health.harvard.edu/diseases-and-conditions/glycemic-index-and-glycemic-load-for-100-foods)
+* [Making sense of the Food Insulin Index](https://optimisingnutrition.com/food-insulin-index-2/)
+
+Personalities:
+* [Peter Attia - The Drive](https://peterattiamd.com) [youtube](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
+* [Jason Fung - The Fasting Method](https://thefastingmethod.com)
+* [Rhonda Patrick - Found My Fitness](https://www.foundmyfitness.com)
+* [Tom Bilyeu - Impact Theory](https://impacttheory.com)
+* [Mark Sisson - Mark's Daily Apple](https://www.marksdailyapple.com)
 
 
 
@@ -84,7 +94,7 @@ Here's a list of items I find helpful:
 - I rarely drink alcohol
 - I drink black coffee atleast once a day, often multiple times (zero calories)
 - I drink green or black tea frequently (zero calories)
-- I consume a lot of water (and I'll add lemon to help with the breakdown of oxalates if it's around my meal time)
+- I consume a lot of water
 - I try hard to hit my minimum daily water requirement daily
 
 
