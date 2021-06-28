@@ -7,9 +7,6 @@ Key Facets of my Health Plan:
 - Exercise
 - Sleep
 
-![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide.jpg?auto=compress%2Cformat&w=800&h=392&fit=crop)
-![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide-avoid2.jpg?auto=compress%2Cformat&w=800&h=401&fit=crop)
-
 
 
 # Reference
@@ -23,6 +20,7 @@ Podcasts on health/nutrition/longevity:
 * [Dr. Richard Isaacson (Peter Attia)](https://peterattiamd.com/richardisaacson): Alzheimers
 * [Dr. Richard Isaacson and Lauren Miller-Rogen (Peter Attia)](https://peterattiamd.com/laurenmillerrogen-richardisaacson): Alzheimers
 * [Dr. Horvath (Rhonda Patrick)](https://www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
+* [Gary Taubes (Peter Attia)](https://www.youtube.com/watch?v=8js28V95flc)
 
 Books on health/nutrition/longevity:
 * [The Obesity Code (Dr. Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
@@ -47,7 +45,7 @@ Other useful healh/nutrition linkes:
 # Tools
 
 Here's a list of items I find helpful:
-* [Withings Body+ Scale](https://www.amazon.com/Withings-Nokia-Body-Composition-smartphone/dp/B071XW4C5Q/ref=sr_1_1_sspa?dchild=1&keywords=withings+scale&qid=1624559620&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOU5JVkFSOTZKUks1JmVuY3J5cHRlZElkPUEwMjQzNDg0QVlQTDFINUZDVjNEJmVuY3J5cHRlZEFkSWQ9QTA5NzM2NDNSNkRYMkVVWjBKQ1Qmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl): Key is that it accurately captures body fat % which is necessary to determine macro consumption goals
+* [Withings Body+ Scale](https://www.amazon.com/Withings-Nokia-Body-Composition-smartphone/dp/B071XW4C5Q/ref=sr_1_1_sspa?dchild=1&keywords=withings+scale&qid=1624559620&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOU5JVkFSOTZKUks1JmVuY3J5cHRlZElkPUEwMjQzNDg0QVlQTDFINUZDVjNEJmVuY3J5cHRlZEFkSWQ9QTA5NzM2NDNSNkRYMkVVWjBKQ1Qmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl): This scale captures body fat % which is necessary to determine my macro consumption goals
 * [Nicewell Food Scale](https://www.amazon.com/gp/product/B07S6F6LHQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1): Use it daily to prepare my meal
 * [OXO Good Grips 3-in-1 Avocado Slicer](https://www.amazon.com/OXO-Good-Grips-Avocado-Slicer/dp/B0088LR592/ref=sr_1_5_0o_fs?crid=2Y5LBORVFUJ7D&dchild=1&keywords=avocado+tool&qid=1624559529&sprefix=avocado+%2Caps%2C236&sr=8-5): Incredibly useful for scooping avocados
 * [Timoo Coffee Measuring Scoop 1 Tablespoon, Set of 5: Kitchen & Dining](https://www.amazon.com/Timoo-Coffee-Measuring-Tablespoon-Stainless/dp/B07HD2TZ2M/ref=sr_1_6?dchild=1&keywords=tablespoons&qid=1624559569&sr=8-6)
@@ -87,15 +85,22 @@ Here's a list of items I find helpful:
 
 # Food Categories
 
+The following is a summary of the changes I made by food category.
+The changes are the result of focusing on higher quality, healthy,
+non-processed, foods, that have a low carb footprint.
+
+![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide.jpg?auto=compress%2Cformat&w=800&h=392&fit=crop)
+![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide-avoid2.jpg?auto=compress%2Cformat&w=800&h=401&fit=crop)
+
 
 
 ## Liquids
 
 - I refrain from consuming any calories in liquid form (eg sports drinks,
-  fruit drinks, et al)
+  orange juice, milk, smoothy, et al)
 - I rarely drink alcohol
 - I drink black coffee atleast once a day, often multiple times (zero calories)
-- I drink green or black tea frequently (zero calories)
+- I drink hot green tea or black ice tea frequently (zero calories)
 - I consume a lot of water
 - I try hard to hit my minimum daily water requirement daily
 
@@ -104,33 +109,34 @@ Here's a list of items I find helpful:
 ## Sweetener
 
 - The only sweetener I use is Stevia but it's relatively rare.
+- I avoid everything other than dark chocolate that has any added sugar.
 
 
 
 ## Spices
 
-I use quite a few spices including garlic, tumeric, peppers, garam
-masala, ...  That said, there are some spices to be wary of as they
-contain carbs.
+- I use quite a few spices including garlic, tumeric, peppers, garam
+  masala, ...  That said, I'm careful not to consume spices that
+  contain carbs.
 
 
 
 ## Oils
 
 - I add extra virgin olive oil (typically organic) to my salads.
-- I cook eggs in organic coconut oil.
+- I cook eggs in organic coconut oil (mcts).
 - I cook most everything else in avocado oil (high smoke point).
 - On occasion I'll cook in butter or ghee (primarily ghee).
-- I refrain from using "bad oils".
 
 
 
 ## Meats
 
 - I primarily consume chicken, beef, pork chops, salmon, cod, eggs,
-  sardines, mackerel, and occasionally tuna, bacon, lamb, venison, and
-  other game meat.  Due to potential mercury content issues even in
-  good tuna, I eat Tuna less than once per month (albacore).
+  sardines, mackerel, and occasionally tuna, bacon, lamb, and venison.
+
+- I avoid all high mercury content fish, and limit tuna consumption to
+  once per month max.
 
 - I source my chicken, beef, pork chops, salmon, and cod from
   butcher box.  If you're interested in trying butcher box I can
@@ -156,7 +162,7 @@ contain carbs.
   - All sourced from Wild Planet
 
 - Eggs
-  - Organic Pasture Raised (typically sourced from [Vital Farms](https://www.cornucopia.org/scorecard/eggs/vital-farms/))
+  - Organic Pasture Raised (typically sourced from [Vital Farms](https://www.cornucopia.org/scorecard/eggs/vital-farms))
 
 
 
@@ -164,26 +170,27 @@ contain carbs.
 
 - Leafy Greens
 
-  - I currently use a combination of Baby Arugula, Collared Greens,
-    and Romaine.
+  - I currently use a combination of baby arugula, collared greens,
+    and romaine.
 
-  - I have used Spinach and Chard as well, but they both have high
+  - I have used spinach and chard as well, but they both have high
     levels of oxalates that can result in kidney stones so for that
-    reason I typically avoid them now in my salads.
+    reason I typically avoid them.
 
-  - I love Kale as well, but it has a relatively high carb footprint
+  - I love kale as well, but it has a relatively high carb footprint
     if you're building a large salad with it, so I don't use it often.
 
-  - I have used cabbage from time to time.
+  - I have used cabbage from time to time, but it has a high carb
+    footprint as well.
 
-- Avocados (they are in reality a fruit) are a key staple of my diet.
+- Avocados (actually a fruit) are a key staple of my diet.
 
 - My other vegetable staples are mushrooms, radish, broccoli,
   cauliflower, asparagus, brussel sprouts, green beans, serrano
   peppers, and zucchini.
 
-- On occasion I'll have tomatoes, onions, carrots, etal, but they have
-  a higher carb content.
+- On occasion I'll have tomatoes, onions, carrots, peas, etal, but
+  they have a higher carb footprint.
 
 - I avoid most starchy vegetables.
 
@@ -201,9 +208,9 @@ contain carbs.
   issues associated with fructose, I simply have stopped consuming
   fruits altogether.
 
-- If I do consume fruit, it's one of the berries (strawberry,
-  blackberry, rasberry, or blueberry) due to their relatively low carb
-  footprint.
+- If I do consume fruit (delta avocado), it's one of the berries
+  (strawberry, blackberry, rasberry, or blueberry) due to their
+  relatively low carb footprint.
 
 - I will consume lemons in my water around mealtime on occasion as
   their acidity helps break down the calcium oxalates and aids in
@@ -217,10 +224,11 @@ contain carbs.
 
 ## Dairy
 
-- I have stopped consuming milk due to its high carb content (lactose).
+- Long ago, I stopped consuming milk due to its high carb content
+  (lactose).
 
 - I consume a lot of cheese (typically feta, parmesan, blue,
-  mozareally, mitica, gouda, or emmentaler).
+  mozareally, mitica, machnego, gouda, or emmentaler).
 
 - I cook in ghee or butter occasionally.
 
