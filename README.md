@@ -1,11 +1,11 @@
 # Introduction
 
 Key Facets of my Health Plan:
-- High Quality Food
-- [Keto (Low Carbohydrates)](https://www.dietdoctor.com/low-carb/keto/u7)
-- Intermittent Fasting
-- Exercise
-- Sleep
+1. High Quality Food
+2. [Keto (Low Carbohydrates)](https://www.dietdoctor.com/low-carb/keto/u7)
+3. Intermittent Fasting
+4. Exercise
+5. Sleep
 
 
 
@@ -26,8 +26,9 @@ Books on health/nutrition/longevity:
 * [The Obesity Code (Dr. Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Why We Get Sick (Dr. Benjamin Bikman)](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
 * [Lifespan (Dr. David Sinclair)](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
+* [The Case for Keto (Gary Taubes)](https://www.amazon.com/s?k=the+case+for+keto&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nWYZi4rZGM5JfbvnAX46KVCXwmrUBM9ZYAkBmxm7A-aWdpONarFzbhoCw_AQAvD_BwE&hvadid=416744105949&hvdev=c&hvlocphy=9031975&hvnetw=g&hvqmt=e&hvrand=10029320316729189384&hvtargid=kwd-871459532323&hydadcr=22536_9636733&tag=googhydr-20&ref=pd_sl_7q2cbifsgv_e)
 
-Personalities:
+Personalities/Podcasts:
 * [Dr. Peter Attia - The Drive](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
 * [Dr. Jason Fung - The Fasting Method](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung)
 * [Dr. Rhonda Patrick - Found My Fitness](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/user/FoundMyFitness)
@@ -35,10 +36,11 @@ Personalities:
 * [Mark Sisson - Mark's Daily Apple](https://www.marksdailyapple.com)
 
 Other useful healh/nutrition linkes:
-* [EWG's 2021 Shopper's Guide to Pesticides in Produce | Dirty Dozen](https://www.ewg.org/foodnews/dirty-dozen.php)
-* [Cornucopia Institute Scorecards](https://www.cornucopia.org/scorecards/)
-* [Glycemic index for 60+ foods](https://www.health.harvard.edu/diseases-and-conditions/glycemic-index-and-glycemic-load-for-100-foods)
-* [Making sense of the Food Insulin Index](https://optimisingnutrition.com/food-insulin-index-2/)
+* [Dirty dozen (pesticide analysis)](https://www.ewg.org/foodnews/dirty-dozen.php)
+* [Cornucopia scorecards](https://www.cornucopia.org/scorecards/)
+* [Cornucopia eggs scorecard](https://www.cornucopia.org/scorecard/eggs)
+* [Glycemic index](https://www.health.harvard.edu/diseases-and-conditions/glycemic-index-and-glycemic-load-for-100-foods)
+* [Insulin index](https://optimisingnutrition.com/food-insulin-index-2/)
 
 
 
@@ -164,6 +166,17 @@ non-processed, foods, that have a low carb footprint.
 - Eggs
   - Organic Pasture Raised (typically sourced from [Vital Farms](https://www.cornucopia.org/scorecard/eggs/vital-farms))
 
+On the topic of eggs, recently I purchased a dozen organic pasture
+raised eggs from a local farm (Clover) before verifying the farm's
+rating on cornucopia (mistake)!  These eggs typically sell for
+$7.29/dozen so they are expensive.  The first time I cracked the
+clover egg, it was obvious that it had a thinner shell than the Vital
+eggs I was used to, and the yellow and bland color of the yolk made it
+obvious that they were lower quality.  Here's a photo of Clover and
+Vital eggs, obvious which is which?!
+
+![](./eggs.png)
+
 
 
 ## Vegetables
@@ -237,6 +250,9 @@ non-processed, foods, that have a low carb footprint.
 
 
 ## Nuts
+
+- I only consume raw nuts, and I use organic nuts when they are nice
+  price prohibitive.
 
 - I consume pecans, walnuts, and macadamia nuts (I avoid brazil nuts
   due to allergies).
