@@ -5,10 +5,10 @@ var plan = {
     menu_sheets: [ 'Plan', 'Plan2' ],
     range: 'A4:BR200',
     actions: {
-        filter: 'A1',
-        prepare: 'B2',
-        menu: 'A3',
-        date: 'AA1'
+        filter: 'A3',
+        prepare: 'AB3',
+        menu: 'A1',
+        date: 'AB1'
     },
     goal: {
         calories: 'AG1',
@@ -45,23 +45,49 @@ var log = {
     details: 'LogD'
 };
 
+var mealIngredients = {
+    'Coconut Oil': 1,
+    'Fish Oil': .5,
+    'Olive Oil': 4,
+
+    'Chicken': 200,
+    'Eggs': 5,
+
+    'Arugula': 145,
+    'Collard Greens': 100,
+    'Romaine': 100,
+
+    'Broccoli': 100,
+    'Cauliflower': 100,
+
+    'Mushrooms': 100,
+    'Radish': 100,
+    'Salsa': 4,
+    'Serrano': 4,
+
+    'Avocado': 140,
+
+    'Mustard': 3,
+    'Pumpkin': 20,
+};
+
 
 // Plan Query (in A4)
 // - Plan Sheet A Column: Food Sheet "Ingredient" (Column A)
-// - Plan Sheet B Column: Food Sheet "Product" (Column G)
-// - Plan Sheet C Column: Food Sheet "Sale" (Column H)
-// - Plan Sheet D Column: Food Sheet "Cost" (Column I)
-// - Plan Sheet E Column: Food Sheet "Purchase" (Column F)
-// - Plan Sheet F Column: Food Sheet "Nutrition" (Column M)
-// - Plan Sheet G Column: Food Sheet "Filter" (Column C)
-// - Plan Sheet H Column: Food Sheet "Category" (Column D)
-// - Plan Sheet I Column: Food Sheet "SubCategory" (Column E)
-// - Plan Sheet J Column: Food Sheet "Norm K" (Column N)
-// =query(FoodWithHeader,"select A, G, H, I, F, M, C, D, E, N", 1)
+// - Plan Sheet B Column: Food Sheet "Product" (Column H)
+// - Plan Sheet C Column: Food Sheet "Sale" (Column I)
+// - Plan Sheet D Column: Food Sheet "Cost" (Column J)
+// - Plan Sheet E Column: Food Sheet "Purchase" (Column G)
+// - Plan Sheet F Column: Food Sheet "Nutrition" (Column N)
+// - Plan Sheet G Column: Food Sheet "Filter" (Column D)
+// - Plan Sheet H Column: Food Sheet "Category" (Column E)
+// - Plan Sheet I Column: Food Sheet "SubCategory" (Column F)
+// - Plan Sheet J Column: Food Sheet "Norm K" (Column O)
+// =query(FoodWithHeader,"select A, H, I, J, G, N, D, E, F, O where C='1-Active'", 1)
 //
 // Second Query (in AB4):
-// - Plan Sheet AB Column: Food Sheet "Unit" (Column O)
-// =query(FoodWithHeader, "select O", 1)
+// - Plan Sheet AB Column: Food Sheet "Unit" (Column P)
+// =query(FoodWithHeader, "select P where C='1-Active'", 1)
 
 // Colors used for threshold highlighting
 var GREEN = '#b6d7a8';     // light green 2
@@ -110,10 +136,29 @@ function onEdit(event) {
     // Execute one of the items in the actions menu
     let menuActionCell = getCellInfo(plan.actions.menu);
     if (plan.menu_sheets.includes(sheetName) && row === menuActionCell.row && column === menuActionCell.column) {
-        Logger.log('Menu action: ' + event.value);
-        createSpreadsheetWideFilter(sheet);
-        menuAction(sheet, event.value);
-        return;
+
+        if (event.value === 'Log') {
+            Logger.log('Menu action: ' + event.value);
+            createSpreadsheetWideFilter(sheet);
+            logAction(sheet);
+            return;
+        }
+
+        if (event.value === 'Clear') {
+            Logger.log('Clear action: ' + event.value);
+            updateDate(sheet);
+            createSpreadsheetWideFilter(sheet);
+            clearAction(sheet);
+            return;
+        }
+
+        if (event.value === 'Populate') {
+            Logger.log('Populate action: ' + event.value);
+            updateDate(sheet);
+            createSpreadsheetWideFilter(sheet);
+            populateAction(sheet);
+            return;
+        }
     }
 
 
@@ -145,13 +190,14 @@ function updateDate(sheet) {
 
 
 // The filter action changes which ingredients are listed, either the
-// Small set, the Small+Medium set, the Small+Medium+Large set, or the
-// Small+Medium+Large+XLarge set.  In addition, any item that has a
-// serving size > 0 is also displayed (it's automtically placed into
-// the Small set).  This action also results in removing prepare's
-// filter on the serving column if it was in place prior to
-// invocation.
+// Small set, the Small+Medium set, or the Small+Medium+Large set.  In
+// addition, any item that has a serving size > 0 is also displayed
+// (it's automtically placed into the Small set).  This action also
+// results in removing prepare's filter on the serving column if it
+// was in place prior to invocation.
 function filterAction(sheet, filter) {
+    Logger.log('Filter Action');
+
     // The very first time the sheet is loaded into the browser
     // initialize the last filter
     if (!getProperty('lastFilter')) {
@@ -210,6 +256,7 @@ function applyFilter(sheet, filter) {
 // time to prepare the meal as this list becomes the bill of
 // materials!
 function prepareAction(sheet) {
+    Logger.log('Prepare Action');
 
     let prepareActionCell = getCellInfo(plan.actions.prepare);
     let prepareActionSelected = getCellValue(sheet, prepareActionCell);
@@ -224,7 +271,6 @@ function prepareAction(sheet) {
         Logger.log('Removing the filter column\'s filter');
         let filterColumn = getColumn(plan.column.filter);
         removeFilterFromColumn(sheet, filterColumn);
-        filterValueOutOfColumn(sheet, filterColumn, [ 'Inactive' ]);
         let filterActionCell = getCellInfo(plan.actions.filter);
         setCellValue(sheet, filterActionCell, 'Filter...');
 
@@ -240,7 +286,65 @@ function prepareAction(sheet) {
 }
 
 
-function menuAction(sheet, menuItem) {
+function clearAction(sheet) {
+    Logger.log('Clear Action');
+
+    let range = getRangeInfo(plan.range);
+    let servingColumn = getColumn(plan.column.serving);
+    sheet.getRange(range.topLeft.row + 1, servingColumn, range.bottomRight.row - range.topLeft.row).clear({ contentsOnly: true });
+
+    let menuActionCell = getCellInfo(plan.actions.menu);
+    setCellValue(sheet, menuActionCell, 'Menu...');
+
+    applyFilter(sheet, getProperty('lastFilter'));
+}
+
+
+function populateAction(sheet) {
+    Logger.log('Populate Action');
+
+    let range = getRangeInfo(plan.range);
+    let servingColumn = getColumn(plan.column.serving);
+    sheet.getRange(range.topLeft.row + 1, servingColumn, range.bottomRight.row - range.topLeft.row).clear({ contentsOnly: true });
+
+    let ingredientColumn = getColumn(plan.column.ingredient);
+    let ingredientNames = sheet.getRange(range.topLeft.row + 1, ingredientColumn, range.bottomRight.row).getValues();
+    Logger.log('ingredientNames: ' + ingredientNames);
+    for (let ingredientName of Object.keys(mealIngredients)) {
+        Logger.log('Populating ingredient: [' + ingredientName + ']');
+
+        found = false;
+        for (let row = 0; row < ingredientNames.length; row++) {
+
+            // Get the value of the cell which will be the name of the
+            // food item, although some of these can be blank because
+            // we have fetched PLAN_MAX_ITEMS from the sheet
+            let cellValue = ingredientNames[row][0];
+            if (!cellValue) {
+                continue;
+            }
+
+            if (cellValue == ingredientName) {
+                setCellValue(sheet, { row: row + range.topLeft.row + 1, column: servingColumn }, mealIngredients[ingredientName]);
+                found = true;
+                break;
+            }
+        }
+
+        if (!found) {
+            Logger.log('  - ERROR: The ingredient was not found');
+        }
+    }
+
+    let menuActionCell = getCellInfo(plan.actions.menu);
+    setCellValue(sheet, menuActionCell, 'Menu...');
+
+    applyFilter(sheet, getProperty('lastFilter'));
+}
+
+
+function logAction(sheet) {
+    Logger.log('Log Action');
 
     // Get the data from the spreadsheet and the current date
     let dateCell = getCellInfo(plan.actions.date);
@@ -323,10 +427,12 @@ function logDetails(sheet, data, date) {
             // Log all the required fields prior to the nutrition fields
             switch (col) {
             case (productColumn - 1):
-            case (categoryColumn - 1):
-            case (subcategoryColumn - 1):
             case (gramsColumn - 1):
                 values.push(data[row][col]);
+                continue;
+            case (categoryColumn - 1):
+            case (subcategoryColumn - 1):
+                values.push(data[row][col].substring(data[row][col].indexOf('-') + 1));
                 continue;
             }
 
