@@ -175,9 +175,9 @@ eggs I was used to, and the yellow and bland color of the yolk made it
 obvious that they were lower quality.  Here's a photo of Clover and
 Vital eggs, obvious which is which?!
 
-<img src="./eggs.png" alt="eggs" width="200">
+<img src="./eggs.png" alt="eggs" width="200"/>
 
-![](./eggs.png | width=200)
+![](./eggs.png | width=200){:height="50%" width="50%"}
 
 
 
