@@ -30,6 +30,7 @@ var plan = {
     column: {
         ingredient: 'A',
         product: 'B',
+        filter_raw: 'G',
         category: 'H',
         subcategory: 'I',
         filter: 'V',
@@ -308,6 +309,7 @@ function populateAction(sheet) {
     sheet.getRange(range.topLeft.row + 1, servingColumn, range.bottomRight.row - range.topLeft.row).clear({ contentsOnly: true });
 
     let ingredientColumn = getColumn(plan.column.ingredient);
+    let filterRawColumn = getColumn(plan.column.filter_raw);
     let ingredientNames = sheet.getRange(range.topLeft.row + 1, ingredientColumn, range.bottomRight.row).getValues();
     Logger.log('ingredientNames: ' + ingredientNames);
     for (let ingredientName of Object.keys(mealIngredients)) {
@@ -324,7 +326,13 @@ function populateAction(sheet) {
                 continue;
             }
 
-            if (cellValue == ingredientName) {
+            Logger.log('cellValue: ' + ingredientName);
+            Logger.log('row: ' + row + range.topLeft.row + 1);
+            Logger.log('column: ' + filterRawColumn);
+            let filter = getCellValue(sheet, { row: row + range.topLeft.row + 1, column: filterRawColumn });
+            if (cellValue == ingredientName && filter !== 'Inactive') {
+                Logger.log('cellValue: ' + ingredientName);
+                Logger.log('filter: ' + filter);
                 setCellValue(sheet, { row: row + range.topLeft.row + 1, column: servingColumn }, mealIngredients[ingredientName]);
                 found = true;
                 break;

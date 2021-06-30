@@ -175,7 +175,7 @@ eggs I was used to, and the yellow and bland color of the yolk made it
 obvious that they were lower quality.  Here's a photo of Clover and
 Vital eggs, obvious which is which?!
 
-![](./eggs.png)
+<img src="./eggs.png" width="40%"!>
 
 
 
@@ -251,17 +251,23 @@ Vital eggs, obvious which is which?!
 
 ## Nuts
 
-- I only consume raw nuts, and I use organic nuts when they are nice
-  price prohibitive.
+- I only consume raw nuts.
 
-- I consume pecans, walnuts, and macadamia nuts (I avoid brazil nuts
-  due to allergies).
+- I consume organic nuts when they are not price prohibitive.
 
-- Occasionally (but rarely) I'll consume the higher carbohydrate nuts
-  like peanuts and almonds, but in very small quantities.  I avoid all
-  the other high carbohydrate nuts (like pistacio and cashew).
+- I consume pecans, walnuts, cocnut, and macadamia nuts (I avoid both
+  hazel and brazil nuts due to allergies).
+
+- Occasionally I'll consume the higher carb footprint nuts like
+  peanuts and almonds.
+
+- I refrain from all the other higher carb footprint nuts (like
+  pistacio and cashew).
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/01/Keto%E2%80%93Nuts.jpg?auto=compress%2Cformat&w=1200&h=602&fit=crop)
+
+- Reference:
+  [Nuts (Dr. Stan Ekberg)](https://www.youtube.com/watch?v=tdP9E9zkuXA&t=3s)
 
 
 
@@ -271,12 +277,15 @@ Vital eggs, obvious which is which?!
   daily fiber requirements and as a source of vitamins and minerals
   including chia seeds, flax seeds, and pumpkin seeds.
 
-- I also add stone ground mustard to my salads to increase the spice
-  and my burgers.
+- I frequently add stone ground mustard to my salads and brugers to
+  increase the spice.
+
+- Reference
+  - [Seeds (Dr. Stan Ekberg)](https://www.youtube.com/watch?v=pWd6iBYbJTQ&t=4s)
 
 
 
-## Legumes, Breads, ...
+## Legumes, Grains, ...
 
 - I do not consume any cereals, breads, rice, et al.
 
@@ -289,7 +298,7 @@ Vital eggs, obvious which is which?!
 ## Snacks
 
 - The only snack food I consume is small amounts of dark chocolate
-  (85%/88%) on occasion.
+  (typically 80%+) on occasion.
 
 
 
@@ -383,36 +392,34 @@ My meal prep process is pretty straightforward:
 - Separately I cook the meat and/or other vegetables.  At times I add
   those directly to the salad.
 
-Here is a very concrete actual meal prep example (2171 calories, 164g
-fat, 30g fiber, 20g netcarb, 111g protein):
+Here's how I prepare a sample meal:
 
 - Salad
   - Put a 5qt bowl on the scale, tare it
-  - Add 145g of baby argula, tare
-  - Add 100g of collard greens, tare
-  - Add 100g of romaine, tare
-  - Add 140g of avocado (~ medium avocado)
-  - Add 75g of diced white mushrooms, tare
-  - Add 75g of diced radish, tare
-  - Cook 75g of zucchini, add, tare
+  - Add 100g of collard greens
+  - Add 100g of romaine (scale says 200g)
+  - Add 145g of baby argula (scale says 345g), tare the scale
+  - Add 140g of avocado (~ medium avocado), tare the scale
+  - Add 100g of diced white mushrooms
+  - Add 100g of diced radish (scale will say 200g)
   - Add one can of drained mackerel
-  - Add 5tbsp of extra virgin olive oil
+  - Add 4tbsp of extra virgin olive oil
   - Add 3tbsp of stone ground mustard to salad
   - Add garlic powder spice
-  - Put a small boiling pan on the scale, tare it
-  - Add 75g broccoli, tare
-  - Add 75g cauliflower
-  - Bring the pan to a boil, strain water
-  - Dump broccoli and cauliflower into the salad
+  - Put a small boiling pan on the scale, tare the scale
+  - Add 100g broccoli
+  - Add 100g cauliflower (scael will say 200g)
+  - Add water to the top of the vegetables, bring the pan to a boil, strain water
+  - Dump the broccoli and cauliflower into the salad
   - Mix, toss, and serve!
 - Omelette
   - Add 1tbsp coconut oil to an omelette pan, melt it on low/medium
   - Add 4 diced serrano peppers, sautee lightly
-  - Add 5 eggs, cook omelette over low or medium
+  - Add 5 eggs, cook over low/medium
   - Add 3tbsp salsa
   - Add 1tbsp of green pepper sauce
 - Meat
-  - Broil 187g of trip tip steak
+  - Broil 200g of trip tip steak
 
 
 
