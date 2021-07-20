@@ -47,6 +47,8 @@ Highlighted interviews:
   * [by Rhonda Patrick](https//www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
 - Matt Walker (Sleep)
   * [by Peter Attia](https://www.youtube.com/watch?v=5stcuh065Vk)
+- Marc Sesson (Paleo/Keto)
+  * [by Tom Bilyeu](https://www.youtube.com/watch?v=k1jXS6Ue3GM&t=409s)
 - Richard Isaacson (Alzheimers)
   * [by Peter Attia](https://peterattiamd.com/richardisaacson)
   * [by Peter Attia #2](https://peterattiamd.com/laurenmillerrogen-richardisaacson)
