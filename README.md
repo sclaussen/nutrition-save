@@ -12,38 +12,38 @@ My health plan is focused on managing my insulin resistance.  Here are the key f
 # Reference
 
 Books:
-* [The Obesity Code (Dr. Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
-* [Why We Get Sick (Dr. Benjamin Bikman)](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
-* [Lifespan (Dr. David Sinclair)](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
+* [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+* [Why We Get Sick (Benjamin Bikman)](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
+* [Lifespan (David Sinclair)](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
 * [The Case for Keto (Gary Taubes)](https://www.amazon.com/s?k=the+case+for+keto&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nWYZi4rZGM5JfbvnAX46KVCXwmrUBM9ZYAkBmxm7A-aWdpONarFzbhoCw_AQAvD_BwE&hvadid=416744105949&hvdev=c&hvlocphy=9031975&hvnetw=g&hvqmt=e&hvrand=10029320316729189384&hvtargid=kwd-871459532323&hydadcr=22536_9636733&tag=googhydr-20&ref=pd_sl_7q2cbifsgv_e)
-* [Why We Sleep (Dr. Matthew Walker)](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
+* [Why We Sleep (Matthew Walker)](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
 
 Subject matter experts:
-* [Dr. Peter Attia (The Drive)](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
-* [Dr. Jason Fung (The Fasting Method)](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung)
-* [Dr. Rhonda Patrick (Found My Fitness)](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/c/FoundMyFitness/videos)
-* [Dr. David Sinclair (Harvard)](https://www.youtube.com/results?search_query=david+sinclair)
-* [Dr. David Sabatini (MIT)](https://www.youtube.com/results?search_query=david+sabatini)
-* [Dr. Steve Horvath (UCLA)](https://www.youtube.com/results?search_query=steve+horvath)
-* [Dr. Andrew Huberman (Huberman Lab)](https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg)
-* [Dr. Matthew Walker](https://www.youtube.com/results?search_query=matthew+walker)
+* [Peter Attia (The Drive)](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
+* [Jason Fung (The Fasting Method)](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung)
+* [Rhonda Patrick (Found My Fitness)](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/c/FoundMyFitness/videos)
+* [David Sinclair (Harvard)](https://www.youtube.com/results?search_query=david+sinclair)
+* [David Sabatini (MIT)](https://www.youtube.com/results?search_query=david+sabatini)
+* [Steve Horvath (UCLA)](https://www.youtube.com/results?search_query=steve+horvath)
+* [Andrew Huberman (Huberman Lab)](https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg)
+* [Matthew Walker](https://www.youtube.com/results?search_query=matthew+walker)
 * [Tom Bilyeu (Impact Theory/Quest)](https://impacttheory.com)
 * [Mark Sisson (Mark's Daily Apple)](https://www.marksdailyapple.com)
 
 Highlighted interviews:
-- Dr. Fung (Insulin Resistance)
+- Fung (Insulin Resistance)
   * [by Tom Bilyeu](https://www.youtube.com/watch?v=XhPwjmbkgDs)
   * [by Gary Taubes](https://www.youtube.com/watch?v=QAim7IASsEg)
-- Dr. Bikman (Insulin)
+- Bikman (Insulin)
   * [by Andreas Eenfeldt](https://www.youtube.com/watch?v=AhRCX3nNhA4)
   * [by Tom Bilyeu](https://www.youtube.com/watch?v=QAbpE0_6ayg&list=PL8qcvQ7Byc3NthekE8Zsdk8my0QnRJzee&index=5&t=654s)
 - Gary Taubes (Keto/etal)
   * [by Peter Attia](https//www.youtube.com/watch?v=8js28V95flc)
-- Dr. Sinclair (Longevity)
+- Sinclair (Longevity)
   * [by Joe Rogan](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)  --[fasting clip](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)--
   * [by Rhonda Patrick](https://www.youtube.com/watch?v=5DtWqzalEnc)
   * [by Lex Fridman](https://www.youtube.com/watch?v=jhKZIq3SlYE)
-- Dr. Horvath (Longevity)
+- Horvath (Longevity)
   * [by Rhonda Patrick](https//www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
 - Matt Walker (Sleep)
   * [by Peter Attia](https://www.youtube.com/watch?v=5stcuh065Vk)
@@ -67,9 +67,9 @@ My supplements:
 * [Vitamin D](https://www.amazon.com/Thorne-Research-Vitamin-Supplement-Capsules/dp/B0797H3VQS/ref=sxts_rp_s1_0?cv_ct_cx=vitamin+d&dchild=1&keywords=vitamin+d&pd_rd_i=B0797H3VQS&pd_rd_r=93d0baef-8080-4321-84a4-b949f0b86710&pd_rd_w=Mpa1y&pd_rd_wg=lCMMj&pf_rd_p=c6bde456-f877-4246-800f-44405f638777&pf_rd_r=V08DPSFTQN5Y8GPBYDXD&psc=1&qid=1626811544&sr=1-1-f0029781-b79b-4b60-9cb0-eeda4dea34d6)
 * [Endure (electrolytes)](https://www.amazon.com/Trace-Minerals-Research-Performance-Electrolyte/dp/B000VDLD9S/ref=sr_1_3_sspa?dchild=1&keywords=endure&qid=1626811510&sr=8-3-spons&psc=1&smid=A1SGUUCL70EYZE&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTVU44VDAwWjBCWTImZW5jcnlwdGVkSWQ9QTA3MDAzMjAzSllITk1EVVZaNVVNJmVuY3J5cHRlZEFkSWQ9QTAxMTE4NTQxTDZYTk9TUFdFVTRKJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 * Good reading on supplements:
-  * [Dr. Peter Attia](https://fastlifehacks.com/peter-attia-supplements-diet-exercise)
-  * [Dr. David Sinclair](https://fastlifehacks.com/david-sinclair-supplements/?utm_source=wppp)
-  * [Dr. Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/?utm_source=wppp)
+  * [Peter Attia](https://fastlifehacks.com/peter-attia-supplements-diet-exercise)
+  * [David Sinclair](https://fastlifehacks.com/david-sinclair-supplements/?utm_source=wppp)
+  * [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/?utm_source=wppp)
   * [Joe Rogan](https://fastlifehacks.com/joe-rogan-supplements/?utm_source=wppp)
 
 Other useful links:
@@ -93,7 +93,7 @@ ingredients.  This list is constantly evolving.
 
 - Avoid cooking and topping oils that use heat and/or chemical
   extraction - eg vegetable, soybean, corn oils, ...
-  * [Episode 262: The Hateful Eight (Industrial Seed Oils) | Dr. Cate Shanahan on Wise Traditions with Hilda Labrada Gore • Podcast Notes](https://podcastnotes.org/wise-traditions/episode-262-the-hateful-eight-industrial-seed-oils-dr-cate-shanahan-on-wise-traditions-with-hilda-labrada-gore/)
+  * [Episode 262: The Hateful Eight (Industrial Seed Oils) | Cate Shanahan on Wise Traditions with Hilda Labrada Gore • Podcast Notes](https://podcastnotes.org/wise-traditions/episode-262-the-hateful-eight-industrial-seed-oils-dr-cate-shanahan-on-wise-traditions-with-hilda-labrada-gore/)
 
 - Avoid anything cooked in bad oils
 
@@ -108,7 +108,7 @@ ingredients.  This list is constantly evolving.
 
 - **Wild raised fish**
   * [Fish and polychlorinated biphenyls (PCBs) (Mayo Clinic)](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/fish-and-pbcs/faq-20348595)
-  * [Farm Raised Fish OR Wild Caught Fish, Which Is Best To Consume? (Dr. Berg)](https://www.youtube.com/watch?v=J2uAyp6WCnA)
+  * [Farm Raised Fish OR Wild Caught Fish, Which Is Best To Consume? (Berg)](https://www.youtube.com/watch?v=J2uAyp6WCnA)
 
 - Non-GMO **crate free pork**
 
@@ -356,7 +356,7 @@ footprint.
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/01/Keto%E2%80%93Nuts.jpg?auto=compress%2Cformat&w=1200&h=602&fit=crop)
 
 - Reference:
-  - [Nuts (Dr. Stan Ekberg)](https://www.youtube.com/watch?v=tdP9E9zkuXA&t=3s)
+  - [Nuts (Stan Ekberg)](https://www.youtube.com/watch?v=tdP9E9zkuXA&t=3s)
 
 
 
@@ -373,7 +373,7 @@ footprint.
   increase the spice.
 
 - Reference
-  - [Seeds (Dr. Stan Ekberg)](https://www.youtube.com/watch?v=pWd6iBYbJTQ&t=4s)
+  - [Seeds (Stan Ekberg)](https://www.youtube.com/watch?v=pWd6iBYbJTQ&t=4s)
 
 
 
