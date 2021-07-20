@@ -16,19 +16,7 @@ Books:
 * [Why We Get Sick (Dr. Benjamin Bikman)](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
 * [Lifespan (Dr. David Sinclair)](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
 * [The Case for Keto (Gary Taubes)](https://www.amazon.com/s?k=the+case+for+keto&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nWYZi4rZGM5JfbvnAX46KVCXwmrUBM9ZYAkBmxm7A-aWdpONarFzbhoCw_AQAvD_BwE&hvadid=416744105949&hvdev=c&hvlocphy=9031975&hvnetw=g&hvqmt=e&hvrand=10029320316729189384&hvtargid=kwd-871459532323&hydadcr=22536_9636733&tag=googhydr-20&ref=pd_sl_7q2cbifsgv_e)
-* [Why We Sleep (Matthew Walker)](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
-
-Highlighted interviews:
-* [Dr. Jason Fung (by Tom Bilyeu)](https://www.youtube.com/watch?v=XhPwjmbkgDs)
-* [Dr. Jason Fung (by Gary Taubes)](https://www.youtube.com/watch?v=QAim7IASsEg)
-* [Dr. David Sinclair (by Joe Rogan)](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)  --[fasting clip](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)--
-* [Dr. David Sinclar (by Rhonda Patrick)](https://www.youtube.com/watch?v=5DtWqzalEnc)
-* [Dr. Horvath (by Rhonda Patrick)](https://www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
-* [Dr. Ben Bikman (by Andreas Eenfeldt)](https://www.youtube.com/watch?v=AhRCX3nNhA4): Insulin resistance
-* [Gary Taubes (by Peter Attia)](https://www.youtube.com/watch?v=8js28V95flc)
-* [Dr. Matthew Walker (by Peter Attia)](https://www.youtube.com/watch?v=5stcuh065Vk)
-* [Dr. Richard Isaacson (by Peter Attia)](https://peterattiamd.com/richardisaacson): Alzheimers
-* [Dr. Richard Isaacson and Lauren Miller-Rogen (by Peter Attia)](https://peterattiamd.com/laurenmillerrogen-richardisaacson): Alzheimers
+* [Why We Sleep (Dr. Matthew Walker)](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
 
 Subject matter experts:
 * [Dr. Peter Attia (The Drive)](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
@@ -41,6 +29,27 @@ Subject matter experts:
 * [Dr. Matthew Walker](https://www.youtube.com/results?search_query=matthew+walker)
 * [Tom Bilyeu (Impact Theory/Quest)](https://impacttheory.com)
 * [Mark Sisson (Mark's Daily Apple)](https://www.marksdailyapple.com)
+
+Highlighted interviews:
+- Dr. Fung (Insulin Resistance)
+  * [by Tom Bilyeu](https://www.youtube.com/watch?v=XhPwjmbkgDs)
+  * [by Gary Taubes](https://www.youtube.com/watch?v=QAim7IASsEg)
+- Dr. Sinclair (Longevity)
+  * [by Joe Rogan](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)  --[fasting clip](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)--
+  * [by Rhonda Patrick](https://www.youtube.com/watch?v=5DtWqzalEnc)
+  * [by Lex Fridman](https://www.youtube.com/watch?v=jhKZIq3SlYE)
+- Dr. Horvath (Inner Aging and Longevity)
+  * [by Rhonda Patrick](https//www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
+- Dr. Bikman (Insulin)
+  * [by Andreas Eenfeldt](https://www.youtube.com/watch?v=AhRCX3nNhA4)
+  * [by Tom Bilyeu](https://www.youtube.com/watch?v=QAbpE0_6ayg&list=PL8qcvQ7Byc3NthekE8Zsdk8my0QnRJzee&index=5&t=654s)
+- Gary Taubes (Keto/etal)
+  * [Peter Attia)](https//www.youtube.com/watch?v=8js28V95flc)
+- Matt Walker (Sleep)
+  * [by Peter Attia](https://www.youtube.com/watch?v=5stcuh065Vk)
+- Richard Isaacson (Alzheimers)
+  * [by Peter Attia](https://peterattiamd.com/richardisaacson)
+  * [by Peter Attia #2](https://peterattiamd.com/laurenmillerrogen-richardisaacson)
 
 Useful items:
 * [Withings Body+ Scale](https://www.amazon.com/Withings-Nokia-Body-Composition-smartphone/dp/B071XW4C5Q/ref=sr_1_1_sspa?dchild=1&keywords=withings+scale&qid=1624559620&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOU5JVkFSOTZKUks1JmVuY3J5cHRlZElkPUEwMjQzNDg0QVlQTDFINUZDVjNEJmVuY3J5cHRlZEFkSWQ9QTA5NzM2NDNSNkRYMkVVWjBKQ1Qmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl): This scale captures body fat % which is necessary to determine my macro consumption goals
