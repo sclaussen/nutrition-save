@@ -34,17 +34,17 @@ Highlighted interviews:
 - Dr. Fung (Insulin Resistance)
   * [by Tom Bilyeu](https://www.youtube.com/watch?v=XhPwjmbkgDs)
   * [by Gary Taubes](https://www.youtube.com/watch?v=QAim7IASsEg)
-- Dr. Sinclair (Longevity)
-  * [by Joe Rogan](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)  --[fasting clip](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)--
-  * [by Rhonda Patrick](https://www.youtube.com/watch?v=5DtWqzalEnc)
-  * [by Lex Fridman](https://www.youtube.com/watch?v=jhKZIq3SlYE)
-- Dr. Horvath (Inner Aging and Longevity)
-  * [by Rhonda Patrick](https//www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
 - Dr. Bikman (Insulin)
   * [by Andreas Eenfeldt](https://www.youtube.com/watch?v=AhRCX3nNhA4)
   * [by Tom Bilyeu](https://www.youtube.com/watch?v=QAbpE0_6ayg&list=PL8qcvQ7Byc3NthekE8Zsdk8my0QnRJzee&index=5&t=654s)
 - Gary Taubes (Keto/etal)
-  * [Peter Attia)](https//www.youtube.com/watch?v=8js28V95flc)
+  * [by Peter Attia](https//www.youtube.com/watch?v=8js28V95flc)
+- Dr. Sinclair (Longevity)
+  * [by Joe Rogan](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)  --[fasting clip](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)--
+  * [by Rhonda Patrick](https://www.youtube.com/watch?v=5DtWqzalEnc)
+  * [by Lex Fridman](https://www.youtube.com/watch?v=jhKZIq3SlYE)
+- Dr. Horvath (Longevity)
+  * [by Rhonda Patrick](https//www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
 - Matt Walker (Sleep)
   * [by Peter Attia](https://www.youtube.com/watch?v=5stcuh065Vk)
 - Richard Isaacson (Alzheimers)
@@ -79,7 +79,7 @@ Other useful links:
 * [Glycemic index](https://www.health.harvard.edu/diseases-and-conditions/glycemic-index-and-glycemic-load-for-100-foods)
 * [Insulin index](https://optimisingnutrition.com/food-insulin-index-2/)
 * [Oxalate Dirty Dozen p1](https://lowoxcoach.com/the-oxalate-dirty-dozen-part-1) and [Oxalate Dirty Dozen p2](https://lowoxcoach.com/the-oxalate-dirty-dozen-part-2)
-* [Global Animal Partnership Step 4](https://www.greenerchoices.org/global-animal-partnership-step-4
+* [Global Animal Partnership Step 4](https://www.greenerchoices.org/global-animal-partnership-step-4)
 * [Supplement Ratings and Reviews (Labdoor)](https://labdoor.com)
 * [Supplement Certifications (Nutrasource)](https://certifications.nutrasource.ca/certified-products)
 * [FastLifeHacks.Com](https://fastlifehacks.com)
@@ -114,7 +114,7 @@ ingredients.  This list is constantly evolving.
 
 - Avoid **drinking calories**
 
-- Avoid all **processed foods**
+- Avoid all **processed foods** and the **standard american diet (SAD)**
 
 - Avoid added **nitrites/nitrates**
 
@@ -156,7 +156,7 @@ footprint.
 
 - I refrain from consuming any calories in liquid form (eg sports
   drinks, orange juice, milk, smoothy, et al)
-- I rarely drink alcohol
+- I rarely drink alcohol, when I do I try to consume alcohol with zero carbs
 - I drink black coffee atleast once a day, often multiple times (zero
   calories)
 - I drink hot green tea or black ice tea frequently (zero calories)
@@ -212,8 +212,10 @@ footprint.
   once per month max.
 
 - I source the majority of my chicken, beef, pork chops, salmon, and
-  cod from butcher box.  If I buy meat locally, I usually purchase
-  Step 4 products.
+  cod from [ButcherBox](https://www.butcherbox.com/).  If I buy meat
+  locally, I usually purchase [Step 4 or
+  better](https://www.wholefoodsmarket.com/quality-standards/meat-standards)
+  products.
 
 - Chicken
   - I consume organic, free range, non-gmo chicken ([Butcher Box
@@ -223,19 +225,19 @@ footprint.
   - I consume grass raised and grass finished beef ([Butcher Box
     FAQ](https://support.butcherbox.com/hc/en-us/articles/360000094648-Can-you-tell-me-about-your-beef-))
 
-  - Even though I wanted a lot of fat in my diet (approx 70%) I will
+  - Even though I consume a lot of fat in my diet (approx 70%) I will
     consume 80%/20%, 85%/15%, and 90%/10% beef, but typically it's
     85%/15%.  That said, if given a choice I'll eat leaner meat not
     because I'm trying to avoid fat, but as a way to provide me
-    flexibility wrt how I add high quality fat to my meal (eg olive
-    oil, nuts, et al).
+    flexibility wrt how I add high quality fat to my meal (eg extra
+    virgin olive oil, nuts, et al).
 
 - Salmon
   - I consume wild vs farm raised
   - Wild Alaskan Sockeye
 
 - Sardines, Atlantic Mackeral, Albacore Tuna
-  - All sourced from Wild Planet
+  - All sourced from [Wild Planet](https://wildplanetfoods.com/?utm_source=IMM&utm_medium=GG-Search&utm_term=115871110784&utm_content=wild%20planet&utm_campaign=11120638040&utm_a=115871110784)
 
 - Eggs
   - I consume organic pasture raised eggs (typically sourced from
@@ -303,6 +305,8 @@ footprint.
 - Generally speaking, due to their high carb content and the health
   issues associated with fructose/NAFLD, I simply have stopped
   consuming fruits altogether.
+  - [#14 - Robert Lustig, M.D., M.S.L.: fructose, processed food, NAFLD, and changing the food system - Peter Attia](https://peterattiamd.com/roblustig/)
+  - [#87 - Rick Johnson, M.D.: Fructose—The common link in high blood pressure, insulin resistance, T2D, & obesity? - Peter Attia](https://peterattiamd.com/rickjohnson/)
 
 - If I do consume fruit (delta avocado), it's one of the berries
   (strawberry, blackberry, rasberry, or blueberry) due to their
@@ -352,7 +356,7 @@ footprint.
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/01/Keto%E2%80%93Nuts.jpg?auto=compress%2Cformat&w=1200&h=602&fit=crop)
 
 - Reference:
-  [Nuts (Dr. Stan Ekberg)](https://www.youtube.com/watch?v=tdP9E9zkuXA&t=3s)
+  - [Nuts (Dr. Stan Ekberg)](https://www.youtube.com/watch?v=tdP9E9zkuXA&t=3s)
 
 
 
@@ -363,9 +367,9 @@ footprint.
   including:
   - chia seeds
   - flax seeds
-  - pumpkin seeds.
+  - pumpkin seeds
 
-- I frequently add stone ground mustard to my salads and brugers to
+- I frequently add stone ground mustard to my salads and burgers to
   increase the spice.
 
 - Reference
@@ -385,10 +389,11 @@ footprint.
 
 ## Snacks
 
-- The only snack food I consume is small amounts of dark chocolate
-  (typically 80%+) on occasion (downside is dark chocolate has added
+- **Dark chocolate (80+%)**: Downside is dark chocolate has added
   sugar and thus relatively robust carb footprint and has high oxalate
   content).
+
+- **Keto Bites**: 0 netcarb
 
 
 
@@ -417,7 +422,8 @@ remainder of the time.
 When you're comfortable with that, move to an 18/6, 20/4, and/or 22/2
 plan, in phases as you are comfortable allowinug your body to adjust,
 continuing along the same lines, eating two meals, trying to finish by
-7pm (as an example).
+7pm (as an example) (for good sleep you should finish 3 hours before
+you go to sleep).
 
 When you're comfortable with that, try one meal a day (OMAD),
 combining all your calories into a single meal, at say 5 or 6pm each
@@ -433,13 +439,13 @@ Here was my progression as an example:
 
 
 
-# Meals
+# One Meal a Day (OMAD)
 
 I basically combine my breakfast, lunch, and dinner into a single
 meal.
 
 My meal typically consists of:
-- Salad: Staples include various leafy greens, avocado, mushrooms, radish, extra virgin olive oil, fish oil
+- Huge Salad: Staples include various leafy greens, avocado, mushrooms, radish, extra virgin olive oil, fish oil
 - Omelette: Staples include serrano peppers and hot salsa
 - Meat
 - Cheese
@@ -469,6 +475,10 @@ My meal prep process is pretty straightforward:
   like olive oil, fish oil, and mustard are added in tablespoon units.
   For other ingredients I'll plan using "N eggs", or "N squares of
   chocolate", etc.
+
+- Weighing ingredients should be done before they are cooked
+  (nutrition labels are based off the raw uncooked value).  By
+  example, meats are typically 75% of their size once cooked.
 
 - I put a 3 or 5qt salad bowl on my grams scale and as I add
   ingredients to the salad, I add them directly into the salad bowl,
@@ -520,23 +530,54 @@ Here's a concrete meal preparation example:
 
 # Macros
 
-## Protein
+In order to keep me on track I have an advanced spreadsheet that
+allows me to determine what my daily goals are for calories, fat,
+fiber, netcarbs, and protein.  These goals are all based off a bunch
+of calculations based on my height, weight, age, weight, body fat %,
+amount of exercise, and general activity level.
 
-To determine your daily protein need, multiply your LBM by the appropriate activity level.
-- Sedentary (generally physically inactive): multiply by 0.5
-- Light activity (includes walking or gardening): multiply by 0.6
-- Moderate (30 minutes of moderate activity, thrice weekly): multiply by 0.7
-- Active (one hour of exercise, five times weekly): multiply by 0.8
-- Very active (10 to 20 hours of exercise weekly): multiply by 0.9
-- Athlete (over 20 hours of exercise weekly): multiply by 1.0
+Here's a summary of how I set my daily consumption goals:
+
+- **Fiber**: My minimum fiber goal is set to 14 grams per 1000
+  calories consumed.
+
+- **Netcarbs**: My maximum netcarbs is set to 20 grams.  This is a
+  critical cornerstone of my health plan - the goal being to manage my
+  insulin resistance and avoid large insulin spikes.
+
+- **Protein**: Consuming less protein than you require will result in
+  muscle loss which you certainly do not want.  Consuming more protein
+  than you require potentially results in insulin spikes which you are
+  also trying to avoid.  To dial in the proper amount I use a formula
+  where my daily protein requirement is a function of grams of protein
+  per kilograms of lean body mass (g/lbm kg).  I determine my lean
+  body using my weight and body fat.  I then determine the appropriate
+  number of grams based on my current activity level using the
+  following as a guide:
+  - Sedentary (generally physically inactive): 0.5g per kg lbm
+  - Light activity (includes walking or gardening): 0.6g per kg lbm
+  - Moderate (30 minutes of moderate activity, thrice weekly): 0.7g per kg lbm
+  - Active (one hour of exercise, five times weekly): 0.8g per kg lbm
+  - Very active (10 to 20 hours of exercise weekly): 0.9g per kg lbm
+  - Athlete (over 20 hours of exercise weekly): 1.0g per kg lbm
+
+- **Fat**: The remaining calories I require need to come from the fat
+  bucket.
+
+Application of the above algorithm has resulted in a macro split
+roughly as follows:
+- 75% of calories from fat
+- 20% of calories from protein
+- 5% of calories from netcarbs
 
 
 
-# Warnings
+# Water
 
-- Water
-- Sleep
-- Protein level
+Getting enough water per day is critical particularly if you are on a
+low carb routine.  Failure will result in kidney stones!  I use the
+formula of weight "divided by 2" ounces of water per day as the
+minimum.
 
 
 
@@ -563,24 +604,19 @@ I captured these details from a summary of Matt Walker's book on [fastlifehacks.
 
 
 
-# Tips
-
-- Weigh prior to cooking
-- Grams & Tablespoons
-
-
-
 # Vitamins, Minerals, and Supplements
 
 - Omega-3
 - Vitamin D
 - Magnesium
+- Electrolytes
 - more to come...
 
 
 
 # Wearables
 
+- [Garmin Fenix 6](https://www.amazon.com/Garmin-Multisport-Altitude-Adjusted-Training/dp/B07VVM1VM6/ref=asc_df_B07VVM1VM6/?tag=hyprod-20&linkCode=df0&hvadid=366280934115&hvpos=&hvnetw=g&hvrand=10161341847180990216&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031975&hvtargid=pla-816740698777&psc=1&tag=&ref=&adgrpid=74513438845&hvpone=&hvptwo=&hvadid=366280934115&hvpos=&hvnetw=g&hvrand=10161341847180990216&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031975&hvtargid=pla-816740698777): Useful to know exercise calories burned per activity/day
 - [Oura Ring](https://ouraring.com)
 - [Dexcom G6 Continuous Glucose Monitor](https://www.dexcom.com/get-started-cgm/52?sfc=701f30000018viWAAQ&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nZjw4iIvf0moKynKFiXebZrGWK-Ui23j1129jlXwUX4p-IOe6gQnUxoCjN4QAvD_BwE)
 - more to come...
