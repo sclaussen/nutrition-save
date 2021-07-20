@@ -1,9 +1,9 @@
 # Introduction
 
-Key Facets of my Health Plan:
+My health plan is focused on managing my insulin resistance.  Here are the key facets:
 1. High Quality Food
-2. [Keto (Low Carbohydrates)](https://www.dietdoctor.com/low-carb/keto/u7)
-3. Intermittent Fasting
+2. [Ketogenic (Low Carbohydrate / High Fat)](https://www.dietdoctor.com/low-carb/keto/u7)
+3. Intermittent Fasting (One Meal a Day)
 4. Exercise
 5. Sleep
 
@@ -11,85 +11,132 @@ Key Facets of my Health Plan:
 
 # Reference
 
-Here's some of the key sources of the cornerstones of my health plan:
-
-Podcasts on health/nutrition/longevity:
-* [Dr. Jason Fung (Tom Bilyeu)](https://www.youtube.com/watch?v=XhPwjmbkgDs)
-* [Dr. David Sinclair (Joe Rogan)](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)  --[fasting clip](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)--
-* [Dr. David Sinclar (Rhonda Patrick)](https://www.youtube.com/watch?v=5DtWqzalEnc)
-* [Dr. Richard Isaacson (Peter Attia)](https://peterattiamd.com/richardisaacson): Alzheimers
-* [Dr. Richard Isaacson and Lauren Miller-Rogen (Peter Attia)](https://peterattiamd.com/laurenmillerrogen-richardisaacson): Alzheimers
-* [Dr. Horvath (Rhonda Patrick)](https://www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
-* [Gary Taubes (Peter Attia)](https://www.youtube.com/watch?v=8js28V95flc)
-
-Books on health/nutrition/longevity:
+Books:
 * [The Obesity Code (Dr. Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Why We Get Sick (Dr. Benjamin Bikman)](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
 * [Lifespan (Dr. David Sinclair)](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
 * [The Case for Keto (Gary Taubes)](https://www.amazon.com/s?k=the+case+for+keto&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nWYZi4rZGM5JfbvnAX46KVCXwmrUBM9ZYAkBmxm7A-aWdpONarFzbhoCw_AQAvD_BwE&hvadid=416744105949&hvdev=c&hvlocphy=9031975&hvnetw=g&hvqmt=e&hvrand=10029320316729189384&hvtargid=kwd-871459532323&hydadcr=22536_9636733&tag=googhydr-20&ref=pd_sl_7q2cbifsgv_e)
+* [Why We Sleep (Matthew Walker)](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
 
-Personalities/Podcasts:
-* [Dr. Peter Attia - The Drive](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
-* [Dr. Jason Fung - The Fasting Method](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung)
-* [Dr. Rhonda Patrick - Found My Fitness](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/user/FoundMyFitness)
-* [Tom Bilyeu - Impact Theory](https://impacttheory.com)
-* [Mark Sisson - Mark's Daily Apple](https://www.marksdailyapple.com)
+Highlighted interviews:
+* [Dr. Jason Fung (by Tom Bilyeu)](https://www.youtube.com/watch?v=XhPwjmbkgDs)
+* [Dr. Jason Fung (by Gary Taubes)](https://www.youtube.com/watch?v=QAim7IASsEg)
+* [Dr. David Sinclair (by Joe Rogan)](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)  --[fasting clip](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)--
+* [Dr. David Sinclar (by Rhonda Patrick)](https://www.youtube.com/watch?v=5DtWqzalEnc)
+* [Dr. Horvath (by Rhonda Patrick)](https://www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
+* [Dr. Ben Bikman (by Andreas Eenfeldt)](https://www.youtube.com/watch?v=AhRCX3nNhA4): Insulin resistance
+* [Gary Taubes (by Peter Attia)](https://www.youtube.com/watch?v=8js28V95flc)
+* [Dr. Matthew Walker (by Peter Attia)](https://www.youtube.com/watch?v=5stcuh065Vk)
+* [Dr. Richard Isaacson (by Peter Attia)](https://peterattiamd.com/richardisaacson): Alzheimers
+* [Dr. Richard Isaacson and Lauren Miller-Rogen (by Peter Attia)](https://peterattiamd.com/laurenmillerrogen-richardisaacson): Alzheimers
 
-Other useful healh/nutrition linkes:
+Subject matter experts:
+* [Dr. Peter Attia (The Drive)](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
+* [Dr. Jason Fung (The Fasting Method)](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung)
+* [Dr. Rhonda Patrick (Found My Fitness)](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/c/FoundMyFitness/videos)
+* [Dr. David Sinclair (Harvard)](https://www.youtube.com/results?search_query=david+sinclair)
+* [Dr. David Sabatini (MIT)](https://www.youtube.com/results?search_query=david+sabatini)
+* [Dr. Steve Horvath (UCLA)](https://www.youtube.com/results?search_query=steve+horvath)
+* [Dr. Andrew Huberman (Huberman Lab)](https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg)
+* [Dr. Matthew Walker](https://www.youtube.com/results?search_query=matthew+walker)
+* [Tom Bilyeu (Impact Theory/Quest)](https://impacttheory.com)
+* [Mark Sisson (Mark's Daily Apple)](https://www.marksdailyapple.com)
+
+Useful items:
+* [Withings Body+ Scale](https://www.amazon.com/Withings-Nokia-Body-Composition-smartphone/dp/B071XW4C5Q/ref=sr_1_1_sspa?dchild=1&keywords=withings+scale&qid=1624559620&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOU5JVkFSOTZKUks1JmVuY3J5cHRlZElkPUEwMjQzNDg0QVlQTDFINUZDVjNEJmVuY3J5cHRlZEFkSWQ9QTA5NzM2NDNSNkRYMkVVWjBKQ1Qmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl): This scale captures body fat % which is necessary to determine my macro consumption goals
+* [Nicewell Food Scale](https://www.amazon.com/gp/product/B07S6F6LHQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1): Use it daily to prepare my meal
+* [OXO Good Grips 3-in-1 Avocado Slicer](https://www.amazon.com/OXO-Good-Grips-Avocado-Slicer/dp/B0088LR592/ref=sr_1_5_0o_fs?crid=2Y5LBORVFUJ7D&dchild=1&keywords=avocado+tool&qid=1624559529&sprefix=avocado+%2Caps%2C236&sr=8-5): Incredibly useful for scooping avocados
+* [Timoo Coffee Measuring Scoop 1 Tablespoon, Set of 5: Kitchen & Dining](https://www.amazon.com/Timoo-Coffee-Measuring-Tablespoon-Stainless/dp/B07HD2TZ2M/ref=sr_1_6?dchild=1&keywords=tablespoons&qid=1624559569&sr=8-6): Useful as I measure all liquids in tablespoons
+* [Fullstar Vegetable Chopper](https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0764HS4SL/ref=sr_1_6?dchild=1&keywords=dicer&qid=1624559592&sr=8-6): For dicing salad ingredients, hot peppers, etal
+* [Twist Top Food Deli Containers](https://www.amazon.com/gp/product/B077G76C6J/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1): Useful for prepping salad ingredients, et al
+* [5 Quart Salad Bowl](https://www.amazon.com/OXO-Good-Grips-5-Quart-Mixing/dp/B0001YH1MU/ref=sr_1_2?dchild=1&keywords=5+quart+oxo&qid=1626811593&sr=8-2): For huge salads
+* [3 Quart Salad Bowl](https://www.amazon.com/OXO-Grips-3-Quart-Mixing-White/dp/B00004OCMY/ref=sr_1_5?dchild=1&keywords=3+quart+oxo&qid=1626811632&sr=8-5): For large salads
+
+My supplements:
+* [Fish Oil (Omega-3)](https://www.amazon.com/dp/B001LF39S8/ref=twister_B0047VWYSO?_encoding=UTF8&psc=1): What I've started using to supplement Omega-3s
+* [SlowMag (Mg/Ca)](https://www.amazon.com/SlowMag-Magnesium-Chloride-Calcium-Supplement/dp/B07CJX4M8K/ref=sxts_sxwds-bia-wc-rsf1_0?cv_ct_cx=slow+mag&dchild=1&keywords=slowmag&pd_rd_i=B07CJX4M8K&pd_rd_r=458fbfae-ef08-44fd-bd0f-86d9d433db3e&pd_rd_w=U8kBr&pd_rd_wg=rA9RM&pf_rd_p=5168df84-062d-4bdf-8a6e-2680813bd42f&pf_rd_r=VK1YWSAKY34QDA930PRP&psc=1&qid=1615496082&s=hpc&sr=1-1-7bf78e84-8ef2-4f13-9926-bee5153e81cb): Magnesium supplement
+* [Vitamin D](https://www.amazon.com/Thorne-Research-Vitamin-Supplement-Capsules/dp/B0797H3VQS/ref=sxts_rp_s1_0?cv_ct_cx=vitamin+d&dchild=1&keywords=vitamin+d&pd_rd_i=B0797H3VQS&pd_rd_r=93d0baef-8080-4321-84a4-b949f0b86710&pd_rd_w=Mpa1y&pd_rd_wg=lCMMj&pf_rd_p=c6bde456-f877-4246-800f-44405f638777&pf_rd_r=V08DPSFTQN5Y8GPBYDXD&psc=1&qid=1626811544&sr=1-1-f0029781-b79b-4b60-9cb0-eeda4dea34d6)
+* [Endure (electrolytes)](https://www.amazon.com/Trace-Minerals-Research-Performance-Electrolyte/dp/B000VDLD9S/ref=sr_1_3_sspa?dchild=1&keywords=endure&qid=1626811510&sr=8-3-spons&psc=1&smid=A1SGUUCL70EYZE&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTVU44VDAwWjBCWTImZW5jcnlwdGVkSWQ9QTA3MDAzMjAzSllITk1EVVZaNVVNJmVuY3J5cHRlZEFkSWQ9QTAxMTE4NTQxTDZYTk9TUFdFVTRKJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+* Good reading on supplements:
+  * [Dr. Peter Attia](https://fastlifehacks.com/peter-attia-supplements-diet-exercise)
+  * [Dr. David Sinclair](https://fastlifehacks.com/david-sinclair-supplements/?utm_source=wppp)
+  * [Dr. Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/?utm_source=wppp)
+  * [Joe Rogan](https://fastlifehacks.com/joe-rogan-supplements/?utm_source=wppp)
+
+Other useful links:
 * [Dirty dozen (pesticide analysis)](https://www.ewg.org/foodnews/dirty-dozen.php)
 * [Cornucopia scorecards](https://www.cornucopia.org/scorecards/)
 * [Cornucopia eggs scorecard](https://www.cornucopia.org/scorecard/eggs)
 * [Glycemic index](https://www.health.harvard.edu/diseases-and-conditions/glycemic-index-and-glycemic-load-for-100-foods)
 * [Insulin index](https://optimisingnutrition.com/food-insulin-index-2/)
+* [Oxalate Dirty Dozen p1](https://lowoxcoach.com/the-oxalate-dirty-dozen-part-1) and [Oxalate Dirty Dozen p2](https://lowoxcoach.com/the-oxalate-dirty-dozen-part-2)
+* [Global Animal Partnership Step 4](https://www.greenerchoices.org/global-animal-partnership-step-4
+* [Supplement Ratings and Reviews (Labdoor)](https://labdoor.com)
+* [Supplement Certifications (Nutrasource)](https://certifications.nutrasource.ca/certified-products)
+* [FastLifeHacks.Com](https://fastlifehacks.com)
 
 
 
-# Tools
+# Goals and Criteria
 
-Here's a list of items I find helpful:
-* [Withings Body+ Scale](https://www.amazon.com/Withings-Nokia-Body-Composition-smartphone/dp/B071XW4C5Q/ref=sr_1_1_sspa?dchild=1&keywords=withings+scale&qid=1624559620&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOU5JVkFSOTZKUks1JmVuY3J5cHRlZElkPUEwMjQzNDg0QVlQTDFINUZDVjNEJmVuY3J5cHRlZEFkSWQ9QTA5NzM2NDNSNkRYMkVVWjBKQ1Qmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl): This scale captures body fat % which is necessary to determine my macro consumption goals
-* [Nicewell Food Scale](https://www.amazon.com/gp/product/B07S6F6LHQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1): Use it daily to prepare my meal
-* [OXO Good Grips 3-in-1 Avocado Slicer](https://www.amazon.com/OXO-Good-Grips-Avocado-Slicer/dp/B0088LR592/ref=sr_1_5_0o_fs?crid=2Y5LBORVFUJ7D&dchild=1&keywords=avocado+tool&qid=1624559529&sprefix=avocado+%2Caps%2C236&sr=8-5): Incredibly useful for scooping avocados
-* [Timoo Coffee Measuring Scoop 1 Tablespoon, Set of 5: Kitchen & Dining](https://www.amazon.com/Timoo-Coffee-Measuring-Tablespoon-Stainless/dp/B07HD2TZ2M/ref=sr_1_6?dchild=1&keywords=tablespoons&qid=1624559569&sr=8-6)
-* [Fullstar Vegetable Chopper](https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0764HS4SL/ref=sr_1_6?dchild=1&keywords=dicer&qid=1624559592&sr=8-6)
-* [Twist Top Food Deli Containers](https://www.amazon.com/gp/product/B077G76C6J/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1): Useful for prepping salad ingredients, et al
-* [Fish Oil](https://www.amazon.com/dp/B001LF39S8/ref=twister_B0047VWYSO?_encoding=UTF8&psc=1): What I've started using to supplement Omega-3s
-* [SlowMag](https://www.amazon.com/SlowMag-Magnesium-Chloride-Calcium-Supplement/dp/B07CJX4M8K/ref=sxts_sxwds-bia-wc-rsf1_0?cv_ct_cx=slow+mag&dchild=1&keywords=slowmag&pd_rd_i=B07CJX4M8K&pd_rd_r=458fbfae-ef08-44fd-bd0f-86d9d433db3e&pd_rd_w=U8kBr&pd_rd_wg=rA9RM&pf_rd_p=5168df84-062d-4bdf-8a6e-2680813bd42f&pf_rd_r=VK1YWSAKY34QDA930PRP&psc=1&qid=1615496082&s=hpc&sr=1-1-7bf78e84-8ef2-4f13-9926-bee5153e81cb): Magnesium supplement
+The following is the criteria I use when selecting my meal
+ingredients.  This list is constantly evolving.
 
+- Avoid cooking and topping oils that use heat and/or chemical
+  extraction - eg vegetable, soybean, corn oils, ...
+  * [Episode 262: The Hateful Eight (Industrial Seed Oils) | Dr. Cate Shanahan on Wise Traditions with Hilda Labrada Gore • Podcast Notes](https://podcastnotes.org/wise-traditions/episode-262-the-hateful-eight-industrial-seed-oils-dr-cate-shanahan-on-wise-traditions-with-hilda-labrada-gore/)
 
-
-# Summary
-
-- Use quality oils (avoid heat and/or chemical extraction - eg
-  vegetable, soybean, and corn oils - or any food containing these
-  oils - eg eating out)
-- In general, organic where required, and non-GMO
-- Organic chicken
-- Grass raised/finished beef
-  - https://www.cornucopia.org/health-wins-for-organic-beef/
-- Organic pasture raised eggs
-- Organic as required to avoid high pesticide
-- Wild raised sockeye salmon
-- Non-GMO crate free pork
-- Avoid drinking calories
-- Avoid all processed foods
 - Avoid anything cooked in bad oils
-- Avoid added nitrites/nitrates
-- Avoid trans fats
-- Avoid all added sugar (dark chocolate is the exception)
-- Minimize consumption of high oxalate vegetables
+
+- In general, **organic**, **non-GMO**, no **antibiotics**, no **hormones**, no **artificial coloring**
+
+- **Organic chicken**
+
+- **Grass raised/finished beef**
+  * [Health Wins for Organic Beef (Cornucopia Institute)](https://www.cornucopia.org/health-wins-for-organic-beef/)
+
+- **Organic pasture raised eggs**
+
+- **Wild raised fish**
+  * [Fish and polychlorinated biphenyls (PCBs) (Mayo Clinic)](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/fish-and-pbcs/faq-20348595)
+  * [Farm Raised Fish OR Wild Caught Fish, Which Is Best To Consume? (Dr. Berg)](https://www.youtube.com/watch?v=J2uAyp6WCnA)
+
+- Non-GMO **crate free pork**
+
+- Avoid **drinking calories**
+
+- Avoid all **processed foods**
+
+- Avoid added **nitrites/nitrates**
+
+- Avoid **trans fats**
+
+- Avoid all **added sugar** (dark chocolate is the single exception)
+
+- Avoid **mercury** from large fish
+
+- Minimize consumption of high **oxalate** vegetables
+
+- Balanced **Omega-6/Omega-3** ratio
+
+
+
+## Other health related goals
+
 - Consume required water daily
+
 - One meal a day
-- Exercise
-- Quality sleep
+
+- Sleep
 
 
 
 # Food Categories
 
-The following is a summary of the changes I made by food category.
-The changes are the result of focusing on higher quality, healthy,
-non-processed, foods, that have a low carb footprint.
+The following is a summary of the changes I made to my diet grouped
+into separate food categories.  The changes are the result of focusing
+on higher quality, healthy, non-processed, foods, that have a low carb
+footprint.
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide.jpg?auto=compress%2Cformat&w=800&h=392&fit=crop)
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide-avoid2.jpg?auto=compress%2Cformat&w=800&h=401&fit=crop)
@@ -98,36 +145,51 @@ non-processed, foods, that have a low carb footprint.
 
 ## Liquids
 
-- I refrain from consuming any calories in liquid form (eg sports drinks,
-  orange juice, milk, smoothy, et al)
+- I refrain from consuming any calories in liquid form (eg sports
+  drinks, orange juice, milk, smoothy, et al)
 - I rarely drink alcohol
-- I drink black coffee atleast once a day, often multiple times (zero calories)
+- I drink black coffee atleast once a day, often multiple times (zero
+  calories)
 - I drink hot green tea or black ice tea frequently (zero calories)
-- I consume a lot of water
-- I try hard to hit my minimum daily water requirement daily
+- I consume a lot of water (I try hard to hit my minimum daily water
+  requirement daily)
 
 
 
 ## Sweetener
 
 - The only sweetener I use is Stevia but it's relatively rare.
-- I avoid everything other than dark chocolate that has any added sugar.
+
+- By avoiding processed foods I avoid all foods with added sugar or
+  any sugar substitute (dark chocolate is the only exception).
 
 
 
 ## Spices
 
-- I use quite a few spices including garlic, tumeric, peppers, garam
-  masala, ...  That said, I'm careful not to consume spices that
-  contain carbs.
+- I use quite a few spices including:
+  - garlic
+  - ginger
+  - black pepper
+  - chili pepper
+  - garam masala (mix)
+  - ...
+
+- I'm careful when consuming spices that contain carbs
+
+- I typically refrain from consuming tumeric due to its high oxalate
+  content.
 
 
 
 ## Oils
 
 - I add extra virgin olive oil (typically organic) to my salads.
-- I cook eggs in organic coconut oil (mcts).
+
+- I cook eggs in organic coconut oil (MCTs).
+
 - I cook most everything else in avocado oil (high smoke point).
+
 - On occasion I'll cook in butter or ghee (primarily ghee).
 
 
@@ -140,44 +202,47 @@ non-processed, foods, that have a low carb footprint.
 - I avoid all high mercury content fish, and limit tuna consumption to
   once per month max.
 
-- I source my chicken, beef, pork chops, salmon, and cod from
-  butcher box.  If you're interested in trying butcher box I can
-  provide a referral.
+- I source the majority of my chicken, beef, pork chops, salmon, and
+  cod from butcher box.  If I buy meat locally, I usually purchase
+  Step 4 products.
 
 - Chicken
-  - Organic, free range, non-gmo (https://support.butcherbox.com/hc/en-us/articles/115015793928-Can-you-tell-me-about-your-chicken-)
+  - I consume organic, free range, non-gmo chicken ([Butcher Box
+    FAQ](https://support.butcherbox.com/hc/en-us/articles/115015793928-Can-you-tell-me-about-your-chicken-))
 
 - Beef
-  - Grass raised and grass finished (https://support.butcherbox.com/hc/en-us/articles/360000094648-Can-you-tell-me-about-your-beef-)
+  - I consume grass raised and grass finished beef ([Butcher Box
+    FAQ](https://support.butcherbox.com/hc/en-us/articles/360000094648-Can-you-tell-me-about-your-beef-))
 
   - Even though I wanted a lot of fat in my diet (approx 70%) I will
     consume 80%/20%, 85%/15%, and 90%/10% beef, but typically it's
     85%/15%.  That said, if given a choice I'll eat leaner meat not
     because I'm trying to avoid fat, but as a way to provide me
-    flexibility wrt how I consume high quality fat (eg olive oil,
-    nuts, et al).
+    flexibility wrt how I add high quality fat to my meal (eg olive
+    oil, nuts, et al).
 
 - Salmon
-  - Wild Alaskan sockeye (I stay away from farm raised)
+  - I consume wild vs farm raised
+  - Wild Alaskan Sockeye
 
-- Sardines, Mackeral, Tuna
+- Sardines, Atlantic Mackeral, Albacore Tuna
   - All sourced from Wild Planet
 
 - Eggs
-  - Organic Pasture Raised (typically sourced from [Vital Farms](https://www.cornucopia.org/scorecard/eggs/vital-farms))
+  - I consume organic pasture raised eggs (typically sourced from
+    [Vital
+    Farms](https://www.cornucopia.org/scorecard/eggs/vital-farms))
 
-On the topic of eggs, recently I purchased a dozen organic pasture
-raised eggs from a local farm (Clover) before verifying the farm's
-rating on cornucopia (mistake)!  These eggs typically sell for
-$7.29/dozen so they are expensive.  The first time I cracked the
-clover egg, it was obvious that it had a thinner shell than the Vital
-eggs I was used to, and the yellow and bland color of the yolk made it
-obvious that they were lower quality.  Here's a photo of Clover and
-Vital eggs, obvious which is which?!
+  - On the topic of eggs, recently I purchased a dozen organic pasture
+    raised eggs from a local farm (Clover) before verifying the farm's
+    rating on cornucopia.  Big mistake!  These eggs typically sell for
+    $7.29/dozen so they are expensive.  The shell of the first Clover
+    egg I cracked was obviously far thinner than the Vital eggs I was
+    used to, and the yellow/bland color of the yolk made it obvious
+    that they were lower quality (less nutrients).  Here's a photo of
+    Clover and Vital eggs.  Is it obvious which egg is which?!
 
-<img src="./eggs.png" alt="eggs" width="200"/>
-
-![](./eggs.png | width=200){:height="50%" width="50%"}
+    <img src="./images/eggs.png" alt="eggs" width="200"/>
 
 
 
@@ -185,29 +250,36 @@ Vital eggs, obvious which is which?!
 
 - Leafy Greens
 
-  - I currently use a combination of baby arugula, collared greens,
-    and romaine.
+  - I currently consume a combination of baby arugula, collared
+    greens, and romaine in my salad.
 
-  - I have used spinach and chard as well, but they both have high
-    levels of oxalates that can result in kidney stones so for that
-    reason I typically avoid them.
+  - I have used spinach and swiss chard historically, but I now
+    refrain from using them due to their high oxalate levels.
 
-  - I love kale as well, but it has a relatively high carb footprint
-    if you're building a large salad with it, so I don't use it often.
+  - I love kale as well, particularly dino, but it has a relatively
+    high carb footprint if you're building a large salad with it, so I
+    don't use it often.
 
   - I have used cabbage from time to time, but it has a high carb
     footprint as well.
 
 - Avocados (actually a fruit) are a key staple of my diet.
 
-- My other vegetable staples are mushrooms, radish, broccoli,
-  cauliflower, asparagus, brussel sprouts, green beans, serrano
-  peppers, and zucchini.
+- My other vegetable staples are:
+  - mushrooms
+  - radish
+  - broccoli
+  - cauliflower
+  - asparagus
+  - brussel sprouts
+  - green beans
+  - serrano peppers
+  - zucchini
 
-- On occasion I'll have tomatoes, onions, carrots, peas, etal, but
-  they have a higher carb footprint.
+- On occasion I'll have tomatoes onions, carrots, peas, etal, but they
+  have a higher carb footprint.
 
-- I avoid most starchy vegetables.
+- I avoid most most everything else including starchy vegetables.
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/02/Keto-vegetables-AG.jpg?auto=compress%2Cformat&w=1200&h=541&fit=crop)
 
@@ -220,8 +292,8 @@ Vital eggs, obvious which is which?!
 ## Fruits
 
 - Generally speaking, due to their high carb content and the health
-  issues associated with fructose, I simply have stopped consuming
-  fruits altogether.
+  issues associated with fructose/NAFLD, I simply have stopped
+  consuming fruits altogether.
 
 - If I do consume fruit (delta avocado), it's one of the berries
   (strawberry, blackberry, rasberry, or blueberry) due to their
@@ -243,7 +315,7 @@ Vital eggs, obvious which is which?!
   (lactose).
 
 - I consume a lot of cheese (typically feta, parmesan, blue,
-  mozareally, mitica, machnego, gouda, or emmentaler).
+  mozarella, mitica, manchego, gouda, or emmentaler).
 
 - I cook in ghee or butter occasionally.
 
@@ -253,18 +325,20 @@ Vital eggs, obvious which is which?!
 
 ## Nuts
 
-- I only consume raw nuts.
+- I consume raw nuts.
 
-- I consume organic nuts when they are not price prohibitive.
+- I typically consume organic nuts.
 
-- I consume pecans, walnuts, cocnut, and macadamia nuts (I avoid both
+- I consume pecans, walnuts, coconut, and macadamia nuts (I avoid both
   hazel and brazil nuts due to allergies).
 
 - Occasionally I'll consume the higher carb footprint nuts like
-  peanuts and almonds.
+  peanuts.
 
 - I refrain from all the other higher carb footprint nuts (like
   pistacio and cashew).
+
+- I refrain from almonds due to high oxalates.
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/01/Keto%E2%80%93Nuts.jpg?auto=compress%2Cformat&w=1200&h=602&fit=crop)
 
@@ -277,7 +351,10 @@ Vital eggs, obvious which is which?!
 
 - I consume low carbohydrate seeds as a mechanism to maintain minimum
   daily fiber requirements and as a source of vitamins and minerals
-  including chia seeds, flax seeds, and pumpkin seeds.
+  including:
+  - chia seeds
+  - flax seeds
+  - pumpkin seeds.
 
 - I frequently add stone ground mustard to my salads and brugers to
   increase the spice.
@@ -289,7 +366,7 @@ Vital eggs, obvious which is which?!
 
 ## Legumes, Grains, ...
 
-- I do not consume any cereals, breads, rice, et al.
+- I do not consume any breads, cereals, rice, et al.
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/02/Peas-beans-corn-lentils-quinoa1.jpg?auto=compress%2Cformat&w=800&h=296&fit=crop)
 
@@ -300,7 +377,9 @@ Vital eggs, obvious which is which?!
 ## Snacks
 
 - The only snack food I consume is small amounts of dark chocolate
-  (typically 80%+) on occasion.
+  (typically 80%+) on occasion (downside is dark chocolate has added
+  sugar and thus relatively robust carb footprint and has high oxalate
+  content).
 
 
 
@@ -357,9 +436,9 @@ My meal typically consists of:
 - Cheese
 
 The advantage of a salad and an omelette is they provide a lot of
-flexibility for mixing in various ingredients.  On occasion I'll add
-the omelette and/or the meat directly into the salad, and other times
-eat them separately.
+flexibility wrt mixing and combining different ingredients.  On
+occasion I'll add the omelette and/or the meat directly into the
+salad, and other times eat them separately.
 
 
 
@@ -369,51 +448,56 @@ My meal prep process is pretty straightforward:
 
 - I typically prep all my vegetables ahead of time to speed up the
   meal prep.  This includes dicing mushrooms, radishes, et al.
-- I plan my meal ahead of time using my spreadsheet so I know how much
-  of what ingredients to add.  I usually take an IPhone photo of my
-  plan to recall all the details as I'm prepping the meal.
+
+- I plan my meal ahead of time using a very custom built for purpose
+  spreadsheet so I know how much of what ingredients to prepare.  I
+  usually take an IPhone photo of my plan to recall all the details as
+  I'm preparing the meal.
+
 - To keep things simple, I typically either use grams or tablespoons
   as the normalized unit.  Thus, ingredients like leafy greens,
   mushrooms, radish, are added to the bowl using grams, and things
   like olive oil, fish oil, and mustard are added in tablespoon units.
   For other ingredients I'll plan using "N eggs", or "N squares of
   chocolate", etc.
-- I put a 3 or 5qt salad bowl on my grams scale.  As I add ingredients
-  to the salad, I add them directly to the salad bowl, zeroing out the
-  scale after each addition, so I don't have to measure the
-  ingredients separately before adding.  This speeds everything up.
+
+- I put a 3 or 5qt salad bowl on my grams scale and as I add
+  ingredients to the salad, I add them directly into the salad bowl,
+  zeroing out (taring) the scale after each addition, so I don't have
+  to measure the ingredients separately.  This speeds everything up.
+
 - I put a small pot on the scale and add broccoli and/or cauliflower
   (when using those vegetables), taring as I go, then add water, and
   warm up or boil the vegetables, strain, and dump them directly into
   the salad.  Recently I just warm them up a bit, as boiling removes
   some portion of the nutrients.
+
 - I put coconut oil and serrano pepers in an omelette pan, and then
   add eggs for the omelette, and when it's nearly done cooking I add
   the salsa (I like it hot).  At times I add the omelette directly to
   the salad.
+
 - Separately I cook the meat and/or other vegetables.  At times I add
   those directly to the salad.
 
-Here's how I prepare a sample meal:
+Here's a concrete meal preparation example:
 
 - Salad
   - Put a 5qt bowl on the scale, tare it
-  - Add 100g of collard greens
+  - Add 100g of collard greens into the bowl
   - Add 100g of romaine (scale says 200g)
-  - Add 145g of baby argula (scale says 345g), tare the scale
-  - Add 140g of avocado (~ medium avocado), tare the scale
+  - Add 145g of baby arugula (scale says 345g), tare the scale
   - Add 100g of diced white mushrooms
-  - Add 100g of diced radish (scale will say 200g)
-  - Add one can of drained mackerel
+  - Add 100g of diced radish (scale will say 200g), tare the scale
+  - Add 140g of avocado (~ medium avocado)
   - Add 4tbsp of extra virgin olive oil
   - Add 3tbsp of stone ground mustard to salad
-  - Add garlic powder spice
   - Put a small boiling pan on the scale, tare the scale
   - Add 100g broccoli
-  - Add 100g cauliflower (scael will say 200g)
+  - Add 100g cauliflower (scale will say 200g)
   - Add water to the top of the vegetables, bring the pan to a boil, strain water
   - Dump the broccoli and cauliflower into the salad
-  - Mix, toss, and serve!
+  - Mix and toss
 - Omelette
   - Add 1tbsp coconut oil to an omelette pan, melt it on low/medium
   - Add 4 diced serrano peppers, sautee lightly
@@ -429,7 +513,7 @@ Here's how I prepare a sample meal:
 
 ## Protein
 
-To determine your daily protein need, multiply you LBM by the appropriate activity level.
+To determine your daily protein need, multiply your LBM by the appropriate activity level.
 - Sedentary (generally physically inactive): multiply by 0.5
 - Light activity (includes walking or gardening): multiply by 0.6
 - Moderate (30 minutes of moderate activity, thrice weekly): multiply by 0.7
@@ -447,8 +531,54 @@ To determine your daily protein need, multiply you LBM by the appropriate activi
 
 
 
+# Sleep
+
+I captured these details from a summary of Matt Walker's book on [fastlifehacks.com](fastlifehacks.com):
+
+1. **Stick to a sleep schedule**: We should aim to go to bed and wake up at the same time each day. People generally have a hard time adjusting to changes in sleep patterns. Unfortunately sleeping late on weekends doesn’t make up for poor sleep during the week. If necessary, set an alarm for bedtime. Matthew emphasizes this is the #1 priority from the list; stick to a regular sleep schedule.
+2. **Don’t exercise too late in the day**: Exercise is great, and we should try to exercise at least 30 minutes on most days. But try to time it no later than 2-3 hours before bed.
+3. **Avoid caffeine & nicotine**: Colas, coffee, teas (that aren’t herbal) and chocolate contain caffeine, which is a stimulant. Even consuming these in the afternoon can have an affect on your sleep. Nicotine is also a mild stimulant, and smokers will often wake up earlier than they would otherwise, due to nicotine withdrawal.
+4. **Avoid alcoholic drinks before bed**: The presence of alcohol in the body can reduce your REM sleep, keeping you in the lighter stages of sleep.
+5. **Avoid large meals and beverages late at night**: A lights snack before bed is okay, but a heavy meal can cause digestive issues, which interferes with sleep. Drinking too many fluids can cause freuqent awakenings to urinate.
+6. **Avoid medicines that delay or disrupt your sleep (where possible)**: Some commonly prescribed heart, blood pressure or asthma medications, as well as some over the counter and herbal medicines for coughs colds or allergies can disrupt sleep patterns. If you have trouble sleeping, it may be worth speaking to your doctor or pharmacist to see if any of the drugs you’re taking may be contributing to this. It may be possible to take them earlier in the day.
+7. **Don’t nap after 3pm**: Naps are great, but taking them too late in the day can make it hard to fall asleep at night.
+8. **Make sure to leave time to relax before bed**: It’s important to have time before bed to unwind. Try to schedule your days so that there is time to relax before bed.
+9. **Take a hot bath before bed**: The drop in body temperature after a bath may help you to feel sleepy, and the bath can help you to slow down and relax before bed.
+10. **Have a dark, cool (in temperature), gadget free bedroom**: We sleep better at night if the temperature in the room is kept on the cool side. Gadgets such as mobile phones and computers can be a distraction. Additionally the light they emit, especially the blue light, suppresses the secretion of melatonin. Melatonin being a hormone that regulates sleep/wake cycles – with it increasing in the evening to induce sleep. There are things we can do to reduce the blue light at night, including:
+  - Using blue light filters on our phones & tablets. iOS 9.3 or later (iPhone 5S & iPad 2 onwards) has this built in – called Night Shift. On Android there are apps for this, a popular one being Twilight.
+  - Using blue light filters on our computers. For MacOS & Windows f.lux is a popular solution. Windows 10 also has a built in “Night Light” function that offers similar functionality.
+  - Using blue light filters on our home lighting system. A popular solution to this are Philips Hue bulbs, which connect wirelessly to your router, and can be programmed to reduce blue light during certain times of day. So for example, if your bedtime is 11pm, you can set the bulbs to reduce blue light from 10pm onwards… which will increase your melatonin level, preparing you for sleep.
+  - A comfortable mattress and pillow can set you up for a good sleep. Those with insomnia will often watch the clock, turn it away from view so you don’t have to worry about the time while trying to sleep. Use these tips to optimize your sleeping space.
+11. **Get the right sunlight exposure**: Sun exposure during the day helps us to regulate sleeping patterns. Try to get outside in the natural sunlight for at least 30 minutes per day.
+12. **Don’t stay in bed if you (really) can’t sleep**: If you find yourself still in bed for more than 20 minutes, or you’re starting to get anxious in bed, get up and do something else until you feel sleepy. Anxiety whilst trying to sleep can make it harder to fall asleep.
+
+
+
 # Tips
 
-- Meal prep process
 - Weigh prior to cooking
 - Grams & Tablespoons
+
+
+
+# Vitamins, Minerals, and Supplements
+
+- Omega-3
+- Vitamin D
+- Magnesium
+- more to come...
+
+
+
+# Wearables
+
+- [Oura Ring](https://ouraring.com)
+- [Dexcom G6 Continuous Glucose Monitor](https://www.dexcom.com/get-started-cgm/52?sfc=701f30000018viWAAQ&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nZjw4iIvf0moKynKFiXebZrGWK-Ui23j1129jlXwUX4p-IOe6gQnUxoCjN4QAvD_BwE)
+- more to come...
+
+
+
+# Testing
+
+- [Inside Tracker](https://www.insidetracker.com)
+- more to come...
