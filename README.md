@@ -5,7 +5,101 @@ My health plan is focused on managing my insulin resistance.  Here are the key f
 2. [Ketogenic (Low Carbohydrate / High Fat)](https://www.dietdoctor.com/low-carb/keto/u7)
 3. Intermittent Fasting (One Meal a Day)
 4. Exercise
-5. Sleep
+5. Sleep (work in progress)
+6. Meditation (work in progress)
+
+
+
+# My Religion
+
+Since I began my personal health crusade I've dove very deep on the
+topic of personal health and nutrition and have done quite a bit of
+research.  Through that process I've developed some strong views, all
+of which are loosely held, and evolving virtually daily.  Here's a
+quick snapshot of my current perspective:
+
+- **Change**: I changed five things to get healthier: (1) dramatically
+  increased the quality of the food I consumed, (2) changed when I
+  ate, (3) added a walking exercise program, (4) went on a low carb
+  high fat Keto based diet, and (5) improved my sleep habits.  If I
+  had to give up four of those and pick the one that I think most
+  impacts my health it would be intermittent fasting (although sleep
+  is the easiest to fix).  That said, they all work together to tackle
+  components of insulin management and I'd be hard pressed to give any
+  of them up as I think they are all pretty critical.
+
+- **Longevity**: I've come to the view that it's all about longevity,
+  both health span (quality of life) and life span (length of life).
+  All my views are measured against the meta goal of longevity.  Based
+  on existing and ongoing clinical studies and research (eg David
+  Sinclair @ Harvard, Matt Kaeberlein @ Univ of Washington, David
+  Sabatini @ MIT, Steve Horvath @ UCLA) I now believe there are
+  mechanisms that can attack the process of aging reversing the effect
+  of aging on parts of the body resulting in extending health/life
+  span and (eg sirtuins, rapamycin, mTOR, metformin, et al).  This is
+  an extremely hot and very active field of research, breakthroughs
+  are imminent, and Nobel Prizes await the winners.
+
+- **Insulin**: One of the most important things I've learned is that
+  insulin resistance is the foundational element of most health issues
+  (well beyond diabetes, including high blood pressure, many forms of
+  cancers, heart disease, and most forms of alzheimers).  Insulin
+  resistance is the primary driver now of all my short term exercise
+  and dietary tactics.  This is why I've adopted a Keto based
+  lifestyle dramatically restricting my carboyhydrate consumption and
+  enabling an alternative fuel source.
+
+- **Nutrition vs Exercise**: I now believe both what you eat and when
+  you eat are far more important components of health than exercise
+  (8:2 or 9:1).  I've always had this one completely upside down, and
+  I wish I'd come to this conclusion far sooner.
+
+- **When**: I now believe that when you eat is actually more important
+  than what you eat (assuming you eat a quasi healthy diet).  This was
+  the most eye opening thing I've discovered thus far.  Intermittent
+  fasting is in my view the easiest way to fight insulin resistance
+  and the quickest way to impact your health positively.
+
+- **Walking**: Walking is a far better form of exercised than I'd
+  previously understood.
+
+- **Fruit**: Everyone should be well informed on non-alcoholic fatty
+  liver disease (NAFLD), its health implications, and what the source
+  is (corn syrup/frustose and thus processed foods and fruits).
+
+- **Antiquated Thinking**: Most doctors are still working from
+  antiquated scripts (forgive me if you're an MD).  Calories in,
+  calories out, fat is bad, high HDL is good, et al.  Oddly enough,
+  doctors are not trained in nutrition.  Like politics and COVID,
+  there's a lot of "experts" providing a lot of misinformation.
+
+- **Food Industry**: I've reaffirmed my view of the food industry.
+  They are just like tobacco.  There are 10 companies with dominant
+  control over 85% of the calories we consume, that use organic
+  chemistry and sugar (in various forms, fructose being the worst), to
+  optimize their profit margins, knowing full well the health
+  pandemics they are creating in the broader population.  This is the
+  ugly underbelly of capitalism.
+
+- **Evil**: Added sugar will go down in history as this generation's
+  tobacco.  Refined carbohydrates are pure evil.  Processed foods are
+  essentially profit driven synthetic drugs.
+
+
+
+# My recommendations
+
+A couple people have asked me what I'd recommend (independent of your health):
+#. Educate yourself on the science so you know what to do and why to do it - start with [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=).
+#. Stop consuming processed foods (everyone)
+#. Upgrade the food that you should be consuming (everyone)
+#. Stop snacking between meals (everyone)
+#. Dramatically lower your sugar consumption (everyone)
+#. Dramatically reduce your overall carbohydrate consumption (everyone)
+#. Skip breakfast (everyone)
+#. Fix your sleep habits (everyone)
+#. Research intermittent fasting, consider a 16:8 plan (everyone)
+#. Research Keto and seriously consider it (for those with a BMI > 25)
 
 
 
@@ -29,6 +123,29 @@ Subject matter experts:
 * [Matthew Walker](https://www.youtube.com/results?search_query=matthew+walker)
 * [Tom Bilyeu (Impact Theory/Quest)](https://impacttheory.com)
 * [Mark Sisson (Mark's Daily Apple)](https://www.marksdailyapple.com)
+* [Gary Taubes](https://www.youtube.com/results?search_query=gary+taubes)
+* [Robert Lustig](https://www.youtube.com/results?search_query=robert+lustig)
+* [Richard Isaacson](https://www.youtube.com/results?search_query=richard+isaacson)
+* [Mark Hyman](https://www.youtube.com/user/ultrawellness)
+
+Health/Nutrition/Longevitiy YouTube personalities (useful but beware):
+* [Bobby Parrish](https://www.youtube.com/user/flavcity)
+* [Brad Stanfield](https://www.youtube.com/user/bsta045)
+* [Lance Hitchings](https://www.youtube.com/channel/UCM5hf97Y7N8cEI6bc74Mp2g)
+* [Sten Ekberg](https://www.youtube.com/user/drekberg)
+* [Eric Berg](https://www.youtube.com/user/drericberg123)
+* [Becky Gillaspy](https://www.youtube.com/user/beckygillaspy)
+* [Thomas DeLauer](https://www.youtube.com/user/TheTdelauer)
+* [2 Fit Docs](https://www.youtube.com/c/2FitDocs/videos)
+* [High Intensity Health](https://www.youtube.com/user/highintensityhealth)
+* [Zero](https://www.youtube.com/channel/UCFPJ7dg05SV8ZSgxZeWY5rQ)
+* [Autumn Bates](https://www.youtube.com/channel/UCkPBo8hqEOiE3bg9t7ZGT2Q)
+
+General podcasts that often have a health/nutrition focus:
+* [Tim Ferriss](https://www.youtube.com/user/masterlock77)
+* [Tom Bilyeu](https://www.youtube.com/channel/UCnYMOamNKLGVlJgRUbamveA)
+* [Joe Rogan](https://www.youtube.com/user/PowerfulJRE)
+* [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 
 Highlighted interviews:
 - Fung (Insulin Resistance)
@@ -628,3 +745,85 @@ I captured these details from a summary of Matt Walker's book on [fastlifehacks.
 
 - [Inside Tracker](https://www.insidetracker.com)
 - more to come...
+
+
+# Notes
+
+## The Obesity Code
+
+- Summary
+  - Total Energy Expenditure is the sum of
+    - Basil metabolic rate (BMR)
+    - Thermogenic effect of food
+    - Non-exercise activity (thermogenesis)
+    - Excess post exercise oxygen consumption
+    - Exercise
+  - **Calorie**: Foods are burned in a lab and energy released is measured as calories
+  - Hormones
+    - [Leptin](https://www.yourhormones.info/hormones/leptin)
+    - [Ghrelin](https://www.yourhormones.info/hormones/ghrelin)
+    - [Peptide YY](https://www.yourhormones.info/hormones/peptide-yy)
+    - [Cholecystokinin](https://www.yourhormones.info/hormones/cholecystokinin)
+    - [Insulin](https://www.yourhormones.info/hormones/insulin)
+    - [Glucagon](https://www.yourhormones.info/hormones/glucagon)
+    - [Glycogenesis](https://en.wikipedia.org/wiki/Glycogenesis): Glucose to liver based glycogen
+    - [De novo lipogenesis](tbd): Glucose to fat conversion
+    - [Cortisol](https://www.yourhormones.info/hormones/cortisol):
+  - Organs/Glands
+    - [Pancrease](https://www.yourhormones.info/glands/pancreas)
+      - It makes digestive juices, which consist of powerful enzymes. These are released into the small bowel after meals to break down and digest food.
+      - It makes hormones that control blood glucose levels.
+    - Kidney:
+    - Liver:
+  - Insulin Cycle
+    - Consume carbohydrates
+    - More glucose in our blood stream than we can currently use
+    - Pancreas up regulates insulin (half life of only 2-3 minutes)
+    - Insulin signals the cells to uptake the glucose for storage for later use
+    - Glucose is stored as glycogen in the liver (glycogensis)
+    - Once full, glucose is stored as triglycerides in fat tissue (de nova lipogenesis)
+    - Glucogen can be quickly supplied to the body by the liver when glucose is unavailable in the blood stream, but the amount is limited
+    - Glucose is available from the fat stores but it is more difficult to access
+
+- Ch3: Failure of the eat less and exercise more theory of weight loss
+  - Key assumption of the caloric reduction theory of weight loss
+    - Invalid assumption #1: Calories in and calories out are independent of each other
+    - Invalid assumption #2: BMR is stable
+    - Invalid assumption #3: Eating is a conscious decision (hunger plays a minor role)
+    - Invalid assumption #4: Fat stores are unregulated
+    - Invalid assumption #5: A calorie is a calorie
+  - Metabolic processing of food
+    - Protein: Broken down into amino acids to build/repair tissues, excess is stored
+    - Fats: Directly abosrbed
+    - Carbs: Broken down into sugars
+    - Fiber: Moves through
+  - [1919 A Biometric Study of Human Basal Metabolism (Carnegie Institute of Washington Study)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1091498)
+  - [1944 MN starvation experiment by Ansel Keys](https://en.wikipedia.org/wiki/Minnesota_Starvation_Experiment)
+  - [2006 The women's health initiative dietery modification trial (NIH 50K Post menopausal women)](https://pubmed.ncbi.nlm.nih.gov/16391215)
+  - [Orlastat](https://medlineplus.gov/druginfo/meds/a601244.html): Drug equivalent of the eat less and exercise more theory of weight loss
+
+- Ch4: Exercise
+  - Peter Attia example
+
+- Ch5: Overfeeding Paradox
+  - [Sam Felton overeating](https://www.dietdoctor.com/what-happens-if-you-eat-5800-calories-daily-on-an-lchf-diet)
+  - [Body Set Weight](https://www.healthline.com/health/set-point-theory#summary)
+  - [Alfred Frohlich](https://en.wikipedia.org/wiki/Alfred_Fr%C3%B6hlich)
+  - [Leptin]
+
+- Ch6: A New Hope
+  - Hormonal theory vs Cal in/out theory
+    - Invalid assumption #1: Calories in and calories out are independent of each other
+      - Tightly synchronized
+    - Invalid assumption #2: BMR is stable
+      - Hormonal signals adjust BMR to gain/lose weight
+    - Invalid assumption #3: Eating is a conscious decision (hunger plays a minor role)
+      - Hunger and satiety hormones play a key role wrt whether we eat
+    - Invalid assumption #4: Fat stores are unregulated
+      - Fat stores are tightly regulated and respond to food intake
+    - Invalid assumption #5: A calorie is a calorie
+      - Different calories result in different responses
+  - Hormones: Molecules that deliver messages to cells
+  - Insulin's half life is 2 to 3 minutes
+
+- Ch7: Insulin
