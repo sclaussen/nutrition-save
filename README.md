@@ -90,16 +90,16 @@ quick snapshot of my current perspective:
 # My recommendations
 
 A couple people have asked me what I'd recommend (independent of your health):
-#. Educate yourself on the science so you know what to do and why to do it - start with [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=).
-#. Stop consuming processed foods (everyone)
-#. Upgrade the food that you should be consuming (everyone)
-#. Stop snacking between meals (everyone)
-#. Dramatically lower your sugar consumption (everyone)
-#. Dramatically reduce your overall carbohydrate consumption (everyone)
-#. Skip breakfast (everyone)
-#. Fix your sleep habits (everyone)
-#. Research intermittent fasting, consider a 16:8 plan (everyone)
-#. Research Keto and seriously consider it (for those with a BMI > 25)
+- Educate yourself on the science so you know what to do and why to do it - start with [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=).
+- Stop consuming processed foods (everyone)
+- Upgrade the food that you should be consuming (everyone)
+- Stop snacking between meals (everyone)
+- Dramatically lower your sugar consumption (everyone)
+- Dramatically reduce your overall carbohydrate consumption (everyone)
+- Skip breakfast (everyone)
+- Fix your sleep habits (everyone)
+- Research intermittent fasting, consider a 16:8 plan (everyone)
+- Research Keto and seriously consider it (for those with a BMI > 25)
 
 
 
