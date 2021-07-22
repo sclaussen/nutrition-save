@@ -91,14 +91,14 @@ quick snapshot of my current perspective:
 
 A couple people have asked me what I'd recommend (independent of your current health status):
 - Educate yourself on the science so you know what to do and why to do it - start with [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=) (even if you're young and in perfect health).
-- Stop consuming processed foods (everyone)
-- Upgrade the food that you should be consuming (everyone)
-- Stop snacking between meals (everyone)
-- Dramatically lower your sugar consumption (everyone)
-- Dramatically reduce your overall carbohydrate consumption (everyone)
-- Skip breakfast (everyone)
-- Fix your sleep habits (everyone)
-- Research intermittent fasting, consider a 16:8 plan (everyone)
+- Stop consuming processed foods
+- Upgrade the food that you should be consuming
+- Stop snacking between meals
+- Dramatically lower your sugar consumption
+- Dramatically reduce your overall carbohydrate consumption
+- Skip breakfast
+- Fix your sleep habits
+- Research intermittent fasting, consider a 16:8 plan
 - Research Keto and seriously consider it (for those with a BMI > 25)
 
 
