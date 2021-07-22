@@ -71,7 +71,8 @@ quick snapshot of my current perspective:
   antiquated scripts (forgive me if you're an MD).  Calories in,
   calories out, fat is bad, high HDL is good, et al.  Oddly enough,
   doctors are not trained in nutrition.  Like politics and COVID,
-  there's a lot of "experts" providing a lot of misinformation.
+  there's a lot of "experts" with MD after their name providing a lot
+  of misinformation.
 
 - **Food Industry**: I've reaffirmed my view of the food industry.
   They are just like tobacco.  There are 10 companies with dominant
