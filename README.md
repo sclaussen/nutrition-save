@@ -60,7 +60,7 @@ quick snapshot of my current perspective:
   fasting is in my view the easiest way to fight insulin resistance
   and the quickest way to impact your health positively.
 
-- **Walking**: Walking is a far better form of exercised than I'd
+- **Walking**: Walking is a far better form of exercise than I'd
   previously understood.
 
 - **Fruit**: Everyone should be well informed on non-alcoholic fatty
