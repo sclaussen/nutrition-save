@@ -724,16 +724,6 @@ I captured these details from a summary of Matt Walker's book on [fastlifehacks.
 
 
 
-# Vitamins, Minerals, and Supplements
-
-- Omega-3
-- Vitamin D
-- Magnesium
-- Electrolytes
-- more to come...
-
-
-
 # Wearables
 
 - [Garmin Fenix 6](https://www.amazon.com/Garmin-Multisport-Altitude-Adjusted-Training/dp/B07VVM1VM6/ref=asc_df_B07VVM1VM6/?tag=hyprod-20&linkCode=df0&hvadid=366280934115&hvpos=&hvnetw=g&hvrand=10161341847180990216&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031975&hvtargid=pla-816740698777&psc=1&tag=&ref=&adgrpid=74513438845&hvpone=&hvptwo=&hvadid=366280934115&hvpos=&hvnetw=g&hvrand=10161341847180990216&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031975&hvtargid=pla-816740698777): Useful to know exercise calories burned per activity/day
