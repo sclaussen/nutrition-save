@@ -91,8 +91,10 @@ quick snapshot of my current perspective:
 # My recommendations
 
 A couple people have asked me what I'd recommend (independent of your current health status):
-- Educate yourself on the science so you know what to do and why to do it - start with [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=) (even if you're young and in perfect health).
+- Educate yourself on the science so you know what to do and why to do it - start with [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=) (even if you're young and in perfect health)
 - Stop consuming processed foods
+- Stop consuming bad oils
+- Stop consuming any foods with added sugar (using any of [the 56 different names for sugar](https://www.virtahealth.com/blog/names-for-sugar))
 - Upgrade the food that you should be consuming
 - Stop snacking between meals
 - Dramatically lower your sugar consumption
