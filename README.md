@@ -101,7 +101,7 @@ A couple people have asked me what I'd recommend (independent of your current he
 - Skip breakfast
 - Improve your sleep habits
 - Upgrade the quality of the food that you should be consuming
-- Research intermittent fasting, consider a 16:8 plan
+- Research time restricted feeding (aka intermittent fasting), consider a 16:8 plan
 - Research Keto and seriously consider it (for those with a BMI > 25)
 
 
