@@ -95,7 +95,7 @@ A couple people have asked me what I'd recommend (independent of your current he
 - Stop consuming processed foods
 - Stop consuming bad oils
 - Stop consuming any foods with added sugar (using any of [the 56 different names for sugar](https://www.virtahealth.com/blog/names-for-sugar))
-- Upgrade the food that you should be consuming
+- Upgrade the quality of the food that you should be consuming
 - Stop snacking between meals
 - Dramatically lower your sugar consumption
 - Dramatically reduce your overall carbohydrate consumption
