@@ -95,12 +95,12 @@ A couple people have asked me what I'd recommend (independent of your current he
 - Stop consuming processed foods
 - Stop consuming bad oils
 - Stop consuming any foods with added sugar (using any of [the 56 different names for sugar](https://www.virtahealth.com/blog/names-for-sugar))
-- Upgrade the quality of the food that you should be consuming
+- Dramatically reduce your consumption of sugar
+- Dramatically reduce your consumption of carbohydrates
 - Stop snacking between meals
-- Dramatically lower your sugar consumption
-- Dramatically reduce your overall carbohydrate consumption
 - Skip breakfast
-- Fix your sleep habits
+- Improve your sleep habits
+- Upgrade the quality of the food that you should be consuming
 - Research intermittent fasting, consider a 16:8 plan
 - Research Keto and seriously consider it (for those with a BMI > 25)
 
