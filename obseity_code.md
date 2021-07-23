@@ -42,7 +42,6 @@
       - Fat stores are tightly regulated and respond to food intake
     - Invalid assumption #5: A calorie is a calorie
       - Different calories result in different responses
-  - Body Set Weight
   - Insulin's half life is 2 to 3 minutes
   - Mechanics of digestion
     - Hormones: Molecules that deliver messages to cells
@@ -53,6 +52,17 @@
     - Fats: Directly abosrbed
     - Carbs: Broken down into sugars
     - Fiber: Moves through w/out absorption
+  - Body Set Weight
+    - What regulates body set weight?
 
 - Ch7: Insulin
-  - "I can make you fat" (prescribing insulin)
+  - "I can make you fat"
+    - by prescribing insulin
+    - obese secret more insulin and the elevated levels take longer to return to normal
+    - high correlation of insulin levels to obesity
+    - fasting insulin level
+  - San Antonio Heart Study
+    - high fasting insulin highly correlated to weight gain
+  - "Insulin Causes Obesity" Hypothesis
+    - Numerous studies have demonstrated the fact
+    - Insulin used to treat both Type 1 and Type 2
