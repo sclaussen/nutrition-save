@@ -116,16 +116,17 @@ Books:
 * [Why We Sleep (Matthew Walker)](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
 
 Subject matter experts:
-* [Peter Attia (The Drive)](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg)
-* [Jason Fung (The Fasting Method)](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung)
-* [Rhonda Patrick (Found My Fitness)](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/c/FoundMyFitness/videos)
-* [David Sinclair (Harvard)](https://www.youtube.com/results?search_query=david+sinclair)
-* [David Sabatini (MIT)](https://www.youtube.com/results?search_query=david+sabatini)
-* [Steve Horvath (UCLA)](https://www.youtube.com/results?search_query=steve+horvath)
+* [Peter Attia (The Drive)](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg): Longevity
+* [Jason Fung (The Fasting Method)](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung): Insulin/Fasting
+* [Rhonda Patrick (Found My Fitness)](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/c/FoundMyFitness/videos): Longevity
+* [David Sinclair (Harvard)](https://www.youtube.com/results?search_query=david+sinclair): Longevity
+* [David Sabatini (MIT)](https://www.youtube.com/results?search_query=david+sabatini): mTOR
+* [Steve Horvath (UCLA)](https://www.youtube.com/results?search_query=steve+horvath): Inner Age
+* [Matthew Walker (Berkeley)](https://www.youtube.com/results?search_query=matthew+walker): Sleep
+* [Robert Lustig (UCSF)](https://www.youtube.com/results?search_query=robert+lustig): Fructose/etal
+* [Richard Isaacson (Cornell)](https://www.youtube.com/results?search_query=richard+isaacson): Alzheimers
+* [Valter Longo (USC)](https://www.youtube.com/results?search_query=valter+longo): Fasting
 * [Andrew Huberman (Stanford/Huberman Lab)](https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg)
-* [Matthew Walker (Berkeley)](https://www.youtube.com/results?search_query=matthew+walker)
-* [Robert Lustig (UCSF)](https://www.youtube.com/results?search_query=robert+lustig)
-* [Richard Isaacson (Cornell)](https://www.youtube.com/results?search_query=richard+isaacson)
 
 Health/Nutrition/Longevitiy YouTube personalities (useful but beware):
 * [Mark Sisson](https://www.marksdailyapple.com)
@@ -737,3 +738,39 @@ I captured these details from a summary of Matt Walker's book on [fastlifehacks.
 
 - [Inside Tracker](https://www.insidetracker.com)
 - more to come...
+
+
+# Reference
+
+- Total Energy Expenditure is the sum of
+  - Basil metabolic rate (BMR)
+  - Thermogenic effect of food
+  - Non-exercise activity (thermogenesis)
+  - Excess post exercise oxygen consumption
+  - Exercise
+- Calorie: Foods are burned in a lab and energy released is measured as calories
+- Hormones
+  - [Leptin](https://www.yourhormones.info/hormones/leptin): Leptin is a hormone released from fat cells in adipose tissue. Leptin signals to the brain, in particular to an area called the hypothalamus. Leptin does not affect food intake from meal to meal but, instead, acts to alter food intake and control energy expenditure over the long term. Leptin has a more profound effect when we lose weight and levels of the hormone fall. This stimulates a huge appetite and increased food intake. The hormone helps us to maintain our normal weight and unfortunately for dieters, makes it hard to lose those extra pounds!
+  - [Ghrelin](https://www.yourhormones.info/hormones/ghrelin)
+  - [Peptide YY](https://www.yourhormones.info/hormones/peptide-yy)
+  - [Cholecystokinin](https://www.yourhormones.info/hormones/cholecystokinin)
+  - [Insulin](https://www.yourhormones.info/hormones/insulin)
+  - [Glucagon](https://www.yourhormones.info/hormones/glucagon)
+  - [Glycogenesis](https://en.wikipedia.org/wiki/Glycogenesis): Glucose to liver based glycogen
+  - [De novo lipogenesis](tbd): Glucose to fat conversion
+  - [Cortisol](https://www.yourhormones.info/hormones/cortisol):
+- Organs/Glands
+  - [Pancrease](https://www.yourhormones.info/glands/pancreas)
+    - It makes digestive juices, which consist of powerful enzymes. These are released into the small bowel after meals to break down and digest food.
+    - It makes hormones that control blood glucose levels.
+  - Kidney:
+  - Liver:
+- Insulin Cycle
+  - Consume carbohydrates
+  - More glucose in our blood stream than we can currently use
+  - Pancreas up regulates insulin (half life of only 2-3 minutes)
+  - Insulin signals the cells to uptake the glucose for storage for later use
+  - Glucose is stored as glycogen in the liver (glycogensis)
+  - Once full, glucose is stored as triglycerides in fat tissue (de nova lipogenesis)
+  - Glucogen can be quickly supplied to the body by the liver when glucose is unavailable in the blood stream, but the amount is limited
+  - Glucose is available from the fat stores but it is more difficult to access
