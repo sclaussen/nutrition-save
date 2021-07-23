@@ -66,3 +66,14 @@
   - "Insulin Causes Obesity" Hypothesis
     - Numerous studies have demonstrated the fact
     - Insulin used to treat both Type 1 and Type 2
+  - Insulin & Leptin are quasi opposites
+    - In obese people, insulin and leptin are both problematic
+
+- Ch8: Cortisol
+  - Stress hormone, fight or flight
+  - Cortisol moves glucose out of liver/fat making it available to muscles for immediate use
+  - Works well if you're being chased by a predator, but doesn't work well for chronic life stresses
+  - Under chronic stress, glucose levels remain high, requiring up regulation of insulin levels
+  - Result is that the body is constantly in "store fat" mode
+
+- Ch9: Atkins
