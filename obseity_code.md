@@ -35,7 +35,7 @@
     - Invalid assumption #1: Calories in and calories out are independent of each other
       - Tightly synchronized
     - Invalid assumption #2: BMR is stable
-      - Hormonal signals adjust BMR to gain/lose weight
+      - Hormonal signals adjust BMR to either gain/lose weight
     - Invalid assumption #3: Eating is a conscious decision (hunger plays a minor role)
       - Hunger and satiety hormones play a key role wrt whether we eat
     - Invalid assumption #4: Fat stores are unregulated
@@ -43,8 +43,16 @@
     - Invalid assumption #5: A calorie is a calorie
       - Different calories result in different responses
   - Body Set Weight
-  - Hormones: Molecules that deliver messages to cells
   - Insulin's half life is 2 to 3 minutes
+  - Mechanics of digestion
+    - Hormones: Molecules that deliver messages to cells
+    - Hormones bind to acceptors on the cell surface
+    - Insulin binds to insulin receptors on cell surfaces
+    - After binding, receptor opens and glucose enters
+    - Protein: Broken down into amino acids to build/repair tissues, excess is stored
+    - Fats: Directly abosrbed
+    - Carbs: Broken down into sugars
+    - Fiber: Moves through
 
 - Ch7: Insulin
   - "I can make you fat" (prescribing insulin)
