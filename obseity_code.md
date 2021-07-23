@@ -49,10 +49,10 @@
     - Hormones bind to acceptors on the cell surface
     - Insulin binds to insulin receptors on cell surfaces
     - After binding, receptor opens and glucose enters
-    - Protein: Broken down into amino acids to build/repair tissues, excess is stored
+    - Protein: Broken down into amino acids to build/repair tissues, excess is stored, raises insulin but has little impact on glucose levels
     - Fats: Directly abosrbed
     - Carbs: Broken down into sugars
-    - Fiber: Moves through
+    - Fiber: Moves through w/out absorption
 
 - Ch7: Insulin
   - "I can make you fat" (prescribing insulin)
