@@ -750,10 +750,10 @@ I captured these details from a summary of Matt Walker's book on [fastlifehacks.
   - Exercise
 - Calorie: Foods are burned in a lab and energy released is measured as calories
 - Hormones
-  - [Leptin](https://www.yourhormones.info/hormones/leptin): Leptin is a hormone released from fat cells in adipose tissue. Leptin signals to the brain, in particular to an area called the hypothalamus. Leptin does not affect food intake from meal to meal but, instead, acts to alter food intake and control energy expenditure over the long term. Leptin has a more profound effect when we lose weight and levels of the hormone fall. This stimulates a huge appetite and increased food intake. The hormone helps us to maintain our normal weight and unfortunately for dieters, makes it hard to lose those extra pounds!
-  - [Ghrelin](https://www.yourhormones.info/hormones/ghrelin)
-  - [Peptide YY](https://www.yourhormones.info/hormones/peptide-yy)
-  - [Cholecystokinin](https://www.yourhormones.info/hormones/cholecystokinin)
+  - [Leptin](https://www.yourhormones.info/hormones/leptin): Regulates body fat.  Leptin is a hormone released from fat cells in adipose tissue. Leptin signals to the brain, in particular to an area called the hypothalamus. Leptin does not affect food intake from meal to meal but, instead, acts to alter food intake and control energy expenditure over the long term. Leptin has a more profound effect when we lose weight and levels of the hormone fall. This stimulates a huge appetite and increased food intake. The hormone helps us to maintain our normal weight and unfortunately for dieters, makes it hard to lose those extra pounds!
+  - [Ghrelin](https://www.yourhormones.info/hormones/ghrelin): Regulates hunger.
+  - [Peptide YY](https://www.yourhormones.info/hormones/peptide-yy): Regulates satiety.
+  - [Cholecystokinin](https://www.yourhormones.info/hormones/cholecystokinin): Regulates satiety.
   - [Insulin](https://www.yourhormones.info/hormones/insulin)
   - [Glucagon](https://www.yourhormones.info/hormones/glucagon)
   - [Glycogenesis](https://en.wikipedia.org/wiki/Glycogenesis): Glucose to liver based glycogen
