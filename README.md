@@ -108,14 +108,14 @@ A couple people have asked me what I'd recommend (independent of your current he
 
 # Reference
 
-Books:
+### Books
 * [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Why We Get Sick (Benjamin Bikman)](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
 * [Lifespan (David Sinclair)](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
 * [The Case for Keto (Gary Taubes)](https://www.amazon.com/s?k=the+case+for+keto&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nWYZi4rZGM5JfbvnAX46KVCXwmrUBM9ZYAkBmxm7A-aWdpONarFzbhoCw_AQAvD_BwE&hvadid=416744105949&hvdev=c&hvlocphy=9031975&hvnetw=g&hvqmt=e&hvrand=10029320316729189384&hvtargid=kwd-871459532323&hydadcr=22536_9636733&tag=googhydr-20&ref=pd_sl_7q2cbifsgv_e)
 * [Why We Sleep (Matthew Walker)](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
 
-Subject matter experts:
+### Subject matter experts
 * [Peter Attia (The Drive)](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg): Longevity
 * [Jason Fung (The Fasting Method)](https://thefastingmethod.com) [--youtube--](https://www.youtube.com/user/drjasonfung): Insulin/Fasting
 * [Rhonda Patrick (Found My Fitness)](https://www.foundmyfitness.com) [--youtube--](https://www.youtube.com/c/FoundMyFitness/videos): Longevity
@@ -128,7 +128,7 @@ Subject matter experts:
 * [Valter Longo (USC)](https://www.youtube.com/results?search_query=valter+longo): Fasting
 * [Andrew Huberman (Stanford/Huberman Lab)](https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg)
 
-Health/Nutrition/Longevitiy YouTube personalities (useful but beware):
+### Health/Nutrition/Longevitiy YouTube personalities (useful but beware):
 * [Mark Sisson](https://www.marksdailyapple.com)
 * [Gary Taubes](https://www.youtube.com/results?search_query=gary+taubes)
 * [Mark Hyman](https://www.youtube.com/user/ultrawellness)
@@ -144,13 +144,13 @@ Health/Nutrition/Longevitiy YouTube personalities (useful but beware):
 * [Zero](https://www.youtube.com/channel/UCFPJ7dg05SV8ZSgxZeWY5rQ)
 * [Autumn Bates](https://www.youtube.com/channel/UCkPBo8hqEOiE3bg9t7ZGT2Q)
 
-General podcasts that often have a health/nutrition focus:
+### General podcasts that often have a health/nutrition focus
 * [Tim Ferriss](https://www.youtube.com/user/masterlock77)
 * [Tom Bilyeu](https://www.youtube.com/channel/UCnYMOamNKLGVlJgRUbamveA)
 * [Joe Rogan](https://www.youtube.com/user/PowerfulJRE)
 * [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 
-Highlighted interviews:
+### Highlighted interviews
 - Fung (Insulin Resistance)
   * [by Tom Bilyeu](https://www.youtube.com/watch?v=XhPwjmbkgDs)
   * [by Gary Taubes](https://www.youtube.com/watch?v=QAim7IASsEg)
@@ -173,7 +173,7 @@ Highlighted interviews:
   * [by Peter Attia](https://peterattiamd.com/richardisaacson)
   * [by Peter Attia #2](https://peterattiamd.com/laurenmillerrogen-richardisaacson)
 
-Useful items:
+### Useful items
 * [Withings Body+ Scale](https://www.amazon.com/Withings-Nokia-Body-Composition-smartphone/dp/B071XW4C5Q/ref=sr_1_1_sspa?dchild=1&keywords=withings+scale&qid=1624559620&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOU5JVkFSOTZKUks1JmVuY3J5cHRlZElkPUEwMjQzNDg0QVlQTDFINUZDVjNEJmVuY3J5cHRlZEFkSWQ9QTA5NzM2NDNSNkRYMkVVWjBKQ1Qmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl): This scale captures body fat % which is necessary to determine my macro consumption goals
 * [Nicewell Food Scale](https://www.amazon.com/gp/product/B07S6F6LHQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1): Use it daily to prepare my meal
 * [OXO Good Grips 3-in-1 Avocado Slicer](https://www.amazon.com/OXO-Good-Grips-Avocado-Slicer/dp/B0088LR592/ref=sr_1_5_0o_fs?crid=2Y5LBORVFUJ7D&dchild=1&keywords=avocado+tool&qid=1624559529&sprefix=avocado+%2Caps%2C236&sr=8-5): Incredibly useful for scooping avocados
@@ -182,7 +182,7 @@ Useful items:
 * [Twist Top Food Deli Containers](https://www.amazon.com/gp/product/B077G76C6J/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1): Useful for prepping salad ingredients, et al
 * [5 Quart Salad Bowl](https://www.amazon.com/OXO-Good-Grips-5-Quart-Mixing/dp/B0001YH1MU/ref=sr_1_2?dchild=1&keywords=5+quart+oxo&qid=1626811593&sr=8-2) and/or [3 Quart Salad Bowl](https://www.amazon.com/OXO-Grips-3-Quart-Mixing-White/dp/B00004OCMY/ref=sr_1_5?dchild=1&keywords=3+quart+oxo&qid=1626811632&sr=8-5): For huge salads
 
-My supplements:
+### My supplements
 * [Fish Oil (Omega-3)](https://www.amazon.com/dp/B001LF39S8/ref=twister_B0047VWYSO?_encoding=UTF8&psc=1): What I've started using to supplement Omega-3s
 * [SlowMag (Mg/Ca)](https://www.amazon.com/SlowMag-Magnesium-Chloride-Calcium-Supplement/dp/B07CJX4M8K/ref=sxts_sxwds-bia-wc-rsf1_0?cv_ct_cx=slow+mag&dchild=1&keywords=slowmag&pd_rd_i=B07CJX4M8K&pd_rd_r=458fbfae-ef08-44fd-bd0f-86d9d433db3e&pd_rd_w=U8kBr&pd_rd_wg=rA9RM&pf_rd_p=5168df84-062d-4bdf-8a6e-2680813bd42f&pf_rd_r=VK1YWSAKY34QDA930PRP&psc=1&qid=1615496082&s=hpc&sr=1-1-7bf78e84-8ef2-4f13-9926-bee5153e81cb): Magnesium supplement
 * [Vitamin D](https://www.amazon.com/Thorne-Research-Vitamin-Supplement-Capsules/dp/B0797H3VQS/ref=sxts_rp_s1_0?cv_ct_cx=vitamin+d&dchild=1&keywords=vitamin+d&pd_rd_i=B0797H3VQS&pd_rd_r=93d0baef-8080-4321-84a4-b949f0b86710&pd_rd_w=Mpa1y&pd_rd_wg=lCMMj&pf_rd_p=c6bde456-f877-4246-800f-44405f638777&pf_rd_r=V08DPSFTQN5Y8GPBYDXD&psc=1&qid=1626811544&sr=1-1-f0029781-b79b-4b60-9cb0-eeda4dea34d6)
@@ -193,7 +193,7 @@ My supplements:
   * [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/?utm_source=wppp)
   * [Joe Rogan](https://fastlifehacks.com/joe-rogan-supplements/?utm_source=wppp)
 
-Other useful links:
+### Other useful links
 * [Dirty dozen (pesticide analysis)](https://www.ewg.org/foodnews/dirty-dozen.php)
 * [Cornucopia scorecards](https://www.cornucopia.org/scorecards/)
 * [Cornucopia eggs scorecard](https://www.cornucopia.org/scorecard/eggs)
