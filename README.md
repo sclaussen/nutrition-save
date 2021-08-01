@@ -658,7 +658,7 @@ Criteria:
 
 
 
-### Other
+## Other
 
 - **Dark chocolate (85+%)**: Downside is dark chocolate has added
   sugar and thus relatively robust carb footprint and has high oxalate
