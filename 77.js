@@ -1,6 +1,6 @@
 var plan = {
     range: 'A4:BR200',
-    sheet: [ 'Plan', 'Plan2', 'Plan3', 'Plan4', 'Shop', '100g' ],
+    sheet: [ 'Plan', 'Plan2', 'Plan3', 'Plan4', 'Fast', 'Shop', '100g' ],
     action_cell: {
         'A1': {
             name: 'Menu',
@@ -90,7 +90,7 @@ var mealIngredients = {
 
     'Arugula': 145,
     'Collard Greens': 100,
-    'Romaine': 130,
+    'Romaine': 160,
 
     'Broccoli': 100,
     'Cauliflower': 100,
@@ -98,7 +98,7 @@ var mealIngredients = {
     'Mushrooms': 100,
     'Radish': 100,
     'Salsa': 4,
-    'Serrano': 5,
+    'Serrano': 4,
 
     'Avocado': 140,
 
@@ -544,6 +544,7 @@ function createSpreadsheetWideFilter(sheet) {
 }
 
 function filterValueOutOfColumn(sheet, column, values) {
+    // set visible values
     sheet.getFilter().setColumnFilterCriteria(column, SpreadsheetApp.newFilterCriteria().setHiddenValues(values).build());
 }
 

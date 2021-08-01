@@ -1,119 +1,122 @@
 # Introduction
 
-My health plan is focused on managing my insulin resistance.  Here are the key facets:
-1. High Quality Food
-2. [Ketogenic (Low Carbohydrate / High Fat)](https://www.dietdoctor.com/low-carb/keto/u7)
-3. Intermittent Fasting (One Meal a Day)
-4. Exercise
-5. Sleep (work in progress)
-6. Meditation (work in progress)
+## Overview
 
+Since I began my personal health crusade I've been doing deep dives on
+various topics related to personal health and nutrition.  Through that
+process I've developed some strong views, all of which are loosely
+held, and ever evolving.  Here's a quick snapshot of my current
+perspective:
 
+- **Change**: I changed five things to get healthier:
 
-# My Religion
+  - (1) **quality**: improved the quality of the food I consumed,
+  - (2) **fast**: used time restricted feeding to change when I ate,
+  - (4) **keto**: went on a low carb high fat Keto based diet,
+  - (3) **exercise**: added a walking exercise program, and
+  - (5) **sleep**: improved my sleep habits.
 
-Since I began my personal health crusade I've dove very deep on the
-topic of personal health and nutrition and have done quite a bit of
-research.  Through that process I've developed some strong views, all
-of which are loosely held, and evolving virtually daily.  Here's a
-quick snapshot of my current perspective:
-
-- **Change**: I changed five things to get healthier: (1) dramatically
-  increased the quality of the food I consumed, (2) changed when I
-  ate, (3) added a walking exercise program, (4) went on a low carb
-  high fat Keto based diet, and (5) improved my sleep habits.  If I
-  had to give up four of those and pick the one that I think most
-  impacts my health it would be intermittent fasting (although sleep
-  is the easiest to fix).  That said, they all work together to tackle
-  components of insulin management and I'd be hard pressed to give any
-  of them up as I think they are all pretty critical.
+  If I had to give up four of those and pick the one that I think most
+  impacts my health it would be time restricted feeding.  That said,
+  they are different levers that work together on the war against
+  insulin resistance and I'd be hard pressed to give any of them up as
+  I think they are all been critical for my own health journey.
 
 - **Longevity**: I've come to the view that it's all about longevity,
   both health span (quality of life) and life span (length of life).
-  All my views are measured against the meta goal of longevity.  Based
-  on existing and ongoing clinical studies and research (eg David
-  Sinclair @ Harvard, Matt Kaeberlein @ Univ of Washington, David
-  Sabatini @ MIT, Steve Horvath @ UCLA) I now believe there are
-  mechanisms that can attack the process of aging reversing the effect
-  of aging on parts of the body resulting in extending health/life
-  span and (eg sirtuins, rapamycin, mTOR, metformin, et al).  This is
-  an extremely hot and very active field of research, breakthroughs
-  are imminent, and Nobel Prizes await the winners.
+  All my strategic views are measured against the meta goal of
+  longevity.  Based on existing and ongoing clinical studies and
+  research (eg David Sinclair @ Harvard, David Sabatini @ MIT, Matt
+  Kaeberlein @ Univ of Washington, Steve Horvath @ UCLA, et al) I now
+  believe there are mechanisms that can attack the process of aging
+  and as a result reverse aging on parts of the body resulting in
+  extending both health and life span (eg sirtuins, rapamycin, mTOR,
+  metformin, et al).  This is an extremely hot and very active field
+  of research.
 
 - **Insulin**: One of the most important things I've learned is that
-  insulin resistance is the foundational element of most health issues
-  (well beyond diabetes, including high blood pressure, many forms of
-  cancers, heart disease, and most forms of alzheimers).  Insulin
-  resistance is the primary driver now of all my short term exercise
-  and dietary tactics.  This is why I've adopted a Keto based
-  lifestyle dramatically restricting my carboyhydrate consumption and
-  enabling an alternative fuel source.
+  insulin resistance is the foundational element of most of the
+  chronic diseases (eg heart disease, cancer, stroke, Alzheimers, and
+  type 2 diabetes).  The design center of my daily tactical nutrition
+  and health focus is insulin management.
 
 - **Nutrition vs Exercise**: I now believe both what you eat and when
   you eat are far more important components of health than exercise
   (8:2 or 9:1).  I've always had this one completely upside down, and
   I wish I'd come to this conclusion far sooner.
 
-- **When**: I now believe that when you eat is actually more important
-  than what you eat (assuming you eat a quasi healthy diet).  This was
-  the most eye opening thing I've discovered thus far.  Intermittent
-  fasting is in my view the easiest way to fight insulin resistance
-  and the quickest way to impact your health positively.
+- **When**: I now believe that when you eat, and how often you eat, is
+  more important than what you eat (assuming you eat a quasi healthy
+  diet).  This was the most eye opening thing I've discovered thus
+  far.  Intermittent fasting is in my view the easiest way to fight
+  insulin resistance and the quickest way to dramatically impact your
+  health positively.
 
-- **Walking**: Walking is a far better form of exercise than I'd
-  previously understood.
+- **Quality**: I thought we ate pretty well, but when we went through
+  our foods, in detail, evaluating each of them, we found many things
+  I'm ashamed of in retrospect.  How about a web api that takes photos
+  of all your foods and send you back a "quality" score?
+
+- **Walking**: After doing a lot of research I realized that walking
+  is a far better form of exercise than I'd previously understood.
 
 - **Fruit**: Everyone should be well informed on non-alcoholic fatty
   liver disease (NAFLD), its health implications, and what the source
-  is (corn syrup/frustose and thus processed foods and fruits).
+  is (corn syrup/fructose and thus processed foods and fruits).
 
-- **Antiquated Thinking**: Most doctors are still working from
-  antiquated scripts (forgive me if you're an MD).  Calories in,
-  calories out, fat is bad, high HDL is good, et al.  Oddly enough,
-  doctors are not trained in nutrition.  Like politics and COVID,
-  there's a lot of "experts" with MD after their name providing a lot
-  of misinformation.
+- **Antiquated Thinking**: Many health care professionals are still
+  working from antiquated scripts.  Oddly enough, doctors are not
+  trained in nutrition.  I encourage you to do stop listening to
+  others (me included), get off the fence, and do your own research.
+  Know the science.
 
-- **Food Industry**: I've reaffirmed my view of the food industry.
-  They are just like tobacco.  There are 10 companies with dominant
-  control over 85% of the calories we consume, that use organic
-  chemistry and sugar (in various forms, fructose being the worst), to
-  optimize their profit margins, knowing full well the health
-  pandemics they are creating in the broader population.  This is the
-  ugly underbelly of capitalism.
+- **Food Industry**: I've reaffirmed my view of the food industry.  I
+  believe they are just like tobacco.  There are 10 companies with
+  dominant control over 85% of the calories we consume, that use
+  organic chemistry and sugar (in various forms, fructose being one of
+  the worst), to optimize their profit margins, knowing full well the
+  health pandemics they are creating in the broader population.  This
+  is the ugly underbelly of capitalism.
 
-- **Evil**: Added sugar will go down in history as this generation's
-  tobacco.  Refined carbohydrates are pure evil.  Processed foods are
-  essentially profit driven synthetic drugs.
+- **Is sugar the next tobacco?**: I predict added sugar will go down
+  in history as this generation's tobacco.  Refined carbohydrates are
+  pure evil.  Processed foods are essentially profit driven synthetic
+  drugs.
 
 
 
-# My recommendations
+## How do you get started?
 
-A couple people have asked me what I'd recommend (independent of your current health status):
-- Educate yourself on the science so you know what to do and why to do it - start with [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=) (even if you're young and in perfect health)
-- Stop consuming processed foods
-- Stop consuming bad oils
+Several people have asked me for a summary of what I'd recommend to
+get started (independent of your current health status).  Here's a
+quick list:
+
+- Educate yourself on the science so you know how what you're eating is impacting the hormones that control your metabolism
+  - Start with [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=) (even if you're young and in perfect health)
+  - Look through [Peter Attia's podcast archives](https://www.youtube.com/c/PeterAttiaMD/videos) for relevant topics
 - Stop consuming any foods with added sugar (using any of [the 56 different names for sugar](https://www.virtahealth.com/blog/names-for-sugar))
-- Dramatically reduce your consumption of sugar
-- Dramatically reduce your consumption of carbohydrates
 - Stop snacking between meals
+- Stop consuming processed foods
 - Skip breakfast
+- Stop drinking any calories
+- Dramatically reduce (or stop) your consumption of refined carbohydrates
+- Dramatically reduce (or stop) consumption of foods containing sugar
+- Stop cooking in bad oils
 - Improve your sleep habits
 - Upgrade the quality of the food that you should be consuming
-- Research time restricted feeding (aka intermittent fasting), consider starting with a 16:8 plan
-- Research Keto and seriously consider it (for those with a BMI > 25)
+- Research time restricted feeding (aka intermittent fasting), get started with a 16:8 plan
+- Research Keto and seriously consider it (for those with a BMI > 25 or pre-diabetes/diabetes)
 
 
 
-# Reference
+## Reference
 
 ### Books
 * [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Why We Get Sick (Benjamin Bikman)](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
-* [Lifespan (David Sinclair)](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
 * [The Case for Keto (Gary Taubes)](https://www.amazon.com/s?k=the+case+for+keto&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nWYZi4rZGM5JfbvnAX46KVCXwmrUBM9ZYAkBmxm7A-aWdpONarFzbhoCw_AQAvD_BwE&hvadid=416744105949&hvdev=c&hvlocphy=9031975&hvnetw=g&hvqmt=e&hvrand=10029320316729189384&hvtargid=kwd-871459532323&hydadcr=22536_9636733&tag=googhydr-20&ref=pd_sl_7q2cbifsgv_e)
 * [Why We Sleep (Matthew Walker)](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
+* [Lifespan (David Sinclair)](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
 
 ### Subject matter experts
 * [Peter Attia (The Drive)](https://peterattiamd.com) [--youtube--](https://www.youtube.com/channel/UC8kGsMa0LygSX9nkBcBH1Sg): Longevity
@@ -127,8 +130,9 @@ A couple people have asked me what I'd recommend (independent of your current he
 * [Richard Isaacson (Cornell)](https://www.youtube.com/results?search_query=richard+isaacson): Alzheimers
 * [Valter Longo (USC)](https://www.youtube.com/results?search_query=valter+longo): Fasting
 * [Andrew Huberman (Stanford/Huberman Lab)](https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg)
+* [Matt Kaeberlin (Univ Washington)](https://www.youtube.com/results?search_query=Matt+Kaeberlein)
 
-### Health/Nutrition/Longevitiy YouTube personalities (useful but beware):
+### Health/Nutrition/Longevity YouTube personalities (useful but beware):
 * [Mark Sisson](https://www.marksdailyapple.com)
 * [Gary Taubes](https://www.youtube.com/results?search_query=gary+taubes)
 * [Mark Hyman](https://www.youtube.com/user/ultrawellness)
@@ -141,7 +145,6 @@ A couple people have asked me what I'd recommend (independent of your current he
 * [Thomas DeLauer](https://www.youtube.com/user/TheTdelauer)
 * [2 Fit Docs](https://www.youtube.com/c/2FitDocs/videos)
 * [High Intensity Health](https://www.youtube.com/user/highintensityhealth)
-* [Zero](https://www.youtube.com/channel/UCFPJ7dg05SV8ZSgxZeWY5rQ)
 * [Autumn Bates](https://www.youtube.com/channel/UCkPBo8hqEOiE3bg9t7ZGT2Q)
 
 ### General podcasts that often have a health/nutrition focus
@@ -151,24 +154,20 @@ A couple people have asked me what I'd recommend (independent of your current he
 * [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 
 ### Highlighted interviews
-- Fung (Insulin Resistance)
+- Jason Fung (Insulin Resistance)
   * [by Tom Bilyeu](https://www.youtube.com/watch?v=XhPwjmbkgDs)
   * [by Gary Taubes](https://www.youtube.com/watch?v=QAim7IASsEg)
-- Bikman (Insulin)
+- Benjamin Bikman (Insulin)
   * [by Andreas Eenfeldt](https://www.youtube.com/watch?v=AhRCX3nNhA4)
   * [by Tom Bilyeu](https://www.youtube.com/watch?v=QAbpE0_6ayg&list=PL8qcvQ7Byc3NthekE8Zsdk8my0QnRJzee&index=5&t=654s)
-- Gary Taubes (Keto/etal)
-  * [by Peter Attia](https//www.youtube.com/watch?v=8js28V95flc)
-- Sinclair (Longevity)
+- David Sinclair (Longevity)
   * [by Joe Rogan](https://open.spotify.com/episode/55UlxYWPfV46f7puMkZPeD?si=WBxKap8wSb-hUv-dV7Q2ig&nd=1)  --[fasting clip](https://www.youtube.com/watch?v=cUwd-D94pzE&t=73s)--
   * [by Rhonda Patrick](https://www.youtube.com/watch?v=5DtWqzalEnc)
   * [by Lex Fridman](https://www.youtube.com/watch?v=jhKZIq3SlYE)
-- Horvath (Longevity)
+- Steve Horvath (Longevity)
   * [by Rhonda Patrick](https//www.youtube.com/watch?v=A_aaBKubJnA&t=1376s)
 - Matt Walker (Sleep)
   * [by Peter Attia](https://www.youtube.com/watch?v=5stcuh065Vk)
-- Marc Sesson (Paleo/Keto)
-  * [by Tom Bilyeu](https://www.youtube.com/watch?v=k1jXS6Ue3GM&t=409s)
 - Richard Isaacson (Alzheimers)
   * [by Peter Attia](https://peterattiamd.com/richardisaacson)
   * [by Peter Attia #2](https://peterattiamd.com/laurenmillerrogen-richardisaacson)
@@ -207,97 +206,84 @@ A couple people have asked me what I'd recommend (independent of your current he
 
 
 
-# Goals and Criteria
+# Quality
 
-The following is the criteria I use when selecting my meal
-ingredients.  This list is constantly evolving.
+## Summary
 
-- Avoid cooking and topping oils that use heat and/or chemical
-  extraction - eg vegetable, soybean, corn oils, ...
-  * [Episode 262: The Hateful Eight (Industrial Seed Oils) | Cate Shanahan on Wise Traditions with Hilda Labrada Gore • Podcast Notes](https://podcastnotes.org/wise-traditions/episode-262-the-hateful-eight-industrial-seed-oils-dr-cate-shanahan-on-wise-traditions-with-hilda-labrada-gore/)
+Although I understand that food is a very personal thing (just ask my
+son), I'm providing the following with full transparency as an example
+of what I did with some of the logic behind the why.  As I read and
+learn, the list below evolves, although the degree of evolution at
+this point is relatively low.  This list isn't in any particular
+order.
 
-- Avoid anything cooked in bad oils
+After establishing some criteria my process was essentially:
+- Go through the pantry and refrigerator, literally item by item, reading every nutrition label and ingredients list carefully...
+- Research any ingredient I'd never heard of
+- Remove foods with added sugars (with very few exceptions)
+- Remove anything processed (with very few exceptions)
+- For foods that we felt were required, or that the family wasn't willing to give up, do research on the web to find healthier variants
+- Research food we weren't eating, or weren't eating nearly enough of, that were super healthy, and begin consuming more of those foods
 
-- In general, **organic**, **non-GMO**, no **antibiotics**, no **hormones**, no **artificial coloring**
+This was an iterative process that took us several months and still
+evolves a bit.  What I've tried to do below is capture what changes we
+made as a starting point for others to consider (or point out areas
+where we could still do better).
 
-- **Organic chicken**
+Of the 5 areas I've focused on, my family does not do time restricted
+feeding nor Keto, but they've improved their food quality, exercise,
+and sleep patterns.  I've tried to point out below the changes that
+are specific to my more restricted Keto based diet and the additional
+food they consume.
 
-- **Grass raised/finished beef**
-  * [Health Wins for Organic Beef (Cornucopia Institute)](https://www.cornucopia.org/health-wins-for-organic-beef/)
-
-- **Organic pasture raised eggs**
-
-- **Wild raised fish**
-  * [Fish and polychlorinated biphenyls (PCBs) (Mayo Clinic)](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/fish-and-pbcs/faq-20348595)
-  * [Farm Raised Fish OR Wild Caught Fish, Which Is Best To Consume? (Berg)](https://www.youtube.com/watch?v=J2uAyp6WCnA)
-
-- Non-GMO **crate free pork**
-
-- Avoid **drinking calories**
-
-- Avoid all **processed foods** and the **standard american diet (SAD)**
-
-- Avoid added **nitrites/nitrates**
-
-- Avoid **trans fats**
-
-- Avoid all **added sugar** (dark chocolate is the single exception)
-
-- Avoid **mercury** from large fish
-
-- Minimize consumption of high **oxalate** vegetables
-
-- Balanced **Omega-6/Omega-3** ratio
-
-
-
-## Other health related goals
-
-- Consume required water daily
-
-- One meal a day
-
-- Sleep
-
-
-
-# Food Categories
-
-The following is a summary of the changes I made to my diet grouped
-into separate food categories.  The changes are the result of focusing
-on higher quality, healthy, non-processed, foods, that have a low carb
-footprint.
+I initially used diet doctor as a nice visual way to observe the carb
+content of various foods so I've included some of those useful images.
+In general, I stay in the green, rarely go into the orange, and my
+family is less strict.
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide.jpg?auto=compress%2Cformat&w=800&h=392&fit=crop)
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/03/keto-diet-guide-avoid2.jpg?auto=compress%2Cformat&w=800&h=401&fit=crop)
 
 
 
-## Liquids
+### Liquids
 
-- I refrain from consuming any calories in liquid form (eg sports
-  drinks, orange juice, milk, smoothy, et al)
-- I rarely drink alcohol, when I do I try to consume alcohol with zero carbs
-- I drink black coffee atleast once a day, often multiple times (zero
-  calories)
-- I drink hot green tea or black ice tea frequently (zero calories)
-- I consume a lot of water (I try hard to hit my minimum daily water
-  requirement daily)
+- Criteria
+  - Do not drink your calories (insulin management)
 
+- We refrain from consuming **any** calories in liquid form (eg sports
+  drinks, orange juice, milk, smoothy, et al) (the exception is my
+  wife still adds some sugar to her morning chai) (insulin management)
+  - I drink black coffee atleast once a day
+  - I drink hot green tea
+  - I drink black iced tea
+  - I consume a lot of water (I try very hard to hit my minimum daily
+    water requirement daily)
 
-
-## Sweetener
-
-- The only sweetener I use is Stevia but it's relatively rare.
-
-- By avoiding processed foods I avoid all foods with added sugar or
-  any sugar substitute (dark chocolate is the only exception).
+- I rarely drink alcohol, when I do I try to consume alcohol with zero
+  carbs (insulin management, NAFLD)
 
 
 
-## Spices
+### Sweeteners
 
-- I use quite a few spices including:
+- Criteria
+  - Avoid any foods with sugar or added sugar (insulin management)
+  - Avoid sweeteners that raise my insulin levels even if they don't raise my blood sugar levels (insulin management)
+
+- I removed all foods from my diet that contain added sweeteners of any type
+  - The exception is 85-92% dark chocolate that by definition is cocoa
+    plus added sugar
+
+
+
+### Sauces & Spices
+
+- Criteria
+  - Remove spices that contain carbohydrates (keto)
+  - Remove spices that increase oxalates (keto)
+
+- I frequently consume spices including:
   - garlic
   - ginger
   - black pepper
@@ -305,70 +291,121 @@ footprint.
   - garam masala (mix)
   - ...
 
-- I'm careful when consuming spices that contain carbs
+- I frequently add stone ground mustard to my salads and our family
+  uses it on burgers to increase the spice.  We upgraded to a higher
+  quality stone ground organic mustard.
 
-- I typically refrain from consuming tumeric due to its high oxalate
-  content.
+- I'm careful when consuming spices that contain carbs.
+
+- I typically refrain from consuming turmeric (although it has a lot
+  of nutritional value) due to its high oxalate content.
+
+- I use a hot salsa as a staple to spice up my omelette and/or salad.
+  We improved the quality of the salsa we use to one that includes
+  only natural ingredients and zero netcarbs (that also contributes a
+  healthy amount of fiber).
+
+- We removed any of the spices that were processed, contained any
+  non-natural ingredients, or added sugars (eg ketchup).
 
 
 
-## Oils
+### Oils
 
-- I add extra virgin olive oil (typically organic) to my salads.
+Criteria:
+  - Avoid cooking and topping oils that use heat and/or chemical
+    extraction - eg vegetable, soybean, corn oils, ... (inflammatory,
+    et al)
+  - Use cooking oils with high smoke points (inflammatory, et al)
+  - Beware that when you eat out your food will typically be cooked in
+    bad oils because they are cheap
 
-- I cook eggs in organic coconut oil (MCTs).
+- We add extra virgin olive oil (typically organic) to our salads
+  (healthy fat).
 
-- I cook most everything else in avocado oil (high smoke point).
+- The rest of my family also uses vinegar as a topping oil (higher
+  carb footprint).
 
-- On occasion I'll cook in butter or ghee (primarily ghee).
+- We cook eggs in organic coconut oil (MCTs, higher smoke point).
+
+- We cook most everything else in organic avocado oil (high smoke
+  point).
+
+- On occasion we'll cook in butter or ghee (primarily organic grass
+  fed/grass raised ghee).
 
 
 
-## Meats
+### Meats
 
-- I primarily consume chicken, beef, pork chops, salmon, cod, eggs,
-  sardines, mackerel, and occasionally tuna, bacon, lamb, and venison.
+- Criteria (balanced omega 3/6 ratio, vitamins/minerals):
+  - Grass raised/finished beef
+  - Organic pasture raised eggs
+  - Wild raised fish
+  - Organic chicken
+  - Non-GMO crate free pork
+  - Avoid added nitrites/nitrates
+  - Avoid mercury from large fish
+  - Dramatic reduction of processed meats (cancer)
+  - Avoid **trans fats** (some small amount creeps into Whole Foods meat from time to time)
+
+- In general, we probably eat about the same amount of meat as before, but:
+  - We've increased the quality across the board (impacting omega-3/6 ratios, vit/minerals)
+  - We've increased the frequency of salmon and thus omega-3s
+  - We've all increased our egg consumption
+  - I've added the smaller fish as well to increase my omega-3s
+
+- We primarily consume chicken, beef, pork chops, salmon, cod, eggs,
+  and infrequently lamb, venison, and bacon.
+
+- We try to consume salmon twice a week (omega 3s).
+
+- I also consume sardines, mackerel, and occasionally tuna (for omega
+  3s).
 
 - I avoid all high mercury content fish, and limit tuna consumption to
-  once per month max.
+  once per month max (avoiding mercury).  The rest of my family avoids
+  all high mercury content fish altogether.
 
-- I source the majority of my chicken, beef, pork chops, salmon, and
-  cod from [ButcherBox](https://www.butcherbox.com/).  If I buy meat
-  locally, I usually purchase [Step 4 or
-  better](https://www.wholefoodsmarket.com/quality-standards/meat-standards)
-  products.
+- We source the majority of my chicken, beef, pork chops, salmon, and
+  cod from [ButcherBox](https://www.butcherbox.com/).  If we buy meat
+  locally, we usually purchase [Step
+  4](https://www.wholefoodsmarket.com/quality-standards/meat-standards)
+  or better products.
 
 - Chicken
-  - I consume organic, free range, non-gmo chicken ([Butcher Box
+  - We consume organic, free range, non-GMO chicken ([Butcher Box
     FAQ](https://support.butcherbox.com/hc/en-us/articles/115015793928-Can-you-tell-me-about-your-chicken-))
 
 - Beef
-  - I consume grass raised and grass finished beef ([Butcher Box
+  - We consume grass raised and grass finished beef ([Butcher Box
     FAQ](https://support.butcherbox.com/hc/en-us/articles/360000094648-Can-you-tell-me-about-your-beef-))
 
   - Even though I consume a lot of fat in my diet (approx 70%) I will
-    consume 80%/20%, 85%/15%, and 90%/10% beef, but typically it's
-    85%/15%.  That said, if given a choice I'll eat leaner meat not
+    consume 80%/20%, 85%/15%, and 90%/10% bee (typically it's
+    85%/15%).  That said, if given a choice I'll eat leaner meat not
     because I'm trying to avoid fat, but as a way to provide me
     flexibility wrt how I add high quality fat to my meal (eg extra
     virgin olive oil, nuts, et al).
 
 - Salmon
-  - I consume wild vs farm raised
-  - Wild Alaskan Sockeye
+  - We consume wild vs. farm raised (omega 3/6 ratio)
+  - We consume Wild Alaskan Sockeye almost exclusively (high omega 3 content)
 
-- Sardines, Atlantic Mackeral, Albacore Tuna
-  - All sourced from [Wild Planet](https://wildplanetfoods.com/?utm_source=IMM&utm_medium=GG-Search&utm_term=115871110784&utm_content=wild%20planet&utm_campaign=11120638040&utm_a=115871110784)
+- Sardines, Atlantic Mackerel, Albacore Tuna
+  - All sourced from [Wild Planet](https://wildplanetfoods.com/?utm_source=IMM&utm_medium=GG-Search&utm_term=115871110784&utm_content=wild%20planet&utm_campaign=11120638040&utm_a=115871110784) (omega 3s)
+
+- Pork
+  - Humanely raised, crate free, non-gmo ([Butcher Box](https://support.butcherbox.com/hc/en-us/articles/115015713087-Can-you-tell-me-about-your-pork-))
 
 - Eggs
-  - I consume organic pasture raised eggs (typically sourced from
-    [Vital
-    Farms](https://www.cornucopia.org/scorecard/eggs/vital-farms))
-
-  - On the topic of eggs, recently I purchased a dozen organic pasture
-    raised eggs from a local farm (Clover) before verifying the farm's
-    rating on cornucopia.  Big mistake!  These eggs typically sell for
-    $7.29/dozen so they are expensive.  The shell of the first Clover
+  - We consume organic pasture raised eggs (typically sourced from
+    [Vital Farms](https://www.cornucopia.org/scorecard/eggs/vital-farms))
+  - Recently I purchased a dozen organic pasture raised eggs from
+    Whole Foods produced by local farm (Clover) before verifying the
+    farm's rating on cornucopia.  These eggs typically sell for
+    $7.29/dozen so they are expensive and I figured that meant high
+    quality local eggs.  Big mistake!  The shell of the first Clover
     egg I cracked was obviously far thinner than the Vital eggs I was
     used to, and the yellow/bland color of the yolk made it obvious
     that they were lower quality (less nutrients).  Here's a photo of
@@ -376,9 +413,46 @@ footprint.
 
     <img src="./images/eggs.png" alt="eggs" width="200"/>
 
+- Bacon
+  - Humanely raised, crate free, non-gmo ([Butcher Box](https://support.butcherbox.com/hc/en-us/articles/115015713087-Can-you-tell-me-about-your-pork-))
+  - I ate bacon in the early stages as I changed my diet but now eat
+    it far less infrequently although it's a valid option.
+  - The resr of my family eats bacon occasionally.
+  - We are very particular about the type of bacon we eat (no
+    nitrites/nitrates, no other added ingredients).  We typically
+    source our bacon from Butcher Box.
+  - Due to the studies correlating processed meat to cancer we've
+    dramatically lower our consumption level.
+
+- Hot dogs
+  - Due to the studies correlating processed meat to cancer we've
+    dramatically lower our consumption level.
+  - We eat these occasionally, like BBQ, sourced from Butcher Box.
+
+- Sandwich Meats
+  - I abstain altogether
+  - For my son, we upgraded our sandwich meat to a couple brands that
+    are very low carb (< 1g), contain no sugar, no added sugar, and
+    contain no non-natural ingredients.
+  - Due to the studies correlating processed meat to cancer we've
+    dramatically lowered his consumption.
 
 
-## Vegetables
+
+### Vegetables
+
+- Criteria:
+  - Be careful with high oxalate vegetables (Keto hydration challenges)
+  - Be careful with higher carb footprint leafy greens (keto)
+  - I refrain from all the starchy vegetables and other high carb footprint vegetables
+  - Add more vegetables to the diet
+  - Use vegetables as a key source of fiber, vitamins, and minerals
+
+- In general, although I ate a lot of salads for lunch before, I've
+  now massively increased my salad size, and the amount of vegetables
+  I consume daily, and they have become my goto food group that I
+  crave.  My family has also increased their vegetable uptake
+  dramatically (eg my son eats a salad w/dinner nightly now).
 
 - Leafy Greens
 
@@ -386,18 +460,28 @@ footprint.
     greens, and romaine in my salad.
 
   - I have used spinach and swiss chard historically, but I now
-    refrain from using them due to their high oxalate levels.
+    refrain from using them due to their high oxalate levels (although
+    I love them all).
 
   - I love kale as well, particularly dino, but it has a relatively
-    high carb footprint if you're building a large salad with it, so I
-    don't use it often.
+    high carb footprint if you're building a large salad with it (like
+    I do), so I now typically refrain from using kale.
 
   - I have used cabbage from time to time, but it has a high carb
     footprint as well.
 
-- Avocados (actually a fruit) are a key staple of my diet.
+  - The rest of my family uses either arugula, collared greens,
+    romaine, spinach, kale, and cabbage in their salads and they eat
+    salads with almost every dinner now.
 
-- My other vegetable staples are:
+- Avocados (actually a fruit) are a key staple of my diet.  I eat
+  atleast one full avocado a day (usually in my salad).
+
+- Lots of broccoli and cauliflower are pretty much daily staples in my
+  salad.  I eat them quasi raw (or slightly steamed/mildly heated) in
+  order to preserve their nutritional value.
+
+- My key set of vegetables are:
   - mushrooms
   - radish
   - broccoli
@@ -408,10 +492,13 @@ footprint.
   - serrano peppers
   - zucchini
 
-- On occasion I'll have tomatoes onions, carrots, peas, etal, but they
-  have a higher carb footprint.
+- I'll also have tomatoes, onions, carrots, peas, etal, but they have
+  a higher carb footprint so I don't eat them very frequently.  The
+  family eats these pretty consistently.
 
-- I avoid most most everything else including starchy vegetables.
+- I avoid most most everything else including starchy vegetables.  My
+  family consumes the starchy vegetables and the higher carb
+  vegetables occasionally.
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/02/Keto-vegetables-AG.jpg?auto=compress%2Cformat&w=1200&h=541&fit=crop)
 
@@ -421,21 +508,37 @@ footprint.
 
 
 
-## Fruits
+### Fruits
+
+- Criteria:
+  - Avoid fructose (non-alcoholic fatty liver disease)
+  - Avoid high carb foods (keto)
 
 - Generally speaking, due to their high carb content and the health
   issues associated with fructose/NAFLD, I simply have stopped
-  consuming fruits altogether.
-  - [#14 - Robert Lustig, M.D., M.S.L.: fructose, processed food, NAFLD, and changing the food system - Peter Attia](https://peterattiamd.com/roblustig/)
-  - [#87 - Rick Johnson, M.D.: Fructose—The common link in high blood pressure, insulin resistance, T2D, & obesity? - Peter Attia](https://peterattiamd.com/rickjohnson/)
+  consuming fruits altogether.  I used to eat a TON of fruit so this
+  was a major change, but health is so much more important.  The
+  family has reduced their fruit consumption quantity as well.
 
-- If I do consume fruit (delta avocado), it's one of the berries
-  (strawberry, blackberry, rasberry, or blueberry) due to their
-  relatively low carb footprint.
+- If I do consume fruit (delta avocado), it's one of the berries:
+  - strawberry
+  - blackberry
+  - raspberry
+  - blueberry
+  due to their relatively low carb footprint and other nutritional
+  properties.  However, it's pretty rare.
 
 - I will consume lemons in my water around mealtime on occasion as
   their acidity helps break down the calcium oxalates and aids in
   speeding up digestion which offsets their carb content.
+
+- My family consumes a greater amount of fruit than I do although
+  they've dramatically lowered their overall consumption.  In
+  addition, for the most part, we avoid the really high carb footprint
+  fruits like grapes.
+
+- We used to create fruit smoothies, we've discontinued that practice
+  as it really spikes the insulin levels (insulin management).
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/01/Keto-berries.jpg?auto=compress%2Cformat&w=1200&h=423&fit=crop)
 
@@ -443,64 +546,111 @@ footprint.
 
 
 
-## Dairy
+### Dairy
 
-- Long ago, I stopped consuming milk due to its high carb content
-  (lactose).
+- In general, I've increased my cheese consumption now that I need
+  good fats and I have a handle on the macro nutrient impact of what
+  I'm eating.  We've removed any/all processed cheese.  We are
+  fortunate in that we don't have any lactose intolerance.
 
-- I consume a lot of cheese (typically feta, parmesan, blue,
-  mozarella, mitica, manchego, gouda, or emmentaler).
+- I stopped consuming milk long ago due to its high carb content
+  (lactose, insulin management).  However, I was a habitual latte
+  consumer, and would also add milk/cream to my coffees.  I have
+  ceased drinking lattes (in fact they now taste too sweet as I've
+  lost some of my sweet tooth) and I drink coffee black (insulin
+  management and keto).
 
-- I cook in ghee or butter occasionally.
+- My son drinks milk to support his calcium growth RDA, but we've
+  upgraded to:
+  - whole milk (increased fat for improved insulin management)
+  - grass fed/grass finished source (omega 3/6 ratio,
+    vitamins/minerals)
+
+- We consume a lot of cheese (typically feta, parmesan, blue,
+  mozzarella, mitica, manchego, gouda, emmentaler, ...).
+
+- We improved the quality of our yogurt by changing to one that is
+  whole milk without added sugar.
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2020/10/Dairy_desktop.jpg?auto=compress%2Cformat&w=1200&h=583&fit=crop)
 
 
 
-## Nuts
+### Nuts
 
-- I consume raw nuts.
+- Criteria
+  - Raw
+  - Organic
+  - Lower carb
+  - Avoid high oxalates
 
-- I typically consume organic nuts.
+- In general, we've increased our consumption of nuts due to their
+  nutritional value.
 
-- I consume pecans, walnuts, coconut, and macadamia nuts (I avoid both
-  hazel and brazil nuts due to allergies).
+- We consume raw nuts (more antioxidants and vitamins).
 
-- Occasionally I'll consume the higher carb footprint nuts like
-  peanuts.
+- We typically consume organic nuts.
 
-- I refrain from all the other higher carb footprint nuts (like
-  pistacio and cashew).
+- I consume macadamia, pecans, walnuts, sometimes coconut (I avoid
+  both hazel and brazil nuts due to allergies).  I refrain from all
+  the other higher carb footprint nuts (like pistachio and cashew)
+  (keto).
+
+- I will consume higher carb footprint nuts like peanuts every
+  once in a while (keto).
+
+- The family also consumes peanuts, pistachios, and cashews.
 
 - I refrain from almonds due to high oxalates.
 
+- For the nut oils:
+  - I don't consume them due to their carb footprint.
+  - We upgraded out peanut butter brand (no added sugar, no
+    non-natural ingredients).
+  - We added sunflower butter and almond butter as healthier
+    alternatives to peanut butter and now use all three.
+
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/01/Keto%E2%80%93Nuts.jpg?auto=compress%2Cformat&w=1200&h=602&fit=crop)
 
-- Reference:
-  - [Nuts (Stan Ekberg)](https://www.youtube.com/watch?v=tdP9E9zkuXA&t=3s)
 
 
+### Seeds
 
-## Seeds
-
-- I consume low carbohydrate seeds as a mechanism to maintain minimum
-  daily fiber requirements and as a source of vitamins and minerals
-  including:
+- In general, I consume low carbohydrate seeds as a mechanism to
+  maintain minimum daily fiber requirements and as a source of
+  vitamins and minerals including:
   - chia seeds
   - flax seeds
   - pumpkin seeds
 
-- I frequently add stone ground mustard to my salads and burgers to
-  increase the spice.
-
-- Reference
-  - [Seeds (Stan Ekberg)](https://www.youtube.com/watch?v=pWd6iBYbJTQ&t=4s)
-
+- More recently, I obtain my fiber goal easily through my vegetable
+ intake so I have decreased my consumption of chia and flax seeds.  I
+ continue to use pumpkin seeds for the nutritional value (eg Mg) and
+ good fats.
 
 
-## Legumes, Grains, ...
 
-- I do not consume any breads, cereals, rice, et al.
+### Grains, Legumes, ...
+
+- In general, this is probably the area where the most change happened in the house!
+
+- My position here is simple.  I no longer consume any legume or grain
+  based food, nor will I ever again (keto, carbs, insulin issues, lack
+  of vitamins/minerals, ...).
+
+- As far as the rest of the family goes:
+  - We removed cereal from our pantry forever (life long ban).
+  - We removed several other processed food items that fall into the grain category.
+  - My wife decreased her consumption of rice, my son rarely consumes rice now.
+  - They have reduced their consumption of dal.
+  - They were never large pasta consumers, but there's less pasta consumed.
+  - They eat pizza cooked with cauliflower crust.
+  - They bake with either almond or cauliflower based flour (without added sugar).
+  - The make pancakes and waffles with either almond or cauliflower based flour.
+  - They eat tortillos that use cauliflower based flour.
+  - We improved the quality of our
+    [bread](https://www.amazon.com/Food-Life-Organic-Sprouted-Grain/dp/B000REY4MO?pd_rd_w=YIsVG&pf_rd_p=a1584eb5-51c5-4985-82f8-a9dd97c42360&pf_rd_r=MV9FXD12TGERSTQWB6WG&pd_rd_r=34937361-d46c-47bd-a2c2-3e4b00620356&pd_rd_wg=cpQJQ&pd_rd_i=B000REY4MO&fpw=alm&almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=pd_alm_wf_bap_d_fp_rp_1_18_t)
+    for our son's sandwiches (fewer netcarbs and much greater vitamin/mineral content).
 
 ![](https://i.dietdoctor.com/wp-content/uploads/2019/02/Peas-beans-corn-lentils-quinoa1.jpg?auto=compress%2Cformat&w=800&h=296&fit=crop)
 
@@ -508,47 +658,81 @@ footprint.
 
 
 
-## Snacks
+### Other
 
-- **Dark chocolate (80+%)**: Downside is dark chocolate has added
+- **Dark chocolate (85+%)**: Downside is dark chocolate has added
   sugar and thus relatively robust carb footprint and has high oxalate
-  content).
+  content).  That said, I used to frequently use a piece or two as my
+  desert, but I have lost most of my sweet cravings at this point.
 
-- **Keto Bites**: 0 netcarb
+- **Jelly**: This took a lot of research but we finally found a
+  [jelly](https://www.amazon.com/gp/product/B01E4UOFO8/ref=ppx_yo_dt_b_fresh_asin_image_o05?ie=UTF8&almBrandId=VUZHIFdob2xlIEZvb2Rz&fpw=alm)
+  we could rationalize putting on our son's peanut butter and jelly
+  sandwiches (contains only 8g of sugar, no added sugars, and no
+  fructose/corn syrup).  We don't use a lot, and he love sit.
+
+- **Bars**: Bars are processed, so in general, we've discontinued
+  using them much at all (I refrain from consuming them at all due to
+  their carb content).  However, given our outdoor hiking/climbing
+  activities there are occasions where we still use them.  Bars can be
+  really unhealthy in so many ways, added sugar and processing are the
+  two primary issues.  We've opted for bars with natural ingredients
+  without added sugars and are still evaluating different brands.
+
+- **Ice Cream**: We have begun trying Keto based ice cream that have
+  an extremely low amount of netcarbs per serving.
+
+
+# Fasting
+
+I typically use the term intermittent fasting but a lot of people
+divide this into two type of fasts:
+- Time Restricted Feeding: You have a window each day where you don't eat, and a window of time where you do eat
+- Fasting: More complex fasting techniques like multi-day fasts, one day on/one off, 5 days on/2 off, etc.
+
+Here I'm focused primarily on time restricted feeding (please research
+the details of all the implications upon your metabolism, insulin, et
+al).
 
 
 
-# Intermittent Fasting
-
-How do you get started???
+## How do you get started???
 
 Initially, I recommend removing all snacking between meals (simple
 insulin management).
 
 Find something to drink between meals that's calorie free in addition
-to water.  Typically that's black coffee or expresso (without
-milk/sugar), green tea, or black tea.  Anytime you get hungry between
-meals, drink water, make yourself coffee, or green tea.
+to water.  Typically that's black coffee, green tea, or black tea
+(I've found espresso tends to have carbs/calories).  Anytime you get
+hungry between meals, drink water, make yourself coffee, green tea, or
+black tea, and it'll quickly pass.
 
 On day one, I recommend starting out by alternating eating and fasting
 in 12 hour windows.  For example, eat between 8am and 8pm, three
 meals, without snacks between.  This should be trivial, and it's quite
-likely you can skip to the next phase.
+likely you will find it is easy to skip to the next phase (or skip
+this phase altogether).
 
-When you're comfortable with that, move to an 16/8 plan, eating during
-an 8 hour window and fasting during a 16 hour window.  For example,
-eat between 11am and 7pm, two meals, without snacks between, fast the
-remainder of the time.
+Next, move to an 16/8 plan, eating during an 8 hour window and fasting
+during a 16 hour window.  For example, eat between 11am and 7pm, two
+meals, without snacks between, fast the remainder of the time.  Simply
+try skipping breakfast, this is a popular option.
 
 When you're comfortable with that, move to an 18/6, 20/4, and/or 22/2
-plan, in phases as you are comfortable allowinug your body to adjust,
+plan, in phases as you are comfortable allowing your body to adjust,
 continuing along the same lines, eating two meals, trying to finish by
 7pm (as an example) (for good sleep you should finish 3 hours before
 you go to sleep).
 
 When you're comfortable with that, try one meal a day (OMAD),
 combining all your calories into a single meal, at say 5 or 6pm each
-day.
+day.  Give yourself atleast 3 hours from the time you're done eating
+until you lay done for sleep though.
+
+If you skip directly to one meal a day, or do it too quickly, you're
+going to feel overly bloated in that meal trying to consume all your
+calories.  Your body will adjust in time though.  In the meantime, you
+can space your OMAD meals apart by an hour or two.
 
 Here was my progression as an example:
 - On day 1 I stopped snacking between meals.
@@ -560,16 +744,16 @@ Here was my progression as an example:
 
 
 
-# One Meal a Day (OMAD)
+## What do I eat for OMAD?
 
 I basically combine my breakfast, lunch, and dinner into a single
-meal.
+meal, but eat pretty much the same things that I would normally if
+they were three different meals.
 
 My meal typically consists of:
-- Huge Salad: Staples include various leafy greens, avocado, mushrooms, radish, extra virgin olive oil, fish oil
-- Omelette: Staples include serrano peppers and hot salsa
-- Meat
-- Cheese
+- Large Omelette: My staples include serrano peppers and hot salsa
+- Large Salad: My staples include various leafy greens, an avocado, mushrooms, radish, extra virgin olive oil, fish oil
+- Meat/Vegetable
 
 The advantage of a salad and an omelette is they provide a lot of
 flexibility wrt mixing and combining different ingredients.  On
@@ -578,7 +762,7 @@ salad, and other times eat them separately.
 
 
 
-# Meal Prep
+## Meal Prep
 
 My meal prep process is pretty straightforward:
 
@@ -586,9 +770,9 @@ My meal prep process is pretty straightforward:
   meal prep.  This includes dicing mushrooms, radishes, et al.
 
 - I plan my meal ahead of time using a very custom built for purpose
-  spreadsheet so I know how much of what ingredients to prepare.  I
-  usually take an IPhone photo of my plan to recall all the details as
-  I'm preparing the meal.
+  spreadsheet so I know how much of what ingredients I'm going to
+  prepare.  I usually take an IPhone photo of my plan to recall all
+  the details to reference as I'm preparing the meal.
 
 - To keep things simple, I typically either use grams or tablespoons
   as the normalized unit.  Thus, ingredients like leafy greens,
@@ -597,84 +781,118 @@ My meal prep process is pretty straightforward:
   For other ingredients I'll plan using "N eggs", or "N squares of
   chocolate", etc.
 
-- Weighing ingredients should be done before they are cooked
-  (nutrition labels are based off the raw uncooked value).  By
-  example, meats are typically 75% of their size once cooked.
-
-- I put a 3 or 5qt salad bowl on my grams scale and as I add
-  ingredients to the salad, I add them directly into the salad bowl,
-  zeroing out (taring) the scale after each addition, so I don't have
-  to measure the ingredients separately.  This speeds everything up.
+- I put 5qt salad bowl on my grams scale and as I add ingredients to
+  the salad, I add them directly into the salad bowl, zeroing out the
+  scale after each addition, so I don't have to measure the
+  ingredients separately.
 
 - I put a small pot on the scale and add broccoli and/or cauliflower
-  (when using those vegetables), taring as I go, then add water, and
-  warm up or boil the vegetables, strain, and dump them directly into
-  the salad.  Recently I just warm them up a bit, as boiling removes
-  some portion of the nutrients.
+  (when using those vegetables), zeroing it out as I go, then add
+  water, and warm up the vegetables, strain, and dump them directly
+  into the salad.
 
-- I put coconut oil and serrano pepers in an omelette pan, and then
-  add eggs for the omelette, and when it's nearly done cooking I add
-  the salsa (I like it hot).  At times I add the omelette directly to
-  the salad.
+- I add coconut oil to an omelette pan and sautee serrano peppers and
+  then add eggs for my omelette, and when it's nearly done cooking I
+  add hot salsa (I like it hot).  At times I add the omelette directly
+  to the salad.
 
-- Separately I cook the meat and/or other vegetables.  At times I add
-  those directly to the salad.
+- Separately I (or my wife) cook the meat and/or other vegetables.  At
+  times I add those directly to the salad as well.
 
 Here's a concrete meal preparation example:
 
 - Salad
   - Put a 5qt bowl on the scale, tare it
   - Add 100g of collard greens into the bowl
-  - Add 100g of romaine (scale says 200g)
-  - Add 145g of baby arugula (scale says 345g), tare the scale
+  - Add 160g of romaine
+  - Add 145g of baby arugula
   - Add 100g of diced white mushrooms
-  - Add 100g of diced radish (scale will say 200g), tare the scale
+  - Add 100g of diced radish
   - Add 140g of avocado (~ medium avocado)
   - Add 4tbsp of extra virgin olive oil
-  - Add 3tbsp of stone ground mustard to salad
-  - Put a small boiling pan on the scale, tare the scale
-  - Add 100g broccoli
-  - Add 100g cauliflower (scale will say 200g)
-  - Add water to the top of the vegetables, bring the pan to a boil, strain water
+  - Add 0.5tbsp of omega-3 fish oil
+  - Add 3tbsp of stone ground mustard
+  - Put a small boiling pan on the scale
+  - Add 150g broccoli
+  - Add 150g cauliflower
+  - Add water to the top of the vegetables, heat the vegetables up (I don't boil), strain
   - Dump the broccoli and cauliflower into the salad
   - Mix and toss
 - Omelette
   - Add 1tbsp coconut oil to an omelette pan, melt it on low/medium
-  - Add 4 diced serrano peppers, sautee lightly
+  - Add 5 diced serrano peppers, sautee
   - Add 5 eggs, cook over low/medium
   - Add 3tbsp salsa
-  - Add 1tbsp of green pepper sauce
+  - Optionally add this to the salad
 - Meat
-  - Broil 200g of trip tip steak
+  - Broil 200g of chicken
+  - Optionally add this to the salad
 
 
 
-# Macros
+## Breaking a Multi-Day Fast
 
-In order to keep me on track I have an advanced spreadsheet that
-allows me to determine what my daily goals are for calories, fat,
+This is simply some of my notes on a multi-day fast.  A work in progress...
+
+- Beware of refeeding syndrome
+  - Raising insulin levels quickly will shift the balance of electrolytes
+  - No carbs: Important to keep insulin levels low (otherwise electrolyte syndrome)
+- Digestive system
+  - Less mucous lining in your stomach
+- Reintroduce food with protein
+- No salt when breaking the fast
+- Small portions
+- Thiamine: Metabolization of Carbs requires Thiamine
+  - Lean salmon, lean chicken, lean turkey, lean pork (also high phosphorous)
+- Fats
+  - Digestive enzymes are broken down, and it's harder to digest
+  - MCT oil is an option as it doesn't require breakdown
+  - Saturated fats are hard to break down
+  - Mono are pretty hard to break down
+  - Poly are easier to break down
+- No raw veggies in 24 hours
+- Avoid oxalates for two days
+- Steamed vegetables are good
+- No nuts (w/the exception of macadamia)
+
+
+
+# Keto
+
+The Keto part of my health lifestyle is essentially focused on keeping
+my net carbohydrate consumption below 20 grams per day.  Doing so
+prevents my insulin from spiking as a result of the single meal I eat
+each day.
+
+## Setting Macro Consumption Goals
+
+In order to keep me on track I have an fit for purpose spreadsheet
+that allows me to determine what my daily goals are for calories, fat,
 fiber, netcarbs, and protein.  These goals are all based off a bunch
 of calculations based on my height, weight, age, weight, body fat %,
-amount of exercise, and general activity level.
+amount of exercise, and activity level.
 
-Here's a summary of how I set my daily consumption goals:
+Here's a summary of my spreadsheet calculates my daily macro
+consumption goals:
 
 - **Fiber**: My minimum fiber goal is set to 14 grams per 1000
-  calories consumed.
+  calories consumed.  I hit my fiber goal daily (non-negotiable).
 
 - **Netcarbs**: My maximum netcarbs is set to 20 grams.  This is a
   critical cornerstone of my health plan - the goal being to manage my
-  insulin resistance and avoid large insulin spikes.
+  insulin resistance and avoid large insulin spikes.  I stay below my
+  netcarb goal daily (non-negotiable).
 
 - **Protein**: Consuming less protein than you require will result in
-  muscle loss which you certainly do not want.  Consuming more protein
-  than you require potentially results in insulin spikes which you are
-  also trying to avoid.  To dial in the proper amount I use a formula
-  where my daily protein requirement is a function of grams of protein
-  per kilograms of lean body mass (g/lbm kg).  I determine my lean
-  body using my weight and body fat.  I then determine the appropriate
+  muscle loss which you certainly don't want.  Consuming more protein
+  than you require raises insulin levels which you are also trying to
+  avoid.  To dial in the proper amount I use a formula where my daily
+  protein requirement is a function of grams of protein per kilograms
+  of lean body mass (g/kg lbm).  I derive my lean body daily using my
+  weight and body fat percentage.  I then determine the appropriate
   number of grams based on my current activity level using the
   following as a guide:
+
   - Sedentary (generally physically inactive): 0.5g per kg lbm
   - Light activity (includes walking or gardening): 0.6g per kg lbm
   - Moderate (30 minutes of moderate activity, thrice weekly): 0.7g per kg lbm
@@ -682,18 +900,19 @@ Here's a summary of how I set my daily consumption goals:
   - Very active (10 to 20 hours of exercise weekly): 0.9g per kg lbm
   - Athlete (over 20 hours of exercise weekly): 1.0g per kg lbm
 
-- **Fat**: The remaining calories I require need to come from the fat
-  bucket.
+- **Fat**: The remaining calories I require come from the fat bucket.
 
 Application of the above algorithm has resulted in a macro split
-roughly as follows:
+roughly as follows (which happens to align with various Keto dietary
+models although I've built my from the ground up using first
+principles):
 - 75% of calories from fat
 - 20% of calories from protein
 - 5% of calories from netcarbs
 
 
 
-# Water
+## Hydration
 
 Getting enough water per day is critical particularly if you are on a
 low carb routine.  Failure will result in kidney stones!  I use the
@@ -708,10 +927,10 @@ I captured these details from a summary of Matt Walker's book on [fastlifehacks.
 
 1. **Stick to a sleep schedule**: We should aim to go to bed and wake up at the same time each day. People generally have a hard time adjusting to changes in sleep patterns. Unfortunately sleeping late on weekends doesn’t make up for poor sleep during the week. If necessary, set an alarm for bedtime. Matthew emphasizes this is the #1 priority from the list; stick to a regular sleep schedule.
 2. **Don’t exercise too late in the day**: Exercise is great, and we should try to exercise at least 30 minutes on most days. But try to time it no later than 2-3 hours before bed.
-3. **Avoid caffeine & nicotine**: Colas, coffee, teas (that aren’t herbal) and chocolate contain caffeine, which is a stimulant. Even consuming these in the afternoon can have an affect on your sleep. Nicotine is also a mild stimulant, and smokers will often wake up earlier than they would otherwise, due to nicotine withdrawal.
+3. **Avoid caffeine & nicotine**: Colas, coffee, teas (that aren’t herbal) and chocolate contain caffeine, which is a stimulant. Even consuming these in the afternoon can have an effect on your sleep. Nicotine is also a mild stimulant, and smokers will often wake up earlier than they would otherwise, due to nicotine withdrawal.
 4. **Avoid alcoholic drinks before bed**: The presence of alcohol in the body can reduce your REM sleep, keeping you in the lighter stages of sleep.
-5. **Avoid large meals and beverages late at night**: A lights snack before bed is okay, but a heavy meal can cause digestive issues, which interferes with sleep. Drinking too many fluids can cause freuqent awakenings to urinate.
-6. **Avoid medicines that delay or disrupt your sleep (where possible)**: Some commonly prescribed heart, blood pressure or asthma medications, as well as some over the counter and herbal medicines for coughs colds or allergies can disrupt sleep patterns. If you have trouble sleeping, it may be worth speaking to your doctor or pharmacist to see if any of the drugs you’re taking may be contributing to this. It may be possible to take them earlier in the day.
+5. **Avoid large meals and beverages late at night**: A light snack before bed is okay, but a heavy meal can cause digestive issues, which interferes with sleep. Drinking too many fluids can cause freuqent awakenings to urinate.
+6. **Avoid medicines that delay or disrupt your sleep (where possible)**: Some commonly prescribed heart, blood pressure or asthma medications, as well as some over the counter and herbal medicines for coughs, colds, or allergies can disrupt sleep patterns. If you have trouble sleeping, it may be worth speaking to your doctor or pharmacist to see if any of the drugs you’re taking may be contributing to this. It may be possible to take them earlier in the day.
 7. **Don’t nap after 3pm**: Naps are great, but taking them too late in the day can make it hard to fall asleep at night.
 8. **Make sure to leave time to relax before bed**: It’s important to have time before bed to unwind. Try to schedule your days so that there is time to relax before bed.
 9. **Take a hot bath before bed**: The drop in body temperature after a bath may help you to feel sleepy, and the bath can help you to slow down and relax before bed.
@@ -725,53 +944,25 @@ I captured these details from a summary of Matt Walker's book on [fastlifehacks.
 
 
 
-# Wearables
+# Mistakes
 
-- [Garmin Fenix 6](https://www.amazon.com/Garmin-Multisport-Altitude-Adjusted-Training/dp/B07VVM1VM6/ref=asc_df_B07VVM1VM6/?tag=hyprod-20&linkCode=df0&hvadid=366280934115&hvpos=&hvnetw=g&hvrand=10161341847180990216&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031975&hvtargid=pla-816740698777&psc=1&tag=&ref=&adgrpid=74513438845&hvpone=&hvptwo=&hvadid=366280934115&hvpos=&hvnetw=g&hvrand=10161341847180990216&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031975&hvtargid=pla-816740698777): Useful to know exercise calories burned per activity/day
-- [Oura Ring](https://ouraring.com)
-- [Dexcom G6 Continuous Glucose Monitor](https://www.dexcom.com/get-started-cgm/52?sfc=701f30000018viWAAQ&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nZjw4iIvf0moKynKFiXebZrGWK-Ui23j1129jlXwUX4p-IOe6gQnUxoCjN4QAvD_BwE)
-- more to come...
+Here's a list of mistakes I REMEMBER making:
 
+- **Hydration**: Carbohydrates apparently attract water molecules so
+  the less you have in your system the less water is retained.  As a
+  result, it's fairly easy (individual dependent of course) to
+  generate kidney stones.  This happened to me.  Thus, I'm pretty
+  religious now about my daily water consumption goals.
 
+- **Weighing Food**: I learned that nutrition labels apply to the food
+  before you cook it.  Chicken, Beef, etc, usually shrink by 25% when
+  you cook them, so weighing after the fact is fine as long as you
+  adjust.  The nutrition label of an avocado is based on the weight of
+  the avocado including the peel and the seed.
 
-# Testing
+- **Oxalates**: For a long while I was eating a lot of high oxalate
+  leafy vegetables in my large salads (spinach & chard).
 
-- [Inside Tracker](https://www.insidetracker.com)
-- more to come...
-
-
-
-# Reference
-
-- Total Energy Expenditure is the sum of
-  - Basil metabolic rate (BMR)
-  - Thermogenic effect of food
-  - Non-exercise activity (thermogenesis)
-  - Excess post exercise oxygen consumption
-  - Exercise
-- Calorie: Foods are burned in a lab and energy released is measured as calories
-- Hormones
-  - [Insulin](https://www.yourhormones.info/hormones/insulin): Insulin is a hormone made by an organ located behind the stomach called the pancreas. There are specialised areas within the pancreas called islets of Langerhans (the term insulin comes from the Latin insula that means island). The islets of Langerhans are made up of different type of cells that make hormones, the commonest ones are the **beta cells**, which produce insulin.  Insulin is then released from the pancreas into the bloodstream so that it can reach different parts of the body. Insulin has many effects but mainly it controls how the body uses carbohydrates found in certain types of food. Carbohydrates are broken down by the human body to produce a type of sugar called glucose. Glucose is the main energy source used by cells. Insulin allows cells in the muscles, liver and fat (adipose tissue) to take up this glucose and use it as a source of energy so they can function properly. Without insulin, cells are unable to use glucose as fuel and they will start malfunctioning. Extra glucose that is not used by the cells will be converted and stored as fat so it can be used to provide energy when glucose levels are too low. In addition, insulin has several other metabolic effects (such as stopping the breakdown of protein and fat).
-  - [Cortisol](https://www.yourhormones.info/hormones/cortisol): Cortisol is a steroid hormone, one of the glucocorticoids, made in the cortex of the adrenal glands and then released into the blood, which transports it all round the body. Almost every cell contains receptors for cortisol and so cortisol can have lots of **different actions depending on which sort of cells it is acting upon**. These effects include controlling the **body’s blood sugar levels** and thus regulating metabolism, acting as an **anti-inflammatory**, influencing **memory formation**, **controlling salt and water balance**, influencing **blood pressure** and helping **development of the foetus**. In many species cortisol is also responsible for triggering the processes involved in giving birth.  A similar version of this hormone, known as corticosterone, is produced by rodents, birds and reptiles.
-  - [Leptin](https://www.yourhormones.info/hormones/leptin): Regulates body fat.  Leptin is a hormone released from fat cells in adipose tissue. Leptin signals to the brain, in particular to an area called the hypothalamus. Leptin does not affect food intake from meal to meal but, instead, acts to alter food intake and control energy expenditure over the long term. Leptin has a more profound effect when we lose weight and levels of the hormone fall. This stimulates a huge appetite and increased food intake. The **hormone helps us to maintain our normal weight** and unfortunately for dieters, makes it hard to lose those extra pounds!
-  - [Ghrelin](https://www.yourhormones.info/hormones/ghrelin): Regulates hunger.  Ghrelin is a hormone that is produced and released mainly by the stomach with small amounts also released by the small intestine, pancreas and brain.  Ghrelin has numerous functions. It is termed the ‘hunger hormone’ because **it stimulates appetite**, increases food intake and promotes fat storage. When administered to humans, ghrelin increases food intake by up to 30%; it circulates in the bloodstream and acts at the hypothalamus, an area of the brain crucial in the control of appetite. Ghrelin has also been shown to act on regions of the brain involved in reward processing such as the amygdala.  Ghrelin also stimulates the release of growth hormone from the pituitary gland, which, unlike ghrelin itself, breaks down fat tissue and causes the build-up of muscle.  Ghrelin also has protective effects on the cardiovascular system and plays a role in the control of insulin release.
-  - [Peptide YY](https://www.yourhormones.info/hormones/peptide-yy): Regulates satiety.  The full name for peptide YY is pancreatic peptide YY. It is a hormone that is secreted from endocrine cells called L-cells in the small intestine. There are two major forms of the peptide; one is 36 amino acids long (PYY1-36) and the other lacks the first two amino acids (PYY3-36). It is secreted alongside the hormone glucagon-like peptide 1. Peptide YY is released after eating, circulates in the blood and works by binding to receptors in the brain. Binding of peptide YY to brain receptors **decreases appetite and makes people feel full after eating**. Peptide YY also acts in the stomach and intestine to slow down the movement of food through the digestive tract.
-  - [Cholecystokinin](https://www.yourhormones.info/hormones/cholecystokinin): Regulates satiety.  Cholecystokinin is produced by I-cells in the lining of the duodenum and is also released by some neurons in the brain. It acts on two types of receptors found throughout the gut and central nervous system.  The most recognised functions of this hormone are in digestion and appetite. It improves digestion by slowing down the emptying of food from the stomach and stimulating the production of bile in the liver as well as its release from the gall bladder. Bile acts like a detergent making the fat droplets smaller so that enzymes can break it down more easily. Cholecystokinin also increases the release of fluid and enzymes from the pancreas to break down fats, proteins and carbohydrates.  Cholecystokinin seems to be involved with appetite by **increasing the sensation of fullness in the short-term, that is, during a meal** rather than between meals. It may do this by affecting appetite centres in the brain as well as delaying emptying of the stomach. However, more research is needed to confirm this finding.  There is also evidence to suggest that cholecystokinin may have a role in anxiety and panic disorders. This is an effect of cholecystokinin released in the brain, not an effect of secretion from other parts of the body.
-  - [Glucagon](https://www.yourhormones.info/hormones/glucagon): Glucagon is a hormone that is involved in controlling blood sugar (glucose) levels. It is produced by the alpha cells, found in the islets of Langerhans, in the pancreas, from where it is released into the bloodstream. The glucagon-secreting alpha cells surround the insulin-secreting beta cells, which reflects the close relationship between the two hormones.  Glucagon’s role in the body is to prevent blood glucose levels dropping too low. To do this, it acts on the liver in several ways:  It **stimulates the conversion of stored glycogen (stored in the liver) to glucose**, which can be released into the bloodstream. This process is called **glycogenolysis**.  It promotes the production of glucose from amino acid molecules. This process is called gluconeogenesis.  It reduces glucose consumption by the liver so that as much glucose as possible can be secreted into the bloodstream to maintain blood glucose levels.  Glucagon also acts on adipose tissue to stimulate the breakdown of fat stores into the bloodstream
-- Process
-  - [De novo lipogenesis](tbd): Glucose to fat conversion
-  - [Glycogenesis](https://en.wikipedia.org/wiki/Glycogenesis): Glucose to liver based glycogen
-  - Glycogenolysis
-- Organs/Glands
-  - [Pancreas](https://www.yourhormones.info/glands/pancreas): The pancreas carries out two important roles:  It makes digestive juices, which consist of powerful enzymes. These are released into the small bowel after meals to break down and digest food.  It makes hormones that control blood glucose levels.  The pancreas produces hormones in its 'endocrine' cells. These cells are gathered in clusters known as islets of Langerhans and monitor what is happening in the blood. They then can release hormones directly into the blood when necessary. In particular, they sense when sugar (glucose) levels in the blood rise, and as soon as this happens the cells produce hormones, particularly insulin. Insulin then helps the body to lower blood glucose levels and 'store' the sugar away in fat, muscle, liver and other body tissues where it can be used for energy when required.  The pancreas is very close to the stomach. As soon as food is eaten, the pancreas releases digestive enzymes into the bowel to break food down. As the food is digested, and nutrient levels in the blood rise, the pancreas produces insulin to help the body store the glucose (energy) away. Between meals, the pancreas does not produce insulin and this allows the body to gradually release stores of energy back into the blood as they are needed.   Glucose levels remain very stable in the blood at all times to ensure that the body has a steady supply of energy. This energy is needed for metabolism, exercise and, in particular, to fuel the parts of the brain that 'run' on glucose. This makes sure that the body doesn't starve between meals.
-  - [Kidneys](https://www.yourhormones.info/glands/kidneys/): The kidneys have a number of roles in the body; The kidneys ensure that the **make-up and volume of the fluids in the body is correct**. They help control the **chemical balance of the blood** and **regulate the body's level of sodium, potassium and calcium**. The kidneys **remove waste products and excess water from the body** and so help to **regulate blood pressure**. They **activate vitamin D**, which helps to maintain strong bones. They **produce erythropoietin, a hormone that is vital for the production of red blood cells**. Each kidney contains 1.0–1.5 million small tubes called nephrons. The kidneys filter blood through a network of small blood vessels called the glomerulus. This produces a solution that then flows through the nephrons. As this fluid passes through the nephron, substances that the body wants to retain (such as sodium, potassium, proteins and most of the water) are re-absorbed back into the blood. The substances that need to be removed from the body, such as waste products including the remains of drugs and alcohol, are retained in the fluid and removed from the body in the form of urine. The kidneys filter around 200 litres of blood a day and produce between one to two litres of urine.
-  - Liver:
-- Insulin Cycle
-  - Consume carbohydrates
-  - More glucose in our blood stream than we can currently use
-  - Pancreas up regulates insulin (half life of only 2-3 minutes)
-  - Insulin signals the cells to uptake the glucose for storage for later use
-  - Glucose is stored as glycogen in the liver (glycogensis)
-  - Once full, glucose is stored as triglycerides in fat tissue (de nova lipogenesis)
-  - Glucogen can be quickly supplied to the body by the liver when glucose is unavailable in the blood stream, but the amount is limited
-  - Glucose is available from the fat stores but it is more difficult to access
+- **Stevia**: I was adding Stevia to my black tea for a while because
+  it doesn't increase blood sugar levels, but what I learned later was
+  that it does in fact increase insulin levels.
