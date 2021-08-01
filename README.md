@@ -921,6 +921,15 @@ minimum.
 
 
 
+# Exercise
+
+While I was really focused on losing weight and getting healthier I
+logged a minimum of 12,000 steps per day.  I used that time typically
+to listen to podcasts and books about nutrition and health.  If you
+have the time in the day to do this, I can't recommend it enough.
+
+
+
 # Sleep
 
 I captured these details from a summary of Matt Walker's book on [fastlifehacks.com](fastlifehacks.com):
