@@ -113,6 +113,8 @@ quick list:
 
 ### Books
 * [The Obesity Code (Jason Fung)](https://www.amazon.com/The-Obesity-Code-Dr-Jason-Fung-audiobook/dp/B01MRKEO0U/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+* [The Diabetes Code (Jason Fung)](https://www.amazon.com/The-Diabetes-Code-Dr-Jason-Fung-audiobook/dp/B07BR3LZW7/ref=sr_1_2?dchild=1&gclid=CjwKCAjwjJmIBhA4EiwAQdCbxlFwLssM3Yq84EaD-SU8dzxKmOG08Uf42218_PwBEf5wVxXe4tDVNBoCAIMQAvD_BwE&hvadid=190507101721&hvdev=c&hvlocphy=9031975&hvnetw=g&hvqmt=e&hvrand=8135077100042644456&hvtargid=kwd-296811089911&hydadcr=15496_9860510&keywords=the+diabetes+code&qid=1627845590&sr=8-2)
+* [The Cancer Code (Jason Fung)](https://www.amazon.com/dp/B084RGT3H4?plink=flWCd4fbYNdfDg0X&ref=adblp13nvvxx_0_0_im)
 * [Why We Get Sick (Benjamin Bikman)](https://www.amazon.com/Why-We-Get-Sick-Epidemic/dp/B0899DP434/ref=sr_1_1?dchild=1&keywords=why+we+get+sick&qid=1624560739&s=audible&sr=1-1)
 * [The Case for Keto (Gary Taubes)](https://www.amazon.com/s?k=the+case+for+keto&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nWYZi4rZGM5JfbvnAX46KVCXwmrUBM9ZYAkBmxm7A-aWdpONarFzbhoCw_AQAvD_BwE&hvadid=416744105949&hvdev=c&hvlocphy=9031975&hvnetw=g&hvqmt=e&hvrand=10029320316729189384&hvtargid=kwd-871459532323&hydadcr=22536_9636733&tag=googhydr-20&ref=pd_sl_7q2cbifsgv_e)
 * [Why We Sleep (Matthew Walker)](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
