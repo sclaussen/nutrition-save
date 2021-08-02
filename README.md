@@ -766,6 +766,11 @@ salad, and other times eat them separately.
 
 ## Meal Prep
 
+Here's a [20 minute video of me preparing one of my
+meals](https://youtu.be/Zhpz1kxNLD8).  Sorry for the low quality
+video, but I thought it might be simplest to watch how I do it vs
+read!
+
 My meal prep process is pretty straightforward:
 
 - I typically prep all my vegetables ahead of time to speed up the
